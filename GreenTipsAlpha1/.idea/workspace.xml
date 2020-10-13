@@ -15,16 +15,6 @@
   <component name="ChangeListManager">
     <list default="true" id="779d14a6-93ec-4aeb-a349-4e60eb2aca22" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/about.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/about.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/choose_category.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/choose_category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/choose_lang.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/choose_lang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/help.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/help.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/schedule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_category.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_choose_category.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_transport_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_transport_tips.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/slide_functionality.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/slide_functionality.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
