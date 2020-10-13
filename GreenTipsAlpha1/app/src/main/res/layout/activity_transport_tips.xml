@@ -4,21 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".choose_lang">
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="395dp"
-        android:layout_height="wrap_content"
-        android:background="@drawable/greenback"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    android:background="@drawable/greenback"
+    tools:context=".transportTips">
 
     <TextView
         android:layout_width="313dp"
         android:layout_height="59dp"
         android:layout_marginStart="40dp"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="150dp"
         android:enabled="false"
         android:text="@string/chooseTip"
         android:textColor="#145317"
@@ -27,34 +20,51 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:layout_width="313dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="200dp"
+        android:gravity="center"
+        android:enabled="false"
+        android:text="@string/transport"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <ScrollView
-        android:id="@+id/scrollViewLTransport"
+        android:id="@+id/scrollViewTransport"
         android:layout_width="400dp"
-        android:layout_height="420dp"
-        android:layout_marginTop="280dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="250dp"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
         <LinearLayout
-            android:id="@+id/scrollLayoutTransport"
-            android:layout_width="350dp"
-            android:layout_height="800dp"
-            android:layout_marginTop="360dp"
+            android:id="@+id/scrollLayoutHousehold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:orientation="vertical">
+            android:layout_marginTop="370dp"
+            android:orientation="vertical"
+            app:layout_constraintTop_toTopOf="parent">
 
             <Button
-                android:id="@+id/tip1"
-                android:alpha="0.7"
+                android:id="@+id/transporttip1"
+                android:onClick="goToTransportSlide"
+                android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
-                android:text="@string/transporttip1" />
+                android:text="@string/shorttransporttip1" />
 
             <Button
-                android:id="@+id/tip2"
+                android:id="@+id/transporttip2"
+                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -63,7 +73,8 @@
                 android:text="@string/transporttip2" />
 
             <Button
-                android:id="@+id/tip3"
+                android:id="@+id/transporttip3"
+                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -72,7 +83,8 @@
                 android:text="@string/transporttip3" />
 
             <Button
-                android:id="@+id/tip4"
+                android:id="@+id/transporttip4"
+                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -81,7 +93,8 @@
                 android:text="@string/transporttip4" />
 
             <Button
-                android:id="@+id/tip5"
+                android:id="@+id/transporttip5"
+                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -90,7 +103,8 @@
                 android:text="@string/transporttip5" />
 
             <Button
-                android:id="@+id/tip6"
+                android:id="@+id/transporttip6"
+                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -99,18 +113,46 @@
                 android:text="@string/transporttip6" />
 
             <Button
-                android:id="@+id/tip7"
+                android:id="@+id/transporttip7"
+                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="25dp"
-
                 android:text="@string/transporttip7" />
 
 
         </LinearLayout>
     </ScrollView>
+
+    <Button
+        android:id="@+id/homebutton"
+        android:alpha="0.8"
+        android:background="@drawable/homebutton"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:onClick="returnHome"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginStart="80dp" />
+
+    <Button
+        android:id="@+id/undo"
+        android:alpha="0.8"
+        android:background="@drawable/undo"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:onClick="returnActivity"
+        android:layout_gravity="center"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="80dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

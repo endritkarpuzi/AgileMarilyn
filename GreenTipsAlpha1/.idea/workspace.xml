@@ -13,7 +13,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="779d14a6-93ec-4aeb-a349-4e60eb2aca22" name="Default Changelist" comment="" />
+    <list default="true" id="779d14a6-93ec-4aeb-a349-4e60eb2aca22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,23 +57,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1hsnjQn9qnHBdIeyRtPruAb1hnu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_API_30" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-23T16:12:17.774Z" />
     <property name="ResourceManagerPrefKey.ResourceType" value="COLOR" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AgileMarilyn/AgileMarilyn/GreenTips" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.-1987027720">
+    <key name="android.template.-1180833002">
       <recent name="com.example.greentipsalpha1" />
     </key>
     <key name="android.template.-733805616">
@@ -80,7 +85,13 @@
     <key name="android.template.1786651533">
       <recent name="com.example.greentipsalpha1" />
     </key>
+    <key name="android.template.-1058472040">
+      <recent name="com.example.greentipsalpha1" />
+    </key>
     <key name="android.template.1557719445">
+      <recent name="com.example.greentipsalpha1" />
+    </key>
+    <key name="android.template.-1987027720">
       <recent name="com.example.greentipsalpha1" />
     </key>
     <key name="android.template.-190514228">
@@ -169,10 +180,14 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601859557092">
+    <state x="552" y="178" key="#Notifications" timestamp="1601913291367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601859557092" />
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1601913291367" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602610654583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602610654583" />
     <state x="934" y="278" key="AndroidCreateResourceDirectoryDialog" timestamp="1600809662122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -181,42 +196,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601832768998" />
-    <state x="818" y="332" key="AndroidCreateXmlResourceDialog" timestamp="1601858834117">
+    <state x="956" y="252" key="AndroidCreateXmlResourceDialog" timestamp="1601928102961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="818" y="332" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601858834117" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601857528159">
+    <state x="956" y="252" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601928102961" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602598571843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601857528159" />
-    <state width="1340" height="281" key="GridCell.Tab.0.bottom" timestamp="1601833914249">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602598571843" />
+    <state width="1877" height="297" key="GridCell.Tab.0.bottom" timestamp="1602611766386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601833914249" />
-    <state width="1340" height="281" key="GridCell.Tab.0.center" timestamp="1601833914249">
+    <state width="1877" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602611766386" />
+    <state width="1877" height="297" key="GridCell.Tab.0.center" timestamp="1602611766386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601833914249" />
-    <state width="1340" height="281" key="GridCell.Tab.0.left" timestamp="1601833914249">
+    <state width="1877" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602611766386" />
+    <state width="1877" height="297" key="GridCell.Tab.0.left" timestamp="1602611766385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601833914249" />
-    <state width="1340" height="281" key="GridCell.Tab.0.right" timestamp="1601833914249">
+    <state width="1877" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602611766385" />
+    <state width="1877" height="297" key="GridCell.Tab.0.right" timestamp="1602611766386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601833914249" />
+    <state width="1877" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602611766386" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1601835478944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601835478944" />
-    <state x="612" y="100" width="1215" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600878214886">
+    <state x="612" y="100" width="1215" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601929211939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="612" y="100" width="1215" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600878214886" />
-    <state x="915" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1601856361591">
+    <state x="612" y="100" width="1215" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601929211939" />
+    <state x="915" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1602598557599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="915" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601856361591" />
+    <state x="915" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602598557599" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1601858621382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

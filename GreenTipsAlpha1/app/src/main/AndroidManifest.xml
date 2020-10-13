@@ -9,18 +9,33 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".slidetips"/>
+
+        <activity android:name=".slidecreatortransport"/>
+        <activity android:name=".slidecreatoroutdoors"/>
+        <activity android:name=".slidecreatorsocial"/>
+        <activity android:name=".slidecreatorworklife"/>
+        <activity android:name=".slidecreatorhousehold"/>
+
+        <activity android:name=".socialTips" />
+        <activity android:name=".outdoorsTips" />
+        <activity android:name=".worklifeTips" />
+        <activity android:name=".householdTips" />
+
         <activity
             android:name=".schedule"
             android:windowSoftInputMode="adjustPan" />
+
         <activity android:name=".splashscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".transportTips" />
+
+        <activity
+            android:name=".transportTips"
+            android:windowSoftInputMode="adjustNothing" />
+
         <activity android:name=".choose_category" />
         <activity android:name=".help" />
         <activity android:name=".about" />
