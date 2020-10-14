@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">GreenTips</string>
-    <string name="transporttip2">Gå för korta resor</string>
     <string name="aboutButton">Om</string>
-    <string name="help">Hjälp</string>
     <string name="chooseCat">Välj en kategori</string>
     <string name="chooseLang">Välj ett språk</string>
     <string name="espanol">Español</string>
@@ -16,4 +14,34 @@
     <string name="category">Kategori</string>
     <string name="reminders">Påminnelse</string>
     <string name="string_green_tips">Gröna Tips</string>
+    <string name="transport" translatable="false">Transport</string>
+    <string name="outdoors">Friluftsliv</string>
+    <string name="worklife">Arbetsliv</string>
+    <string name="household">Hushåll</string>
+    <string name="sociallife">Socialt liv</string>
+    <string name="chooseTip" translatable="false">Välj ett tips</string>
+    <string name="shorttransporttip1" translatable="false">Gå för korta resor</string>
+    <string name="transporttip1">Gå för korta resor.
+        \n\nAtt promenera hjälper till att både minska kroppsfett, minska blodtryck och är också gratis.
+        Det tar också mindre tid än vad man tror.
+
+        \n\nStudier visar att många överskattar tiden det tar att promenera jämfört med en bilresa.</string>
+    <string name="name_reminder">Välj ett namn</string>
+    <string name="button_schedule_set">OK</string>
+    <string name="button_schedule_cancel">Avbryt</string>
+    <string name="arabic" translatable="false">العربية.</string>
+    <string name="contact_form">Kontakta oss</string>
+    <string name="contact_form_name">Ditt namn</string>
+    <string name="contact_form_email">Din e-mail</string>
+    <string name="contact_form_subject">Ämne</string>
+    <string name="contact_form_message">Meddelande</string>
+    <string name="contact_form_button">Skicka</string>
+    <string name="contact_form_post_message">Tack för att du kontaktar oss, var vänligt vänta...</string>
+    <string name="contact_posted">Ditt meddelande har skickats. Vi hör av oss så fort vi kan!</string>
+    <string name="enter_your_e_mail_here">Din e-mail adress här</string>
+    <string name="enter_your_name_here">Ditt namn här</string>
+    <string name="enter_your_subject_here">Ditt ämne här</string>
+    <string name="enter_your_message_here">Ditt meddelande här</string>
+    <string name="aboutapp">Utvecklad av blablabla</string>
+
 </resources>

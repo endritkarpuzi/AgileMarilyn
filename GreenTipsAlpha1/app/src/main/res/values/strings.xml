@@ -9,37 +9,21 @@
     <string name="francais">Français</string>
     <string name="continueButton">Continue</string>
     <string name="aboutButton">About</string>
-    <string name="help">Help</string>
     <string name="chooseCat">Choose a category</string>
     <string name="category">Category</string>
-    <string name="helpcontact" translatable="false">Contact a developer:</string>
-    <string name="helpinfo" translatable="false">
-        <b>Alexis Tello:</b>\n
-        alexis@student.chalmers.se\n\n
-        <b>Cezary Januszek:</b>\n
-        januszek@student.chalmers.se\n\n
-        <b>Endrit Karpuzi:</b>\n
-        karpuzi@student.chalmers.se\n\n
-        <b>Firel Issa:</b>\n
-        firel@student.chalmers.se\n\n
-        <b>Mohammed Al-fatlawi:</b>\n
-        mohalf@student.chalmers.se\n\n
-        <b>Smedra Touma:</b>\n
-        smedra@student.chalmers.se
-    </string>
 
-    <string name="aboutapp" translatable="false">Developed by blablalba</string>
+    <string name="aboutapp">Developed by blablalba</string>
 
-    <string name="transport" translatable="false">Transport</string>
-    <string name="outdoors" translatable="false">Outdoors</string>
-    <string name="worklife" translatable="false">Working life</string>
-    <string name="household" translatable="false">Household</string>
-    <string name="sociallife" translatable="false">Social life</string>
+    <string name="transport">Transport</string>
+    <string name="outdoors">Outdoors</string>
+    <string name="worklife">Working life</string>
+    <string name="household">Household</string>
+    <string name="sociallife">Social life</string>
 
 
-    <string name="chooseTip" translatable="false">Choose a tip</string>
-    <string name="shorttransporttip1" translatable="false">Walk for short trips</string>
-    <string name="transporttip1" translatable="false">Walk for short trips.
+    <string name="chooseTip">Choose a tip</string>
+    <string name="shorttransporttip1">Walk for short trips</string>
+    <string name="transporttip1">Walk for short trips.
         \n\nWalking helps reduce body fat, lower blood pressure and is free.
         It may also take less time than you think.
 
@@ -48,7 +32,7 @@
         \n\nThe average walking pace is six kilometres per hour and
         if you walk you don’t need to find a car bay when you arrive.</string>
 
-    <string name="transporttip2">Here we give information about the second tip, on click open this slide</string>
+    <string name="transporttip2" translatable="false">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip3" translatable="false">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip4" translatable="false">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip5" translatable="false">Here we give information about the second tip, on click open this slide</string>
@@ -94,17 +78,17 @@
     <string name="image_for_reminders" translatable="false">image_for_reminders</string>
 
 
-    <string name="name_reminder" translatable="false">Name your reminder</string>
-    <string name="button_schedule_set" translatable="false">Set</string>
-    <string name="button_schedule_cancel" translatable="false">Cancel</string>
+    <string name="name_reminder">Name your reminder</string>
+    <string name="button_schedule_set">Set</string>
+    <string name="button_schedule_cancel">Cancel</string>
     <string name="helpicon" translatable="false">help</string>
     <string name="languageicon" translatable="false">help</string>
     <string name="infoicon" translatable="false">help</string>
     <string name="image_slide" translatable="false">image slide for slide functionality</string>
-    <string name="arabic" translatable="false">العربية.</string>
+    <string name="arabic">العربية.</string>
 
 
-    <!--Kontak-->
+    <!--Kontakt-->
     <string name="contact_form">Contact Us</string>
     <string name="contact_form_name">Your Name</string>
     <string name="contact_form_email">Your Email</string>

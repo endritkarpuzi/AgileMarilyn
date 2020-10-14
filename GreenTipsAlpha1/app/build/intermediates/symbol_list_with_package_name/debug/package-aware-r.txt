@@ -1997,7 +1997,6 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView
 id textView2
 id textView3
 id textView4
@@ -2274,10 +2273,7 @@ string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string francais
-string help
-string helpcontact
 string helpicon
-string helpinfo
 string hide_bottom_view_on_scroll_behavior
 string household
 string householdtip1
