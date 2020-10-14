@@ -12,17 +12,8 @@
     <string name="help">Help</string>
     <string name="chooseCat">Choose a category</string>
     <string name="category">Category</string>
-
-    <string name="aboutapp">
-        <b>Welcome to GreenTips!</b>\n
-        \nThis application was developed by 6 students at Chalmers Tekniska Högskola in Gothenburg, Sweden.\n
-        \nWith the tips and ideas we give to you here, we will help you to reduce you environmental impact and live a healthier life!\n
-        \nSimply choose the category you are interested in and we will supply many, simple ways for a greener life.
-        \nReceive notifications for reminders and strive for achievements by choosing to have a tip in focus!
-    </string>
-
-    <string name="helpcontact">Contact a developer:</string>
-    <string name="helpinfo">
+    <string name="helpcontact" translatable="false">Contact a developer:</string>
+    <string name="helpinfo" translatable="false">
         <b>Alexis Tello:</b>\n
         alexis@student.chalmers.se\n\n
         <b>Cezary Januszek:</b>\n
@@ -37,17 +28,18 @@
         smedra@student.chalmers.se
     </string>
 
+    <string name="aboutapp" translatable="false">Developed by blablalba</string>
 
-    <string name="transport">Transport</string>
-    <string name="outdoors">Outdoors</string>
-    <string name="worklife">Working life</string>
-    <string name="household">Household</string>
-    <string name="sociallife">Social life</string>
+    <string name="transport" translatable="false">Transport</string>
+    <string name="outdoors" translatable="false">Outdoors</string>
+    <string name="worklife" translatable="false">Working life</string>
+    <string name="household" translatable="false">Household</string>
+    <string name="sociallife" translatable="false">Social life</string>
 
 
-    <string name="chooseTip">Choose a tip</string>
-    <string name="shorttransporttip1">Walk for short trips</string>
-    <string name="transporttip1">Walk for short trips.
+    <string name="chooseTip" translatable="false">Choose a tip</string>
+    <string name="shorttransporttip1" translatable="false">Walk for short trips</string>
+    <string name="transporttip1" translatable="false">Walk for short trips.
         \n\nWalking helps reduce body fat, lower blood pressure and is free.
         It may also take less time than you think.
 
@@ -57,58 +49,59 @@
         if you walk you don’t need to find a car bay when you arrive.</string>
 
     <string name="transporttip2">Here we give information about the second tip, on click open this slide</string>
-    <string name="transporttip3">Here we give information about the second tip, on click open this slide</string>
-    <string name="transporttip4">Here we give information about the second tip, on click open this slide</string>
-    <string name="transporttip5">Here we give information about the second tip, on click open this slide</string>
-    <string name="transporttip6">Here we give information about the second tip, on click open this slide</string>
-    <string name="transporttip7">Here we give information about the second tip, on click open this slide</string>
+    <string name="transporttip3" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="transporttip4" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="transporttip5" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="transporttip6" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="transporttip7" translatable="false">Here we give information about the second tip, on click open this slide</string>
 
-    <string name="householdtip1">Here we give information about the first tip, on click open this slide</string>
-    <string name="householdtip2">Here we give information about the second tip, on click open this slide</string>
-    <string name="householdtip3">Here we give information about the second tip, on click open this slide</string>
-    <string name="householdtip4">Here we give information about the second tip, on click open this slide</string>
-    <string name="householdtip5">Here we give information about the second tip, on click open this slide</string>
-    <string name="householdtip6">Here we give information about the second tip, on click open this slide</string>
-    <string name="householdtip7">Here we give information about the second tip, on click open this slide</string>
+    <string name="householdtip1" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="householdtip2" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="householdtip3" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="householdtip4" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="householdtip5" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="householdtip6" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="householdtip7" translatable="false">Here we give information about the second tip, on click open this slide</string>
 
-    <string name="worklifetip1">Here we give information about the first tip, on click open this slide</string>
-    <string name="worklifetip2">Here we give information about the second tip, on click open this slide</string>
-    <string name="worklifetip3">Here we give information about the second tip, on click open this slide</string>
-    <string name="worklifetip4">Here we give information about the second tip, on click open this slide</string>
-    <string name="worklifetip5">Here we give information about the second tip, on click open this slide</string>
-    <string name="worklifetip6">Here we give information about the second tip, on click open this slide</string>
-    <string name="worklifetip7">Here we give information about the second tip, on click open this slide</string>
+    <string name="worklifetip1" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="worklifetip2" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="worklifetip3" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="worklifetip4" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="worklifetip5" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="worklifetip6" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="worklifetip7" translatable="false">Here we give information about the second tip, on click open this slide</string>
 
-    <string name="socialtip1">Here we give information about the first tip, on click open this slide</string>
-    <string name="socialtip2">Here we give information about the second tip, on click open this slide</string>
-    <string name="socialtip3">Here we give information about the second tip, on click open this slide</string>
-    <string name="socialtip4">Here we give information about the second tip, on click open this slide</string>
-    <string name="socialtip5">Here we give information about the second tip, on click open this slide5</string>
-    <string name="socialtip6">Here we give information about the second tip, on click open this slide</string>
-    <string name="socialtip7">Here we give information about the second tip, on click open this slide</string>
+    <string name="socialtip1" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="socialtip2" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="socialtip3" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="socialtip4" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="socialtip5" translatable="false">Here we give information about the second tip, on click open this slide5</string>
+    <string name="socialtip6" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="socialtip7" translatable="false">Here we give information about the second tip, on click open this slide</string>
 
-    <string name="outdoorstip1">Outdoors1</string>
-    <string name="outdoorstip2">Here we give information about the second tip, on click open this slide</string>
-    <string name="outdoorstip3">Here we give information about the first tip, on click open this slide</string>
-    <string name="outdoorstip4">Here we give information about the first tip, on click open this slide</string>
-    <string name="outdoorstip5">Here we give information about the first tip, on click open this slide</string>
-    <string name="outdoorstip6">Here we give information about the first tip, on click open this slide</string>
-    <string name="outdoorstip7">Here we give information about the first tip, on click open this slide</string>
+    <string name="outdoorstip1" translatable="false">Outdoors1</string>
+    <string name="outdoorstip2" translatable="false">Here we give information about the second tip, on click open this slide</string>
+    <string name="outdoorstip3" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="outdoorstip4" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="outdoorstip5" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="outdoorstip6" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="outdoorstip7" translatable="false">Here we give information about the first tip, on click open this slide</string>
 
 
     <string name="string_green_tips">Green Tips</string>
-    <string name="image_for_tips">image for tips</string>
+    <string name="image_for_tips" translatable="false">image for tips</string>
     <string name="reminders">Reminders</string>
-    <string name="image_for_reminders">image_for_reminders</string>
+    <string name="image_for_reminders" translatable="false">image_for_reminders</string>
 
 
-    <string name="name_reminder">Name your reminder</string>
-    <string name="button_schedule_set">Set</string>
-    <string name="button_schedule_cancel">Cancel</string>
-    <string name="helpicon">help</string>
-    <string name="languageicon">help</string>
-    <string name="infoicon">help</string>
-    <string name="image_slide">image slide for slide functionality</string>
+    <string name="name_reminder" translatable="false">Name your reminder</string>
+    <string name="button_schedule_set" translatable="false">Set</string>
+    <string name="button_schedule_cancel" translatable="false">Cancel</string>
+    <string name="helpicon" translatable="false">help</string>
+    <string name="languageicon" translatable="false">help</string>
+    <string name="infoicon" translatable="false">help</string>
+    <string name="image_slide" translatable="false">image slide for slide functionality</string>
+    <string name="arabic" translatable="false">العربية.</string>
 
 
     <!--Kontak-->

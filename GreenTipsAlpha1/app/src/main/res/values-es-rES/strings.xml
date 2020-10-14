@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GreenTips</string>
+    <string name="string_green_tips">greeno tipso</string>
+    <string name="reminders">remindo</string>
+    <string name="transporttip2">walkar pero något</string>
+    <string name="category">categoria</string>
+    <string name="chooseCat">choose categoria</string>
+    <string name="help">helpo</string>
+    <string name="aboutButton">abouto</string>
+    <string name="continueButton">continuar</string>
+    <string name="francais">Français</string>
+    <string name="english">English</string>
+    <string name="shqip">Shqip</string>
+    <string name="polsku">Polski</string>
+    <string name="svenska">Svenska</string>
+    <string name="espanol">Español</string>
+    <string name="chooseLang">Lingua</string>
+</resources>
