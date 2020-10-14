@@ -2235,6 +2235,7 @@ string aboutButton
 string aboutapp
 string app_name
 string appbar_scrolling_view_behavior
+string arabic
 string bottom_sheet_behavior
 string button_schedule_cancel
 string button_schedule_set
