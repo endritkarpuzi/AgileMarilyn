@@ -22,8 +22,9 @@ public class transportTips extends AppCompatActivity {
         startActivity(new Intent(transportTips.this, welcome.class));
     }
 
-    public void goToTransportSlide(View v) {
-        startActivity(new Intent(transportTips.this, slidecreatortransport.class));
-    }
+    public void goToTransportSlide(View v) { startActivity(new Intent(transportTips.this, slidecreatortransport.class)); }
+
+    public void switchView(View v) { startActivity(new Intent(transportTips.this, slidecreatortransport.class)); }
+
 
 }

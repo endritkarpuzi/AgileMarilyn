@@ -13,7 +13,20 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="779d14a6-93ec-4aeb-a349-4e60eb2aca22" name="Default Changelist" comment="" />
+    <list default="true" id="779d14a6-93ec-4aeb-a349-4e60eb2aca22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/householdTips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/householdTips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/outdoorsTips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/outdoorsTips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/socialTips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/socialTips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/transportTips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/transportTips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/worklifeTips.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/worklifeTips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_household_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_household_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_outdoors_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_outdoors_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_social_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_social_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_transport_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_transport_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_worklife_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_worklife_tips.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,30 +207,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601832768998" />
-    <state x="956" y="252" key="AndroidCreateXmlResourceDialog" timestamp="1601928102961">
+    <state x="956" y="252" key="AndroidCreateXmlResourceDialog" timestamp="1602701343903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="956" y="252" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601928102961" />
+    <state x="956" y="252" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602701343903" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602689766127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602689766127" />
-    <state width="1877" height="297" key="GridCell.Tab.0.bottom" timestamp="1602611766386">
+    <state width="1877" height="297" key="GridCell.Tab.0.bottom" timestamp="1602701637879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602611766386" />
-    <state width="1877" height="297" key="GridCell.Tab.0.center" timestamp="1602611766386">
+    <state width="1877" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602701637879" />
+    <state width="1877" height="297" key="GridCell.Tab.0.center" timestamp="1602701637879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602611766386" />
-    <state width="1877" height="297" key="GridCell.Tab.0.left" timestamp="1602611766385">
+    <state width="1877" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602701637879" />
+    <state width="1877" height="297" key="GridCell.Tab.0.left" timestamp="1602701637879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602611766385" />
-    <state width="1877" height="297" key="GridCell.Tab.0.right" timestamp="1602611766386">
+    <state width="1877" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602701637879" />
+    <state width="1877" height="297" key="GridCell.Tab.0.right" timestamp="1602701637879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602611766386" />
+    <state width="1877" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602701637879" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1601835478944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -226,10 +239,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="612" y="100" width="1215" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601929211939" />
-    <state x="915" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1602598557599">
+    <state x="915" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1602698709582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="915" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602598557599" />
+    <state x="915" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602698709582" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1601858621382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
