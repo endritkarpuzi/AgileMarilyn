@@ -14,7 +14,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="779d14a6-93ec-4aeb-a349-4e60eb2aca22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_transport_tips.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_transport_tips.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/help.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/greentipsalpha1/welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_help.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,10 +97,13 @@
     <key name="android.template.-1058472040">
       <recent name="com.example.greentipsalpha1" />
     </key>
-    <key name="android.template.1557719445">
+    <key name="android.template.-1987027720">
       <recent name="com.example.greentipsalpha1" />
     </key>
-    <key name="android.template.-1987027720">
+    <key name="android.template.1293202228">
+      <recent name="com.example.greentipsalpha1" />
+    </key>
+    <key name="android.template.1557719445">
       <recent name="com.example.greentipsalpha1" />
     </key>
     <key name="android.template.-190514228">
@@ -184,10 +196,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1601913291367" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602610654583">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602705796878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602610654583" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602705796878" />
     <state x="934" y="278" key="AndroidCreateResourceDirectoryDialog" timestamp="1600809662122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -196,30 +208,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601832768998" />
-    <state x="956" y="252" key="AndroidCreateXmlResourceDialog" timestamp="1602701343903">
+    <state x="956" y="252" key="AndroidCreateXmlResourceDialog" timestamp="1602704258036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="956" y="252" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602701343903" />
+    <state x="956" y="252" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602704258036" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602689766127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602689766127" />
-    <state width="1877" height="297" key="GridCell.Tab.0.bottom" timestamp="1602701637879">
+    <state width="1877" height="297" key="GridCell.Tab.0.bottom" timestamp="1602705820271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602701637879" />
-    <state width="1877" height="297" key="GridCell.Tab.0.center" timestamp="1602701637879">
+    <state width="1877" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602705820271" />
+    <state width="1877" height="297" key="GridCell.Tab.0.center" timestamp="1602705820271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602701637879" />
-    <state width="1877" height="297" key="GridCell.Tab.0.left" timestamp="1602701637879">
+    <state width="1877" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602705820271" />
+    <state width="1877" height="297" key="GridCell.Tab.0.left" timestamp="1602705820271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602701637879" />
-    <state width="1877" height="297" key="GridCell.Tab.0.right" timestamp="1602701637879">
+    <state width="1877" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602705820271" />
+    <state width="1877" height="297" key="GridCell.Tab.0.right" timestamp="1602705820271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602701637879" />
+    <state width="1877" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602705820271" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1601835478944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -228,10 +240,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="612" y="100" width="1215" height="847" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601929211939" />
-    <state x="915" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1602698709582">
+    <state x="915" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1602703773889">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="915" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602698709582" />
+    <state x="915" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602703773889" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1601858621382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -19,8 +19,7 @@ public class welcome extends AppCompatActivity {
         startActivity(new Intent(welcome.this, about.class));
     }
 
-    public void helpScreen(View v){
-        startActivity(new Intent(welcome.this, help.class));
+    public void helpScreen(View v){ startActivity(new Intent(welcome.this, ContactForm.class));
     }
 
     public void categoryScreen(View v){ startActivity(new Intent(welcome.this, choose_category.class)); }
