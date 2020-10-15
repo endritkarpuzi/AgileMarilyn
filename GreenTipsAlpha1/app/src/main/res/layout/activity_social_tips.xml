@@ -64,6 +64,7 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
+                android:textAllCaps="false"
                 android:text="@string/socialtip1" />
 
             <Button
@@ -74,6 +75,7 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:textAllCaps="false"
                 android:text="@string/socialtip2" />
 
             <Button
@@ -84,6 +86,7 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:textAllCaps="false"
                 android:text="@string/socialtip3" />
 
             <Button
@@ -94,6 +97,7 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:textAllCaps="false"
                 android:text="@string/socialtip4" />
 
             <Button
@@ -104,6 +108,7 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:textAllCaps="false"
                 android:text="@string/socialtip5" />
 
             <Button
@@ -114,6 +119,7 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:textAllCaps="false"
                 android:text="@string/socialtip6" />
 
             <Button
@@ -124,6 +130,7 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+                android:textAllCaps="false"
                 android:layout_marginBottom="25dp"
 
                 android:text="@string/socialtip7" />

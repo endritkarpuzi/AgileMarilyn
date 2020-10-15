@@ -65,6 +65,7 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
+                android:textAllCaps="false"
                 android:text="@string/shorttransporttip1" />
 
             <Button
@@ -75,7 +76,8 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip2" />
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip2"/>
 
             <Button
                 android:id="@+id/transporttip3"
@@ -85,7 +87,8 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip3" />
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip3" />
 
             <Button
                 android:id="@+id/transporttip4"
@@ -95,7 +98,8 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip4" />
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip4" />
 
             <Button
                 android:id="@+id/transporttip5"
@@ -105,7 +109,8 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip5" />
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip5" />
 
             <Button
                 android:id="@+id/transporttip6"
@@ -115,7 +120,8 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
-                android:text="@string/transporttip6" />
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip6" />
 
             <Button
                 android:id="@+id/transporttip7"
@@ -126,7 +132,8 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="25dp"
-                android:text="@string/transporttip7" />
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip7" />
 
 
         </LinearLayout>

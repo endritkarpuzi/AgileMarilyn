@@ -65,6 +65,7 @@
                 android:alpha="0.7"
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
+                android:textAllCaps="false"
                 android:text="@string/worklifetip1" />
 
             <Button
@@ -75,6 +76,7 @@
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
+                android:textAllCaps="false"
                 android:text="@string/worklifetip2" />
 
             <Button
@@ -85,6 +87,7 @@
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
+                android:textAllCaps="false"
                 android:text="@string/worklifetip3" />
 
             <Button
@@ -95,6 +98,7 @@
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
+                android:textAllCaps="false"
                 android:text="@string/worklifetip4" />
 
             <Button
@@ -105,6 +109,7 @@
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
+                android:textAllCaps="false"
                 android:text="@string/worklifetip5" />
 
             <Button
@@ -115,6 +120,7 @@
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
+                android:textAllCaps="false"
                 android:text="@string/worklifetip6" />
 
             <Button
@@ -126,6 +132,7 @@
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
+                android:textAllCaps="false"
                 android:text="@string/worklifetip7" />
 
 

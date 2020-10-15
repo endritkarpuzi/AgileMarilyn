@@ -66,6 +66,7 @@
                 android:layout_height="150dp"
                 android:alpha="0.7"
                 android:background="@drawable/rounded_tip_corner"
+                android:textAllCaps="false"
                 android:text="@string/householdtip1" />
 
             <Button
@@ -75,6 +76,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:alpha="0.8"
+                android:textAllCaps="false"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip2" />
 
@@ -85,6 +87,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:alpha="0.8"
+                android:textAllCaps="false"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip3" />
 
@@ -95,6 +98,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:alpha="0.8"
+                android:textAllCaps="false"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip4" />
 
@@ -105,6 +109,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:alpha="0.8"
+                android:textAllCaps="false"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip5" />
 
@@ -115,6 +120,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:alpha="0.8"
+                android:textAllCaps="false"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip6" />
 
@@ -126,6 +132,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="25dp"
                 android:alpha="0.8"
+                android:textAllCaps="false"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/householdtip7" />
 

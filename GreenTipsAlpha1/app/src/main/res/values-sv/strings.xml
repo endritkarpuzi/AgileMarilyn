@@ -43,5 +43,9 @@
     <string name="enter_your_subject_here">Ditt ämne här</string>
     <string name="enter_your_message_here">Ditt meddelande här</string>
     <string name="aboutapp">Utvecklad av blablabla</string>
+    <string name="shorttransporttip2">Används cykeln</string>
+    <string name="transporttip3">bla</string>
+    <string name="transporttip4">bla</string>
+
 
 </resources>
