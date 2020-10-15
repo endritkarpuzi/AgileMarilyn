@@ -22,8 +22,8 @@ public class worklifeTips extends AppCompatActivity {
         startActivity(new Intent(worklifeTips.this, welcome.class));
     }
 
-    public void goToWorklifeSlide(View v) {
-        startActivity(new Intent(worklifeTips.this, slidecreatorworklife.class));
-    }
+    public void goToWorklifeSlide(View v) { startActivity(new Intent(worklifeTips.this, slidecreatorworklife.class)); }
+
+    public void switchView(View v) { startActivity(new Intent(worklifeTips.this, slidecreatorworklife.class)); }
 
 }

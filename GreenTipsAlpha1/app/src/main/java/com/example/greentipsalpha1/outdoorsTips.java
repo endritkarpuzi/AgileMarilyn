@@ -18,11 +18,9 @@ public class outdoorsTips extends AppCompatActivity {
         finish();
     }
 
-    public void returnHome(View v){
-        startActivity(new Intent(outdoorsTips.this, welcome.class));
-    }
+    public void returnHome(View v){ startActivity(new Intent(outdoorsTips.this, welcome.class)); }
 
-    public void goToOutdoorsSlide(View v) {
-        startActivity(new Intent(outdoorsTips.this, slidecreatoroutdoors.class));
-    }
+    public void goToOutdoorsSlide(View v) { startActivity(new Intent(outdoorsTips.this, slidecreatoroutdoors.class)); }
+
+    public void switchView(View v) { startActivity(new Intent(outdoorsTips.this, slidecreatoroutdoors.class)); }
 }

@@ -19,6 +19,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.greentipsalpha1.ContactForm" />
         <activity android:name="com.example.greentipsalpha1.slidecreatortransport" />
         <activity android:name="com.example.greentipsalpha1.slidecreatoroutdoors" />
         <activity android:name="com.example.greentipsalpha1.slidecreatorsocial" />
@@ -42,7 +43,6 @@
             android:name="com.example.greentipsalpha1.transportTips"
             android:windowSoftInputMode="adjustNothing" />
         <activity android:name="com.example.greentipsalpha1.choose_category" />
-        <activity android:name="com.example.greentipsalpha1.help" />
         <activity android:name="com.example.greentipsalpha1.about" />
         <activity android:name="com.example.greentipsalpha1.choose_lang" />
         <activity android:name="com.example.greentipsalpha1.welcome" />

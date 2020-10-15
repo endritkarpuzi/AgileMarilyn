@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">GreenTips</string>
-
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="hint_button">Enter Your Task</string>
-    <string name="btn_schedule_set">Set</string>
-    <string name="btn_schedule_cancel">Cancel</string>
-</resources>
