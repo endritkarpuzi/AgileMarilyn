@@ -41,14 +41,21 @@
     <string name="shorttransporttip1" translatable="false">Walk for short trips</string>
     <string name="transporttip1" translatable="false">Walk for short trips.
         \n\nWalking helps reduce body fat, lower blood pressure and is free.
-        It may also take less time than you think.
+         It may also take less time than you think.
 
         \n\nStudies have shown that most people will underestimate time related to car
         journeys and overestimate the time it will take to walk.
         \n\nThe average walking pace is six kilometres per hour and
         if you walk you don’t need to find a car bay when you arrive.</string>
 
-    <string name="transporttip2">Here we give information about the second tip, on click open this slide</string>
+    <string name="transporttip2">Opt for the bike
+
+        \n\nSwitching a 10km journey per week from your car to your bike will burn around 300 calories each way and can save
+        over 300kg of greenhouse gas emissions each year.
+        \n\nDid you know? Peak hour city trips up to 10km in length are generally faster by bike than any other form of transport,
+        door to door.
+        \n\nIn addition cycling helps reducing body fat, which is a first step to become healthier and stronger!
+    </string>
     <string name="transporttip3" translatable="false">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip4" translatable="false">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip5" translatable="false">Here we give information about the second tip, on click open this slide</string>
