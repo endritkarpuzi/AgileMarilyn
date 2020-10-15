@@ -30,6 +30,9 @@
         <activity android:name="com.example.greentipsalpha1.worklifeTips" />
         <activity android:name="com.example.greentipsalpha1.householdTips" />
         <activity
+            android:name="com.example.greentipsalpha1.transportTips"
+            android:windowSoftInputMode="adjustNothing" />
+        <activity
             android:name="com.example.greentipsalpha1.schedule"
             android:windowSoftInputMode="adjustPan" />
         <activity android:name="com.example.greentipsalpha1.splashscreen" >
@@ -39,9 +42,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.example.greentipsalpha1.transportTips"
-            android:windowSoftInputMode="adjustNothing" />
         <activity android:name="com.example.greentipsalpha1.choose_category" />
         <activity android:name="com.example.greentipsalpha1.about" />
         <activity android:name="com.example.greentipsalpha1.choose_lang" />
