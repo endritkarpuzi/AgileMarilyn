@@ -25,10 +25,10 @@ Documentation folder - contains all the team documentation for this project:
 
 
 Scrum boards: 
- As recommended by our supervisor Hannes in week 6, we changed our apprach and made a separate Scrum board for each sprint:
+ As recommended by our supervisor Hannes in week 6, we changed our approach and made a separate Scrum board for each coming sprint:
 
 Scrum board on Trello: https://trello.com/b/nDEd7XCT/scrum-board
 
-Scrum board for sprint 3: https://trello.com/b/eZ7xOxiR
+Scrum board for sprint 3 (week 5-6): https://trello.com/b/eZ7xOxiR
 
-Scrum board for sprint 4: https://trello.com/b/mOFWrGSZ/sprint-4-week-7
+Scrum board for sprint 4 (week 7): https://trello.com/b/mOFWrGSZ/sprint-4-week-7
