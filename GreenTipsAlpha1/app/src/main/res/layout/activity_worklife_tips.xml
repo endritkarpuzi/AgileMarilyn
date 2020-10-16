@@ -62,11 +62,10 @@
 
             <Button
                 android:id="@+id/worklifetip1"
-                android:alpha="0.7"
-                android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
-                android:onClick="goToTransportSlide"
+                android:alpha="0.7"
+                android:background="@drawable/rounded_tip_corner"
                 android:text="@string/worklifetip1" />
 
             <Button

@@ -41,6 +41,7 @@
         android:layout_marginTop="32dp"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView6">
 
@@ -53,69 +54,62 @@
             android:orientation="vertical"
             app:layout_constraintTop_toTopOf="parent">
 
-            <Button
-                android:id="@+id/transporttip1"
+            <TextView
+                android:id="@+id/transportip1"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
-                android:onClick="goToTransportSlide"
-                android:text="@string/transporttip1" />
+                android:onClick="goToTransportSlide" />
 
-            <Button
-                android:id="@+id/transporttip2"
-                android:layout_width="350dp"
-                android:layout_height="150dp"
-                android:layout_marginTop="10dp"
-                android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
-                android:text="@string/transporttip2" />
-
-            <Button
-                android:id="@+id/transporttip3"
+            <TextView
+                android:id="@+id/transportip2"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
-                android:text="@string/transporttip3" />
+                android:background="@drawable/rounded_tip_corner" />
 
-            <Button
-                android:id="@+id/transporttip4"
+            <TextView
+                android:id="@+id/transportip3"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
-                android:text="@string/transporttip4" />
+                android:background="@drawable/rounded_tip_corner" />
 
-            <Button
-                android:id="@+id/transporttip5"
+            <TextView
+                android:id="@+id/transportip4"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
-                android:text="@string/transporttip5" />
+                android:background="@drawable/rounded_tip_corner" />
 
-            <Button
-                android:id="@+id/transporttip6"
+            <TextView
+                android:id="@+id/transportip5"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
-                android:text="@string/transporttip6" />
+                android:background="@drawable/rounded_tip_corner" />
 
-            <Button
-                android:id="@+id/transporttip7"
+            <TextView
+                android:id="@+id/transportip6"
+                android:layout_width="350dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="10dp"
+                android:alpha="0.8"
+                android:background="@drawable/rounded_tip_corner" />
+
+            <TextView
+                android:id="@+id/transportip7"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="25dp"
                 android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
-                android:text="@string/transporttip7" />
+                android:background="@drawable/rounded_tip_corner" />
 
 
         </LinearLayout>

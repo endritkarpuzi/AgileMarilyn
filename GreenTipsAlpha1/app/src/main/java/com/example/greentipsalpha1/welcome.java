@@ -25,7 +25,9 @@ public class welcome extends AppCompatActivity {
 
     public void categoryScreen(View v){ startActivity(new Intent(welcome.this, choose_category.class)); }
 
-    public void scheduleScreen(View v){ startActivity(new Intent(welcome.this, schedule.class)); }
+    public void scheduleScreen(View v){ startActivity(new Intent(welcome.this, ScheduleTimeActivity.class)); }
 
-
+    public void loginScreen(View v){
+        startActivity(new Intent(welcome.this, LoginActivity.class));
+    }
 }

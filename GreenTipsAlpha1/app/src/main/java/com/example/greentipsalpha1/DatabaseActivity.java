@@ -28,6 +28,8 @@ public class DatabaseActivity extends AppCompatActivity{
     String text_id;
     ArrayAdapter<CharSequence> adapter_id;
 
+    String language;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -36,9 +38,50 @@ public class DatabaseActivity extends AppCompatActivity{
         Spinner spinner_category = findViewById(R.id.spinner_category);
         final Spinner spinner_id = findViewById(R.id.spinner_id);
 
+        final Spinner spinner_language = findViewById(R.id.spinner_lan);
+
+        ArrayAdapter<CharSequence> adapter_lan = ArrayAdapter.createFromResource(this, R.array.lan_spinner, android.R.layout.simple_spinner_item);
+        adapter_lan.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        spinner_language.setAdapter(adapter_lan);
+
         ArrayAdapter<CharSequence> adapter_category = ArrayAdapter.createFromResource(this, R.array.categories_spinner, android.R.layout.simple_spinner_item);
         adapter_category.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner_category.setAdapter(adapter_category);
+
+        spinner_language.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                if(position == 0){
+                    language = "Engelska";
+                }
+                if(position == 1){
+                    language = "Svenska";
+                }
+                if(position == 2){
+                    language = "Spanska";
+                }
+                if(position == 3){
+                    language = "Franska";
+                }
+                if(position == 4){
+                    language = "Arabiska";
+                }
+                if(position == 5){
+                    language = "Syrianska";
+                }
+                if(position == 6){
+                    language = "Polska";
+                }
+                if(position == 7){
+                    language = "Albanska";
+                }
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+                language = null;
+            }
+        });
 
         spinner_category.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
@@ -54,6 +97,9 @@ public class DatabaseActivity extends AppCompatActivity{
                 }
                 if(position == 3){
                     adapter_id = ArrayAdapter.createFromResource (getApplicationContext(), R.array.id_work_life, android.R.layout.simple_spinner_item);
+                }
+                if(position == 4){
+                    adapter_id = ArrayAdapter.createFromResource (getApplicationContext(), R.array.id_household, android.R.layout.simple_spinner_item);
                 }
 
                 spinner_id.setAdapter(adapter_id);
@@ -84,11 +130,11 @@ public class DatabaseActivity extends AppCompatActivity{
 
         editTip = findViewById(R.id.textInput_Tip);
 
-        //btnAddData = findViewById(R.id.button_add);
+        btnAddData = findViewById(R.id.button_add);
         btnViewAll = findViewById(R.id.button_database);
         btnViewUpdate = findViewById(R.id.button_update);
 
-        //addData();
+        addData();
         viewAll();
         updateData();
     }
@@ -100,7 +146,8 @@ public class DatabaseActivity extends AppCompatActivity{
                 boolean isUpdate = myDb.updateData(
                         text_id,
                         text_category,
-                        editTip.getText().toString());
+                        editTip.getText().toString(),
+                        language);
 
                 if(isUpdate == true){
                     Toast.makeText(DatabaseActivity.this, "Data updated", Toast.LENGTH_LONG).show();
@@ -111,13 +158,15 @@ public class DatabaseActivity extends AppCompatActivity{
         });
     }
 
-    /* public void addData(){
+    public void addData(){
         btnAddData.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 boolean isInserted = myDb.insertData(
+                        text_id,
                         text_category,
-                        editTip.getText().toString());
+                        editTip.getText().toString(),
+                        language);
 
                 if(isInserted == true){
                     Toast.makeText(DatabaseActivity.this, "Data inserted", Toast.LENGTH_LONG).show();
@@ -126,7 +175,7 @@ public class DatabaseActivity extends AppCompatActivity{
                 }
             }
         });
-    } */
+    }
 
     public void viewAll(){
         btnViewAll.setOnClickListener(new View.OnClickListener() {
@@ -144,7 +193,14 @@ public class DatabaseActivity extends AppCompatActivity{
                 while(res.moveToNext()){
                     buffer.append("Id :" +  res.getString(0) + "\n");
                     buffer.append("Category :" +  res.getString(1) + "\n");
-                    buffer.append("Tip :" +  res.getString(2) + "\n\n");
+                    buffer.append("Tip (English):" +  res.getString(2) + "\n");
+                    buffer.append("Tip (Swedish):" +  res.getString(3) + "\n");
+                    buffer.append("Tip (Spanish):" +  res.getString(4) + "\n");
+                    buffer.append("Tip (French):" +  res.getString(5) + "\n");
+                    buffer.append("Tip (Arabic):" +  res.getString(6) + "\n");
+                    buffer.append("Tip (Syriac):" +  res.getString(7) + "\n");
+                    buffer.append("Tip (Polish):" +  res.getString(8) + "\n");
+                    buffer.append("Tip (Albanian):" +  res.getString(9) + "\n\n");
                 }
 
                 //Show all data

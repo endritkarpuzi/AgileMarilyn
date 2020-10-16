@@ -52,64 +52,81 @@
             <Button
                 android:id="@+id/english"
                 android:layout_width="138dp"
-                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
+                android:onClick="lan_en"
                 android:text="@string/english" />
 
             <Button
                 android:id="@+id/swedish"
                 android:layout_width="138dp"
-                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
+                android:onClick="lan_sw"
                 android:text="@string/svenska" />
 
             <Button
                 android:id="@+id/spanish"
                 android:layout_width="138dp"
-                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
+                android:onClick="lan_sp"
                 android:text="@string/espanol" />
 
             <Button
                 android:id="@+id/french"
                 android:layout_width="138dp"
-                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
+                android:onClick="lan_fr"
                 android:text="@string/francais" />
 
             <Button
                 android:id="@+id/arabic"
                 android:layout_width="138dp"
-                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
+                android:onClick="lan_ar"
                 android:text="العربية." />
+
+            <Button
+                android:id="@+id/syriac"
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:alpha="0.9"
+                android:background="@drawable/rounded_tip_corner"
+                android:onClick="lan_sy"
+                android:text="ܬܐܒܠܧܒܝܗܪܗܥ" />
 
             <Button
                 android:id="@+id/polish"
                 android:layout_width="138dp"
-                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
+                android:onClick="lan_po"
                 android:text="@string/polsku" />
 
             <Button
                 android:id="@+id/albanian"
                 android:layout_width="138dp"
-                android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
+                android:onClick="lan_al"
                 android:text="@string/shqip" />
 
 

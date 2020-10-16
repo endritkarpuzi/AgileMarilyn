@@ -44,7 +44,7 @@
 
 
     <string name="chooseTip">Choose a tip</string>
-    <string name="transporttip1">Here we give information about the first tip, on click open this slide</string>
+    <string name="transporttip1">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip2">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip3">Here we give information about the second tip, on click open this slide</string>
     <string name="transporttip4">Here we give information about the second tip, on click open this slide</string>
@@ -99,16 +99,28 @@
     <string name="infoicon">help</string>
     <string name="image_slide">image slide for slide functionality</string>
 
-<<<<<<< HEAD
+
     <string name="hint_button">Enter Your Task</string>
     <string name="btn_schedule_set">Set</string>
     <string name="btn_schedule_cancel">Cancel</string>
+
+    <string-array name="lan_spinner">
+        <item>Engelska</item>
+        <item>Svenska</item>
+        <item>Spanska</item>
+        <item>Franska</item>
+        <item>Arabiska</item>
+        <item>Syrianska</item>
+        <item>Polska</item>
+        <item>Albanska</item>
+    </string-array>
 
     <string-array name="categories_spinner">
         <item>Transport</item>
         <item>Outdoors</item>
         <item>Social Life</item>
         <item>Work Life</item>
+        <item>Household</item>
     </string-array>
 
     <string-array name="id_transport">
@@ -150,7 +162,14 @@
         <item>27</item>
         <item>28</item>
     </string-array>
-=======
 
->>>>>>> development1
+    <string-array name="id_household">
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+    </string-array>
 </resources>
