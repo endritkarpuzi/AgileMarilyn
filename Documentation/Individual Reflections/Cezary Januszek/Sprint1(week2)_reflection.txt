@@ -1,0 +1,28 @@
+My individual reflection (Sprint1-week2):
+
+During this second week of the course, we decided on what the final scope of the project will look like.
+We had a first Zoom meeting with the whole team, during which I had the opportunity to meet all the members
+and know them a little better. 
+Within the team, we discussed on how we want to approach this project and what tools are we familiar with
+and which ones we would like to discover during this course.
+
+I had a first opportunity to help the team, as I have already used Git in a few previous projects I did at my home university.
+I suggested that we use GitKraken as a GUI Git client, as I find it to be one of the most intuitive ways to handle Git and to visualize
+how version control works. I was glad to see that after I clarified some aspects of it to one member of the team, he was able to help
+others with familiarizing with this tool. I think that the help every single one of us can provide should work, exactly like that; others
+who just received some help will be able to explain things they've just understood to the rest of the team if needed.
+
+For this week, we had to create a Hello World in our repo, so I used this occasion to start discovering Android Studio (which we will use 
+for the creation of our application). As any of the team members never used it before, we will all gain much experience by learning how to use
+this tool together. As decided with our team, we want to start programming during the next sprint(week) and I'll try to learn how to 
+properly use this IDE from tutorials, before that. The most of the time we will learn from resources each of us find by himself, and sharing
+them with the others (for example: sending a link to a useful tutorial for git) should be the essential part to make sure that every member
+learns and understand how our project progresses.  
+
+We have also discussed about the format our Scrum board should have. For now, it is a simple Google Doc, but we agreed that on a longer term it might be easier to switch to another agile project development board like Trello or GitKraken boards. Both of these can be synchronized with GitKraken which I find to be an interesting solution for being able to manage almost the whole project using one tool. 
+
+I personally have to recall some aspects of Java, as we decided that we will be programming in this language. I didn't use it since my 1st year of Bachelor, when I did 3 projects using it. I know that after starting to program our application in the 2nd sprint I will quickly recall how to use it properly and I hope to get help if needed from my teammates, or maybe on the other hand I would be able to give them some tips. 
+
+I remain very excited to see how this project will progress during the coming weeks. I feel that within the team we set up properly the concept of this project development and the tools we will be using. I also set up my personal goals (practice some more Java, learn to use Android Studio, discover the agile way of managing a project etc.) and I am looking forward to begin my journey to accomplish them.
+
+Cezary Januszek

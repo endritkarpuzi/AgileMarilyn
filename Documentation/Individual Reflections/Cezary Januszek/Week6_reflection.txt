@@ -1,0 +1,58 @@
+Individual reflection week 6: 
+
+On this week's supervision we received some important feedback from our supervisor.
+He strongly recommended to us to agree on a definition of done to keep better track of 
+which user stories are relly completed and which are not. He also suggested that we should
+reconsider our KPI concerning the productivity, as it can be difficult to measure it appropriately
+and advised us to create a KPI diagram to have a more clear look on how they change during the
+progress of the project. We also wanted to make sure that on the next supervision meeting, we can
+present to him a working version of what we already have, as we had some technical issues, while 
+trying to do so last Monday.
+
+What is the current situation? (A)
+
+This week I was for sure way more productive, than I was last week. As recommended we set our definition 
+of done and pushed it on git so that everyone has access to it and can move the user stories on the scrum
+according to it. I also added a second scrum board, as suggested by Hannes, so that we can have on our board
+only cards that are relevant for the current sprint. The acceptance criteria and effort estimation were added 
+to the user stories we focused on this week. I created a KPI chart as well, representing all our KPI average team
+measures throughout the weeks. We will continue to update the diagram and discuss its evolution during team mettings.
+We finally put together the elements of our app, we have already implemented locally, and pushed it on git to be able to work
+only on different git developpment branches. It allowed me to familiarize myself with the pull requests and merging, when I was
+adding some elements already done before to our final version using a separate git branch for it. Now for each development change
+I want to add, I know how to create a branch and I feel a lot more confident in working on them. As I know that some team members 
+have still some troubles to well understand this version control feature, I can now help them with my own explanations if only they
+ask me to.
+
+While working on the implementation, I feel also more confident about using AndroidStudio. I have now a better understanding of some
+aspects that I was using in the beginning without having a true idea of how to use them properly. I enjoy this way of learning by my 
+own and discovering new tools to implement ideas we have for this project.
+
+What I want the situation to be? (B)
+
+Tomorrow we are starting our last sprint and I feel like we are a little bit late on our implementation plan. I think that we catched 
+up the missing elements that we had in our scrum approach, but we must now concentrate on programming our app and setting tips more
+than ever. I would like to have the feeling at the end of next week that it was the most productive week for the whole team. By finishing
+our app I would like to be confident enough to say that I have the needed experience to create a basic app in AndroidStudio. To reach this 
+goal I am aware that I have to understand better the use of different layouts, as I feel that I know how to use them mostly looking at examples, 
+found in tutorials, but I still miss some general understanding of how they work exactly. I want also to be more at ease with programming some
+layout elements functionnalities (like button clickListener) in the Java classes. I understood the relation between an .xml file and a java class
+for each activity and that many things can be done in two different ways using them, but I still lack experience in deciding which one is better to 
+use in which cases. 
+A last aspect I think still remains to be improved is the use of the Scrum board and its updating by the whole team. We forget very often to keep 
+it updated and I believe that it should be the base of our discussions and meetings.
+
+Plan to reduce the gap (A->B):
+
+In order to accomplish our goals for this week we will have to continue to split the reamaining user stories and work on them in smaller groups. 
+This approach was working fine until now as it allows us to brainstorm in smaller groups. We will also have to split smaller tasks between eachother 
+so that we can also implement features that can be done individually. This will allow me to spend more time on using AndroidStudio features and understand
+their use better. I will continue to "play around" with git branches to separate each new task to be implemented from what we have already done and is working.
+Doing pull requests and merges more often will improve my knowledge about how it works and it can be useful if we encounter some major merge conflicts (which has not 
+happened yet). Therefore I would be able to help the team to resolve them.
+
+I am aware that this coming week will be the most challenging as we will all be stressed to finish our app on time and the whole team has still much work to do. 
+I will do my best to finish on time tasks that will be assigned to me, as well as I will support or motivate those who will have some troubles with the amount of work.
+As a team we will have to set more meetings this time, than we did the weeks before and keep informing others of progress also via the scrum board on Trello.
+
+It will demand more effort from all the members, but I believe that we will finish on time!

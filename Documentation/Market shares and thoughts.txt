@@ -1,0 +1,6 @@
+We were thinking which phone and Android version we primarily should developed towards and did a bit of a research on market shares.
+
+According to statcounter.com we can see that Android 10.0 recently overtook 9.0 and is still rising in market share while 9.0 is decreasing, which makes it a viable choice for the OS.
+
+Source: https://gs.statcounter.com/os-version-market-share/android/mobile-tablet/worldwide
+

@@ -1,0 +1,50 @@
+Individual reflection week 5:
+
+This week was particularly not productive from my side and I am not happy at all about it.
+This was due to the fact that I did not manage to have enough time to handle both this sprint
+and other activities(including my other course lab) that made me busy during this week. It is why
+I feel like the organisation of this week's work wasn't perfect and I started to feel a little bit 
+stressed with the current situation.
+
+What is the current situation? (A)
+
+This week we split our team in two smaller groups so that each of them implements one of the main
+user stories of our app. The productivity of the two groups was not the same. The main issue was that
+we did not have the correct version of the basis (home page with information/help) of the app on Git.
+Therefore it wasn't obvious to continue with developping the next user stories on git branches. As the
+notification system user story was pretty independant of the basis, this one was almost completely implemented.
+
+Our supervisor advised us one more time to make our user stories more vertical, by specifying the backend 
+tasks for each of them that were too horizontal. I took the initiative to change this aspect on Trello(Scrum board)
+to make it more readable for all the team members to know what must be done for each user story to be completed.
+
+I must admit that I became stressed, seeing that the final deadline is approaching and how inefficient I was this week.
+However I am aware that stress strongly motivates me to work harder now and to improve my contribution to team deliveries.
+  
+
+What I want the situation to be? (B)
+
+This next week should be more productive, especially from my side. We should plan all our team meetings for the week,
+right after the supervision session on Monday, so it will be easier for all of us to keep track on our team deadlines.
+I know that this will make me more efficient in my work. We also should make better use of our Scrum board, updating it regularly,
+so that if a member of a team misses a team meeting it would be easier for him to know what decisions were made on it.
+This is one of the aspect that made me a little bit lost at a moment during this week, concerning the progress of our work.
+At the end of this week, we should already have the main features of our app implemented and merged on github.
+Another thing that I would like to improve is the use of branches and how to correctly merge them. I think I already have a general 
+understanding of it, but I still miss some practice.
+
+I hope that this week will be the most productive one and that we will make good use of tools like Trello and git to keep updating
+the team of the progress of implementing the user stories.
+
+Plan to reduce the gap (A->B):
+
+I think the most important aspect we have to improve within the team regarding last week is the planning communication. Our meetings
+should be shorter but planned in advance, so everyone can split their own workload for the week. The fact that it wasn't the case last week
+was an issue for me in particular. Once I know the deadlines I would planify better my work. 
+In order to deliver the user stories we split among us, we will have also meetings in smaller groups, to discuss only on implementation.
+In this way we will be also able to program in smaller groups (2-3 people), which will make sure that within the "user story" group everyone 
+follows the work and knows how it progresses. What I really appreciate in this way of working is the possibility to brainstorm while writing 
+code and it decreases the risk of being stuck with an issue. Splitting the specific tasks between members will allow us to work also on our 
+own, continuing to learn AndroidStudio through work. Working on separate developpment branches (and not only the master) will help me to make 
+better use of this tool on GitHub.
+

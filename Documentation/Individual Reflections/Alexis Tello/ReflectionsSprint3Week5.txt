@@ -1,0 +1,22 @@
+My personal reflection about this fifth week of the third sprint of this project:
+
+(A)I personally have to say that it's been a very fun and at the same time a very efficient week, where almost everything has been learning about xml in 
+Andorid studio. Learning the different features that Android offers to custom the plattform from simple things as how to make a simple TextView, to more
+complicated things as how to make a modern custom menu coming out of a custom toolbar. (B) The goal for right now I think it could be to make those options
+that has been implemented in the menu more operative and responsive. (A->B) And the only way I see it for making it to this "goal" is to just keep on
+programming so we can check this features.
+
+All the meetings we've had with the entire group seems to work perfect at the moment, we have (as I mentioned in ealier reflections) really easy to work 
+with each other. I've got so much more time now that I planned my schedule for my work and that's a difference that I've personally noticed very much these
+days since I've been having more free time to be able to catch up some things I had missed a little on the first weeks plus new knowledge about using Android
+studio.
+
+I think that our way using Scrum in this project has been very effective since we're almost having daily meetings where been talking about what we've been
+doing to have a better understanding on this agile-method at the same time that we've been improving our skills on this program gitHub. If some of us
+feels that he/she doesn't understand something then we're all there to help each other. We also have decided how long and how many our sprints are going 
+to be for this project.
+
+(A)We've decided last week that the best thing we could do at the moment were to start programming the background of the app and choose the one we all like
+the most. This would at the same time be like small introduction to Android Studio so we can get more comfortable with this program and its different features,
+such as the combination with the markup language XML and its interaction with the Java.classes for making the app. (B)The goal with this "exercise" is for, as I
+said, getting more comfortable with Android Studio wich I believe we've done well.(A->B) 

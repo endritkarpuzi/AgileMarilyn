@@ -1,0 +1,46 @@
+Team reflection for week 3:
+
+During this week we have mostly focused on finalizing our planing, meaning that we've have a final plan for which architecture and developing background we will use.
+This week started with a supervision meeting with our supervisor Hannes. During this meeting he made some good remarks about our product backlog which wasn't exactly how it
+was supposed to be. We had basically put our sprint planning there rather than the epics and themes for our application. So the first thing we focused on 
+was to fix the backlog and we now have a (according to us) final backlog which is a lot better. We've also decided deadlines for our coming reflection
+and this has been set to Sundays at 23:59 so that we have time to reflect on any questions we have in preperation for the supervision meeting.
+
+Hannes also informed us that working in Android Studio is quite a bit different than "regular" java-development, which proved to be true. He advised us to upload a 
+Hello World-file made in Android Studio which all team members have done. The common thought among the group members is that working in Android Studio will be 
+very different and will be a bit of a challenge but we are all eager to learn and will view this as a learning experience.
+
+We have also transferred our Scrum board and the backlog to Trello and have implemented Trello in our GitKraken-project (the UI for Git which we mention in
+earlier reflections). This means that pretty much the whole planning is done and starting next sprint (week 4) the development will start.
+Our Trello-board can be found here: https://trello.com/b/nDEd7XCT/scrum-board
+
+Our social contract:
+Our thoughts regarding the social contract for this week are that each member has put in the work required for the goals of this week. While we wanted to start 
+developing the app, the consensus among the members was that we needed to define our stories, our backlogs, our sprints better and also finalize our preliminary 
+planning which we consider have been achieved.
+
+Our KPIs:
+For the productivity levels of this week was okay even though we had some issues with things from earlier sprints, as mentioned earlier. 
+As a group we would put this at 3.5, because while we didn't manage to do the things we actually wanted and had to focus on fixing issues from earlier weeks.
+
+For the stress levels, we would put it at a 2. The issues we had weren't neither critical nor time-consuming but made a bit of a dent in our planning.
+
+For the team sastisfaction we would put it at 3. As mentioned earlier we would probably been more satisfied if we had started with the development of the application,
+but we are still satisfied to have finalized our earlier issues.
+
+For the next sprint:
+Starting Monday we plan to start developing the application. The stories are well defined in Trello and we have a clear idea of where to start.
+By the end of next week we would like to at least have programmed some of the basic functionalities and have a bit of GUI finished.
+
+A conclusion of this week using the A, B, A->B reflective loop the situation as of now is the planning for the development is finished (such as tools and programs we will use), 
+and all stories are defined.
+
+We have had a few problems, such as the backlog and stories not being well defined and for a future project (B) this shouldn't be as big of a problems
+since this was the first time working in a team using the agile method. We've had some issues deciding on the architecture (Trello, GitKraken, Android Studio) and for a 
+similar project in the future this should probably be finished earlier.
+
+In order to reduce this gap, the main way to address these problems (A -> B) in a future project would be to maybe have longer, more frequent initial meetings for the planning
+as this sets the tone for the rest of the project. By gaining knowledge about the tools/methods we are going to ise (Scrum, agile, android studio, definitions of backlogs etc) 
+in advance, it reduces the amount of things needed to be fixed later in the project.
+
+Endrit, Alexis, Mohammed, Smedra, Firel, Cezary

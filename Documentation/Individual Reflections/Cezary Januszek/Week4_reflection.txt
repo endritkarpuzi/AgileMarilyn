@@ -1,0 +1,50 @@
+My individual reflection week4: 
+
+At the beggining of this week, we received feedback from our supervisor on
+aspects that he suggested we improve, like the product bakclog. His feedback
+was very positive as he found that we defined well the user stories and tasks.
+However he advised us to try to rethink and increase the verticality of some
+of the user stories, while we progress during the project.
+
+The main focus of the whole team this week was to make each one of us discover
+the basic functionnalities of AndroidStudio by trying to do a first prototype
+of a welcome screen. As each team member did his/her own welcome screen for
+the app, this allowed us to see some different ideas and concepts. After a
+meeting we agreed what elements and ideas we should keep for our project.
+
+I also took some time to reconsider how my individual reflections should look
+like and I found out that they should follow the A,B,A->B reflective loop in a
+clearer way. That is why I decided from this week to clearly distinguish these
+different parts of my reflections.
+
+What is the current situation? (A)
+As we made the final changes to our product backlog and transferred the Scrum borad
+to Trello at the end of last week, we decided that now we focus on starting the
+implementation of our app. We chose its name - "GreenTips", suggested by Endrit that we 
+all found great. Then as I said in the intro, we agreed that each of us should do its own
+Welcome Screen and logo for the app to discover how to do this simple task in AndroidStudio.
+This idea worked very well as each of us presented to others, during a meeting and after it,
+his/her own concept. That allowed us to make the best choices for each element and start the
+project by combining some of everyone's ideas into a final concept of the app.
+I think that this is a great way to start as it forced us to discover on our own how to do such
+simple things in a new working environment which AndroidStudio is for us all. All the team now can
+progress and start more difficult implementation knowing that we all start with the same basic knowledge
+and at the same pace.
+
+What I want the situation to be? (B) 
+With the end of this week, after the decisions we made I believe that we can move our first user stories
+(Welcome screen, Information/Help) to the "Done" section of our Scrum board. I think that for this coming week
+we should split between the team members the different user stories and tasks to start the implementation of the main 
+features of our app. In my opinion we should also decide in advance about our meetings at precise hours, as the last weeks 
+we were very often changing the hour of the meeting to be able to match everyone's schedule. However, almost each time every 
+member of the team was present at each meeting. Planned meetings will surely help us to planify better our work. I also want to
+continue learning to code in AndroidStudio to become more efficient and confident about using it.
+
+Plan to reduce the gap (A->B):
+I know that to be more at ease with using new tools, I just have to spent some more time practising and discovering its functionnalities.
+The best way to do it will be to have a goal to reach (like having to implement a precise user story) in a given deadline. I believe that
+meetings with the team will be also very helpful as we could address our issues and receive help from others that learned faster than we did.
+As a team we should therefore, planify the whole sprint after the supervision hour, so that everyone knows when we will have meetings and how 
+much time we have to implement chosen features of our app. Communication in our team must remain as good as it was until know, but we must
+improve our process of making decisions as a team.
+  

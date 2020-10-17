@@ -1,0 +1,21 @@
+My personal reflection about this third week of the now second sprint of the project:
+
+I personally have to say that I've learned and practiced pretty much on Android studio, since I noticed that there was a pretty big difference from just
+knowing Java-programming. I didn't expect to have to practice so much on this platform but I would actually check this as goal since I can definetly say 
+that I do have a better knowledge about how the appearance of the app's structureto is like and I feel even more confidence using this program.
+So next week we'll be working a lot more developing the different stories of the product's backlog, something I'm again very excited to be working with 
+since programming feels for sure more like my comfort area in this project.
+
+All the meetings we've had with the entire group seems to work perfect at the moment, we have (as I mentioned in ealier reflections) really easy to work 
+with each other. I've got so much more time now that I planned my schedule for my work and that's a difference that I've personally noticed very much these
+days since I've been having more free time to be able to catch up some things I had missed a little on the first weeks plus new knowledge about using Android
+studio.
+
+I think that our way using Scrum in this project has been very effective since we're almost having daily meetings where been talking about what we've been
+doing to have a better understanding on this agile-method at the same time that we've been improving our skills on this program gitHub. If some of us
+feels that he/she doesn't understand something then we're all there to help each other. We also have decided how long and how many our sprints are going 
+to be for this prokect.
+
+The only thing we missed last week was that we missunderstood a little at first and forgot to make the stories and user-stories for the product's baklog, that
+and that we also had made the Hello World-file in just Java when it actually had tobe more for an Android-studio project. So we learned to interact with xml
+an Java for this part of the project and I have to say that's it's been going very well so far.

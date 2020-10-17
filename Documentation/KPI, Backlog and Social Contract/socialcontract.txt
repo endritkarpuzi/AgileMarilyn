@@ -1,0 +1,18 @@
+Social contract
+
+The rules set for our team are the following, and we expect the team members to adhere to the rules since we believe it will result in the smoothest possible development.
+
+1. Everybody puts an effort and delivers what is expected from them.
+2. We immediately raise questions or issues we have.
+3. Regular meetings where we discuss our process in the project.
+4. Tell eachother if something is too hard or if we need help with something.
+5. Know what we want to achieve and how to work towards that goal.
+
+Sprint 1:
+Time spent:
+Spring 1 (week 1): Approximately 10 hours
+
+What we've delivered:
+A project idea, definition of roles, initialization of a Scrum board (Google docs for the time being), 
+KPIs and individual reflections. Perhaps a bit longer than wanted but since it was the first sprint we're comfortable 
+with it taking a bit longer and in return having most of the initial problems sorted.

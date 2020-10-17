@@ -1,0 +1,81 @@
+
+Product backlog
+
+Epics:
+(each epic corresponds to a color label on our scrum board)
+
+1) Start screen
+
+User stories:
+ 
+a) As a user I expect a nice welcome screen with the name of the app
+	Tasks: 
+	- Add a backgroud 
+	- Choose the font and size of the titles/messages to display
+	- Add the name of the app
+	- Add a Welcome message
+b) As a user I want to have an information/help option 
+	Tasks:
+	- Add the information icon
+	- Add the description of the functionality of the app	
+	- Add information about developers 
+c) As a user I want to choose the language of the app
+	Tasks: 
+	- Add language icon 
+	- Add languages choices (english, swedish, french, spanish, arabic, albanian, polish)
+
+
+2) Basic functionality/content of the app (environmental tips)
+
+User stories: 
+
+a) As a user I would like to choose between different categories 
+	Tasks:
+	- Add the categories (transport, outdoor, household, worklife, social life)
+	- Add the (category)menu interface
+b) As a user I want to have an enjoyable slide-cards system for viewing tips
+	Tasks: 
+	- Implement the slide-card system
+	- Choose the design of the cards 
+	- Add the possibility to change language, while viewing a card
+c) As a user I want to have verified and helpful tips
+	Task:
+	- Add verified tips for each category
+	- Add translations of the tips to all the avaible languages 
+
+
+3) Enable adding and reporting tips feature
+
+User stories:
+
+a) As a user I would like to add my own tips
+	Tasks:
+	- Add the option to suggest your own tip
+	- Approval system of submitted tip
+b) As a user I want to have the possibility to report tips that I find inaccurate
+	Tasks:
+	- Add the "report a tip" feature
+	- Checking system for reported tips
+
+
+4) Enable notifications 
+
+User stories:
+
+a) As a user I want to have notifications that inform me of new tips 
+	Tasks:
+	- Add the notification fonctionality
+	- Option to choose the frequency of notifications
+b) As a user I want to be able to add and remove notifications for different categories 
+	Tasks:
+	-Adding and removal options
+
+
+5) Achievements
+
+User stories: 
+
+a) As a user I would like the app to motivate me through a system of achievements
+	Tasks:
+	-System of achievements in the different categories
+	-Add notifications to motivate the user to accomplish the achievements

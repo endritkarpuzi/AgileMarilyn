@@ -1,0 +1,38 @@
+My personal reflection for the first sprint
+
+This course being the first in my exchange year at Chalmers, I was really glad to discover that it is a project course.
+This will give me the opportunity to meet and work with new people, especially with regular Chalmers students.
+I have already done a few programming projects for my courses, but never in a such big team of 6-7 members.
+I am curious to see how well we will be able to split the work and interact with each other, while progressing in our 
+work to deliver the best product we can in a given deadline.
+
+I am excited to discover the agile way of managing a project from scratch and I find it really interesting that we are 
+totally free to choose the kind of app we would deliver at the end of this course, being only limited by the theme of 
+UN Sustainable Development goals. The fact that the result of this project can be truly useful for peaople to meet one or more of 
+those sustainable goals is for me an additional motivation to do my best in this project. 
+As I have never worked before using Scrum, I hope to learn as much as I can from it. This will be an occasion for me too learn how
+to be more productive, while programming. Depending on the programming language my team will agree to use for this project I will
+for sure improve my programming skills and knowledge in this language or rather I will learn a totally new one. 
+Additionally this will also be an oppoetunity for me to discover a little bit better all the fonctionalities of GitHub, despite the 
+fact that I have already used it in most of my previous projects.
+
+Of course I won't be the only one in my team, learning new things and willing to improve my skills. I hope that I will be able to get to know 
+what background differences I have (if any) with other members of the team and that all of us will learn how to take advantage from them. 
+I am sure that in a team we can always learn something new from the others and I would be glad to help other members with some parts that I am 
+maybe more familiar with. On the other side, I know that I learn a lot in every project I do and sometimes I must remember to ask for help if
+I am stuck instead of trying to understand some parts by myself for too long. This is an important aspect of my work and project understanding that
+I hope to improve.
+
+Being a Scrum beginner, I hope to learn a lot. I will of course do the best I can to do my parts of the project and ask for help as soon as I see
+that I am struggling to understand or finish by myself my part of the work. I think that a productive and regular work will be the essential part of
+my contribution to make the project progress as established with the whole team.
+
+In a team project like this I know that the communication between its memebers is usually the most important aspect to work on. I will do my best to 
+communicate to my teammates any doubts I have or struggles I encounter to keep the work progressing. This will enable me to learn new things and very often
+just a small help or advice is sufficient to make me understand what I was missing to be able to continue the work on my own. Working as a whole team and communicating during
+each step of the project will make everyone more productive and we will be able to finish each sprint on time, delivering a code with quality and a good understanding of our
+application in everyone's head.
+
+I am aware that it can be a demanding project, but I am looking forward to learn from it as much as I can and have a first taste of what real computer engineers projects look like.
+
+Cezary Januszek

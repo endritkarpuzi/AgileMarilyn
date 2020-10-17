@@ -1,0 +1,63 @@
+Team Reflection:
+
+During these first two weeks (which we've decided is our first sprint) we've delegated roles and discussed development tools. 
+We’ve ultimately decided on using GitKraken for the version control and as we start the development to shift from Google Docs to Trello for our Scrum board. 
+We’ve also updated our backlog and defined our sprints and their deadlines. We’ve also decided on color coordination for our application 
+as well as the development architecture which we will discuss more later.
+
+As of now we have our Scrum board in a google document and we have defined our stories with various tasks.
+
+Using the A, B, A -> B structure our current situation is that most of the planning is done and the basis in order to start development has been set. 
+We have finished most of the tasks we had for this sprint and the two that are left are the individual and team reflections. 
+For the next sprint we want to have started programming the application and added the basic functionality. 
+Starting on Monday next week we will delegate the stories and possibly split them into even smaller sub-stories.
+
+We believe the best way to reach the goals for next sprint (A -> B) is to have regular meetings and we have set up a schedule in order to help us with routines and a smooth
+agile development. After the end of each sprint we’ll have a code review together and try to maximize efficiency in our application. We will count on having an application 
+that at least resembles the application we want to have in the end. 
+
+During this sprint we’ve gotten a basic understanding of how GitKraken works and how the system of Git with pushes, pulls and commits works. Our understanding is that using
+a program with an interface for the version control is better suited for us rather than using a terminal. 
+
+We’ve also decided to go ahead with an android app and for this purpose we’ve decided to use Android Studio. We still have a few questions to sort out, for example 
+which devices and OS will be supported. 
+
+Regarding the structure of the project and what we want to achieve learning-wise is how to work together in a larger group, and especially how to implement 
+remote development in a team. We believe that while developing together face to face, using zoom and other remote methods has still been quite good.
+
+Our KPIs were defined as following:
+Productivity:
+One challenge regarding productivity is that it sometimes has been difficult to assemble the team because the schedules (both private and school/work-wise) 
+have been different. One of the ways to tackle this challenge is to have a set schedule which we have begun to define. If we were to measure the productivity 
+this sprint from 1 to 5 we would put it at a 3. This is natural for us since it is the beginning of the project and there have been a lot of initial problems 
+to solve and especially working remotely has posed a bit of a challenge.
+
+Stress levels:
+While there have been some questions to sort out they haven’t been critical or time sensitive in any way so few of the team members have experienced high stress levels. 
+The personal stress levels will be discussed in our individual but as a group we would put it at 2 as an average. We believe this number will be higher in the coming sprints.
+
+Satisfaction for this sprint:
+We have finished the initial planning and set a good base for the coming sprints. All the team members feel like the project is heading in a good direction '
+and have a good understanding of what we have to do. We have finished our tasks ahead of the deadlines and have done so comfortably so we’d put it at a 4.
+
+Regarding our social contract (which can be found in our repo): 
+Since we haven’t started the real development we haven’t had a need for help or regular meetings. We believe our social contract will influence our work a lot more starting 
+next week. One of the things that might have been sort of difficult has been using GitKraken since many haven’t had any experience in it, but with help from each other 
+we have gotten past this first problem without any issues. We have a clear idea of what we want to achieve and we will achieve that through teamwork, by helping 
+each other and using different tools as we already have done with Git and GitKraken.
+
+The time we have spent during this week is around 7 hours: 4 hours in meetings and planning and around 3 hours in individual time spent.
+
+The above are the topics we’ve chosen to reflect around. Some of the topics we found weren’t relevant for this week are code quality, coding standards, 
+how the scrum method is working since we haven’t started programming yet. These topics will be central in the coming weeks. 
+
+Some of the difficulties has been understanding the definitions of the different methods and processes used in the course; terms like scrum, sprints, backlogs, 
+the definition of agile development but we feel like most of these problems sort of have been sorted out in the lectures (even if the definitions can vary a 
+bit depending on who you ask).
+
+Planning ahead, our idea is to start working on the application starting this week, which will be the start of our second sprint. On Monday we will have a meeting 
+where we choose/delegate our stories and also present our work so far to our supervisor. During this weekend we will reflect on questions or issues with the course 
+as a whole and ask them to our supervisor.
+
+Group Marilyn
+Endrit, Alexis, Firel, Cezary, Mohammed, Smedra
