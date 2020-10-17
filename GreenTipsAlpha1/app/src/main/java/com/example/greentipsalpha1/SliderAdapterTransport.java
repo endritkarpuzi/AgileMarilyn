@@ -19,7 +19,6 @@ public class SliderAdapterTransport extends PagerAdapter {
         this.context = context;
     }
 
-
     public int[] slide_images2 = {
             R.drawable.number1,
             R.drawable.number2,

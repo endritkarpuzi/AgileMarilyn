@@ -18,7 +18,15 @@ public class SliderAdapterSocial extends PagerAdapter {
     public SliderAdapterSocial (Context context) {
         this.context = context;
     }
-
+    public int[] slide_images2 = {
+            R.drawable.number1,
+            R.drawable.number2,
+            R.drawable.number3,
+            R.drawable.number4,
+            R.drawable.number5,
+            R.drawable.number6,
+            R.drawable.number7,
+    };
     public int[] slide_images = {
             R.drawable.lamp,
             R.drawable.lamp,
@@ -57,9 +65,11 @@ public class SliderAdapterSocial extends PagerAdapter {
         View view = layoutInflater.inflate(R.layout.slide_functionality, container, false);
 
         ImageView slideImageView = (ImageView) view.findViewById(R.id.slide_image);
+        ImageView slideImageView2 = (ImageView) view.findViewById(R.id.slide_image2);
         TextView slideHeading = (TextView) view.findViewById(R.id.slide_heading);
 
         slideImageView.setImageResource(slide_images[position]);
+        slideImageView2.setImageResource(slide_images2[position]);
         slideHeading.setText(slide_headings[position]);
 
         container.addView(view);
