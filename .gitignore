@@ -1,24 +1,32 @@
 
-GreenTipsAlpha1/.idea/workspace.xml
+#built application files
+*.apk
+*.ap_
 
-*.bin
-
-*.lock
-
-*.ser
-
-*.json
-
-*.jar
-
+# files for the dex VM
 *.dex
+
+# Java class files
+*.class
+
+#Local configuration
+local.properties
+
+# OSX files
+.DS_Store
+
+#Android Studio 
+*.iml
+.idea
+.gradle
+
+GreenTipsAlpha1/.idea/workspace.xml
 
 GreenTipsAlpha1/app/build/
 
-*.class
+*.bin
 
-*.ap_
+*.json
 
-*.flat
 
-*.apk
+
