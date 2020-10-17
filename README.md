@@ -20,7 +20,9 @@ Documentation folder - contains all the team documentation for this project:
  
  -> "KPI, Backlog and Social Contract" with our social contract, product backlog, KPIs, KPI chart and definition of done
  
- GreenTipsAlpha1 - project folder of our app "GreenTips"
+ GreenTipsAlpha1 folder - project folder of our app "GreenTips" prototype
+ 
+ .gitignore - contains all the files we judged that should be ignored by Git when pushing/pulling
  
 
 
