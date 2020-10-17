@@ -31,6 +31,9 @@
     <string name="shorttransporttip6" translatable="false">Take one car</string>
     <string name="shorttransporttip7" translatable="false">Save your money</string>
 
+
+
+
     <string name="transporttip1" >Walk for short trips.
         \n\nWalking helps reduce body fat, lower blood pressure and is free.
         It may also take less time than you think.
@@ -71,38 +74,60 @@
         \n\nHaving a car costs a lot nowadays, the fuel is pretty expensive and the congestion tax in Sweden becomes
         more expensive every year so think twice before buying your own car!</string>
 
+
+    <string name="shorthouseholdtip1" translatable="false">Stop using disposable bags</string>
+    <string name="shorthouseholdtip2" translatable="false">Use cold water when washing your clothes</string>
+    <string name="shorthouseholdtip3" translatable="false">Make your own cleaning products</string>
+    <string name="shorthouseholdtip4" translatable="false">Insulate your home</string>
+    <string name="shorthouseholdtip5" translatable="false">Turn off lights when you leave the room</string>
+    <string name="shorthouseholdtip6" translatable="false">Eat less meat</string>
+    <string name="shorthouseholdtip7" translatable="false">Recycle everything</string>
+
+
     <string name="householdtip1" translatable="false">
         \n\nStop using disposable bags
 
 	    \n\nGet some reusable bags—my Or, make your own—they’re insanely easy.
 
 
+
     </string>
     <string name="householdtip2" translatable="false">
-        \n\nUse cold water when washing your clothes...
+        \n\nUse cold water when washing your clothes
 	    \n\nHot water will actually set stains, and cold water will get your clothes just as clean.
 
 
     </string>
     <string name="householdtip3" translatable="false">
-        \n\nMake your own cleaning products...
+        \n\nMake your own cleaning products
         \n\nReplace all your plastic chemical containers with a single one.
         \n\n*Window cleaner: 1/4 cup of white vinegar, 2 cups of warm water and tea tree oil
         \n\n*Anti-bacterial cleaner: 1/4 cup of white vinegar, 1 tbsp of baking soda, 1 litre of hot water and orange essential oils
     </string>
     <string name="householdtip4" translatable="false">
-        \n\nInsulate your home...
+        \n\nInsulate your home
 	    \n\nHomes that aren\'t well insulated are much harder to keep warm when it\'s cold, and cool when the weather is hot.
     </string>
-    <string name="householdtip5" translatable="false">Turn off lights when you leave the room.</string>
+    <string name="householdtip5" translatable="false">
+        Turn off lights when you leave the room.</string>
     <string name="householdtip6" translatable="false">
-        \n\nEat less meat...
+        \n\nEat less meat
 	    \n\nNot having red meat, even if it’s just for two or three days a week - can have quite a significant impact on reducing your carbon footprint.
 </string>
     <string name="householdtip7" translatable="false">
-        \n\nRecycle everything...
+        \n\nRecycle everything
 	    \n\nYou can recycle almost everything, from batteries to paper to cars. Before you throw it away, take a minute to find out if you could recycle it instead.
 </string>
+
+
+    <string name="shortworklifetip1" translatable="false">Recycle!</string>
+    <string name="shortworklifetip2" translatable="false">Go paperless!</string>
+    <string name="shortworklifetip3" translatable="false">Green cleansing</string>
+    <string name="shortworklifetip4" translatable="false">No more water bottles</string>
+    <string name="shortworklifetip5" translatable="false">Plan you work day</string>
+    <string name="shortworklifetip6" translatable="false">Use public transport</string>
+    <string name="shortworklifetip7" translatable="false">Have green decoration</string>
+
 
     <string name="worklifetip1" translatable="false">
         \n\nRecycle!
@@ -145,6 +170,13 @@
         carbon dioxide and that helps you to get healthier air in you office and add beautiful
         design.
 </string>
+    <string name="shortsocialtip1" translatable="false">Buy Eco friendly clothes</string>
+    <string name="shortsocialtip2" translatable="false">Be more vegan outside</string>
+    <string name="shortsocialtip3" translatable="false">Buy vintage</string>
+    <string name="shortsocialtip4" translatable="false">Eat locally produced food</string>
+    <string name="shortsocialtip5" translatable="false">Save water</string>
+    <string name="shortsocialtip6" translatable="false">say no to plastic straw</string>
+    <string name="shortsocialtip7" translatable="false">Use containers</string>
 
     <string name="socialtip1" translatable="false">
         \n\nBuy Eco friendly clothes
@@ -191,7 +223,13 @@
         \n\nThrow your old clothes in containers so they reuse them instead of burning them.
 
     </string>
-
+    <string name="shortoutdoorstip1" translatable="false">Be careful what you burn</string>
+    <string name="shortoutdoorstip2" translatable="false"> Keep water clean</string>
+    <string name="shortoutdoorstip3" translatable="false">Stop buying plastic bags</string>
+    <string name="shortoutdoorstip4" translatable="false">Do not throw rubbish on the ground</string>
+    <string name="shortoutdoorstip5" translatable="false">Do not smoke in public places</string>
+    <string name="shortoutdoorstip6" translatable="false">Stop using hair spray</string>
+    <string name="shortoutdoorstip7" translatable="false">Here we give information about the first tip, on click open this slide</string>
     <string name="outdoorstip1" translatable="false">
         \n\nBe careful what you burn
 

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -42,25 +42,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Hp\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:5:5-39:19
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:5:5-39:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:22:5-20
@@ -72,103 +72,103 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Hp
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.greentipsalpha1.ContactForm
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:9-58
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:9-58
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:19-46
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:19-46
 activity#com.example.greentipsalpha1.slidecreatortransport
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:9-59
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:9-59
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:19-56
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:19-56
 activity#com.example.greentipsalpha1.slidecreatoroutdoors
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:9-58
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:9-58
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:19-55
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:19-55
 activity#com.example.greentipsalpha1.slidecreatorsocial
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:9-56
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:9-56
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:19-53
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:19-53
 activity#com.example.greentipsalpha1.slidecreatorworklife
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:9-58
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:9-58
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:19-55
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:19-55
 activity#com.example.greentipsalpha1.slidecreatorhousehold
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:9-59
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:9-59
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:19-56
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:19-56
 activity#com.example.greentipsalpha1.socialTips
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:9-48
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:9-48
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:19-45
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:19-45
 activity#com.example.greentipsalpha1.outdoorsTips
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:19:9-50
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:19:9-50
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:19:19-47
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:19:19-47
 activity#com.example.greentipsalpha1.worklifeTips
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:9-50
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:9-50
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:19-47
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:19-47
 activity#com.example.greentipsalpha1.householdTips
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:21:9-51
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:21:9-51
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:21:19-48
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:21:19-48
 activity#com.example.greentipsalpha1.schedule
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:22:9-24:55
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:22:9-24:55
 	android:windowSoftInputMode
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:13-52
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:13-52
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:13-37
 activity#com.example.greentipsalpha1.splashscreen
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:9-31:20
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:29:27-74
 activity#com.example.greentipsalpha1.transportTips
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:32:9-34:59
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:32:9-34:59
 	android:windowSoftInputMode
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:34:13-56
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:34:13-56
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:33:13-42
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:33:13-42
 activity#com.example.greentipsalpha1.choose_category
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:35:9-53
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:35:9-53
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:35:19-50
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:35:19-50
 activity#com.example.greentipsalpha1.about
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:36:9-43
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:36:9-43
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:36:19-40
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:36:19-40
 activity#com.example.greentipsalpha1.choose_lang
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:37:9-49
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:37:9-49
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:37:19-46
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:37:19-46
 activity#com.example.greentipsalpha1.welcome
-ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:38:9-45
+ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:38:9-45
 	android:name
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:38:19-42
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:38:19-42
 uses-sdk
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\fee048776b4040c0a73e83e4303a6cff\material-1.2.1\AndroidManifest.xml:20:5-44
@@ -245,13 +245,13 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\t
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Hp\.gradle\caches\transforms-2\files-2.1\1e0614212b25f4ae67724a3587ed8129\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn - kopia\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml

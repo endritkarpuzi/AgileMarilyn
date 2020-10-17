@@ -65,7 +65,7 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:textAllCaps="false"
-                android:text="@string/socialtip1" />
+                android:text="@string/shortsocialtip1" />
 
             <Button
                 android:id="@+id/socialtip2"
@@ -76,7 +76,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/socialtip2" />
+                android:text="@string/shortsocialtip2" />
 
             <Button
                 android:id="@+id/socialtip3"
@@ -87,7 +87,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/socialtip3" />
+                android:text="@string/shortsocialtip3" />
 
             <Button
                 android:id="@+id/socialtip4"
@@ -98,7 +98,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/socialtip4" />
+                android:text="@string/shortsocialtip4" />
 
             <Button
                 android:id="@+id/socialtip5"
@@ -109,7 +109,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/socialtip5" />
+                android:text="@string/shortsocialtip5" />
 
             <Button
                 android:id="@+id/socialtip6"
@@ -120,7 +120,7 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/socialtip6" />
+                android:text="@string/shortsocialtip6" />
 
             <Button
                 android:id="@+id/socialtip7"
@@ -133,7 +133,7 @@
                 android:textAllCaps="false"
                 android:layout_marginBottom="25dp"
 
-                android:text="@string/socialtip7" />
+                android:text="@string/shortsocialtip7" />
 
 
         </LinearLayout>
