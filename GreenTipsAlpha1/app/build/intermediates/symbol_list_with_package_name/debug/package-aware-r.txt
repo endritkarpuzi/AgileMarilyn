@@ -1565,6 +1565,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable lamp
+drawable link_icon
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1705,6 +1706,7 @@ id bounce
 id btnCancel
 id btnSet
 id buttonPanel
+id button_links
 id cancel_action
 id cancel_button
 id center
@@ -1817,6 +1819,7 @@ id imageTips
 id imageView3
 id info
 id infoButton
+id infoTxtCredits
 id invisible
 id italic
 id item_touch_helper_previous_elevation
@@ -1964,6 +1967,7 @@ id socialtip4
 id socialtip5
 id socialtip6
 id socialtip7
+id sourcestext
 id spacer
 id spanish
 id spline
@@ -2129,6 +2133,7 @@ layout activity_choose_category
 layout activity_choose_lang
 layout activity_contact_form
 layout activity_household_tips
+layout activity_links_page
 layout activity_outdoors_tips
 layout activity_schedule
 layout activity_slidelayout
@@ -2398,6 +2403,7 @@ string socialtip4
 string socialtip5
 string socialtip6
 string socialtip7
+string sourcestext1
 string status_bar_notification_info_overflow
 string string_green_tips
 string svenska
@@ -2409,6 +2415,7 @@ string transporttip4
 string transporttip5
 string transporttip6
 string transporttip7
+string txtCredits
 string worklife
 string worklifetip1
 string worklifetip2

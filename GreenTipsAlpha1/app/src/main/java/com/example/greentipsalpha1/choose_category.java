@@ -29,7 +29,7 @@ public class choose_category extends BaseActivity {
     public Context getContext() {
         return this;
     }
-
+    public void goTolinkspage(View v) { startActivity(new Intent(choose_category.this, links_page.class)); }
     public void gotransport (View v){ startActivity(new Intent(choose_category.this, transportTips.class)); }
     public void gohousehold (View v){ startActivity(new Intent(choose_category.this, householdTips.class)); }
     public void gooutdoors (View v){ startActivity(new Intent(choose_category.this, outdoorsTips.class)); }

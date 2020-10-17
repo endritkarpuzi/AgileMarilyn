@@ -21,7 +21,16 @@
     <string name="household">Household</string>
     <string name="sociallife">Social life</string>
 
+    <string name="sourcestext1" translatable="false">Sources:</string>
+    <string name="txtCredits" translatable="false">
+        \n\n https://info.esg.adec-innovations.com/blog/environmentally-friendly-practices-for-the-workplace
+        \n\n https://info.esg.adec-innovations.com/blog/environmentally-friendly-practices-for-the-workplace
+        \n\n https://www.goodenergy.co.uk/blog/2017/08/22/ultimate-guide-eco-friendly-living/?fbclid=IwAR1NP5ebRs-PlYXbFdD7kD2r9O0OSw0vr4xw6MxpVmKaxr8GQ-FucukQfN4
+        \n\n https://backpackerspantry.com/blogs/news/7-tips-for-eco-friendly-outdoor-recreation
+        \n\n https://biofriendlyplanet.com/green-ideas/eco-friendly/12-small-changes-to-make-your-home-more-eco-friendly/
 
+
+    </string>
     <string name="chooseTip">Choose a tip</string>
     <string name="shorttransporttip1">Walk for short trips</string>
     <string name="shorttransporttip2">Opt for the bike</string>
@@ -32,9 +41,7 @@
     <string name="shorttransporttip7" translatable="false">Save your money</string>
 
 
-
-
-    <string name="transporttip1" >Walk for short trips.
+    <string name="transporttip1">Walk for short trips.
         \n\nWalking helps reduce body fat, lower blood pressure and is free.
         It may also take less time than you think.
 
