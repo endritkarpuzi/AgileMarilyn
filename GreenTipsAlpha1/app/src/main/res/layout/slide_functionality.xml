@@ -36,6 +36,6 @@
         android:paddingTop="5dp"
         android:paddingEnd="5dp"
         android:paddingBottom="10dp"
-        android:textAlignment="viewStart" />
+        android:gravity = "center_horizontal" />
 </RelativeLayout>
 
