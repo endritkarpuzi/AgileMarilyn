@@ -152,6 +152,10 @@
         "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\layout\\activity_transport_tips.xml"
     },
     {
+        "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_window_layout.xml.flat",
+        "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\layout\\popup_window_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_number2.png.flat",
         "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\drawable\\number2.png"
     },
