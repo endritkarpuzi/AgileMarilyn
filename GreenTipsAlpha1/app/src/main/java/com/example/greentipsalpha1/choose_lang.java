@@ -51,11 +51,7 @@ public class choose_lang extends AppCompatActivity {
             }
         });
     }
-
-    public void returnActivity (View v){
-        finish();
-    }
-
+    
     public void returnHome(View v){
         startActivity(new Intent(choose_lang.this, welcome.class));
     }

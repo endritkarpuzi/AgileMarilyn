@@ -32,9 +32,6 @@ public class links_page extends BaseActivity {
         return this;
     }
 
-    public void returnActivity (View v){
-        finish();
-    }
     public void returnHome(View v){
         startActivity(new Intent(links_page.this, welcome.class));
     }
