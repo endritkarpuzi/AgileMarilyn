@@ -158,6 +158,6 @@ public class choose_lang extends AppCompatActivity {
     }
 
     public void changeAlbanian(View v) {
-        changeLang("al");
+        changeLang("sq");
     }
 }

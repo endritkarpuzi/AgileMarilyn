@@ -97,4 +97,6 @@ public class ContactForm extends AppCompatActivity {
         Matcher matcher = pattern.matcher(email);
         return matcher.matches();
     }
+
+    public void returnHome(View v){ startActivity(new Intent(ContactForm.this, welcome.class)); }
 }
