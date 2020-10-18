@@ -316,6 +316,10 @@
     <string name="enter_your_subject_here">Enter your subject here</string>
     <string name="enter_your_message_here">Enter your message here</string>
     <string name="switch_view" translatable="false">Switch view</string>
+    <string name="popup_message" translatable="false">
+        In order to apply the language changes to the whole app, please return to the home screen!\n
+        (home button in bottom of the page)
+    </string>
 
 
 </resources>
