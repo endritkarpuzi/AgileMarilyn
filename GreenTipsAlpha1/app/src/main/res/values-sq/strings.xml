@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Språk och Info-->
+    <string name="chooseLang">Zgjidhni një gjuhë</string>
+    <string name="continueButton">Vazhdoni</string>
+    <string name="aboutButton">Informacion</string>
+    <string name="chooseCat">Vazhdoni</string>
+    <string name="category">Zgjidhni një kategori</string>
+    <string name="aboutapp">Zhvilluar nga:</string>
+    <string name="transport">Transport</string>
+    <string name="outdoors">Përjashta</string>
+    <string name="worklife">Në punë</string>
+    <string name="household">Shtëpiake</string>
+    <string name="sociallife">Jete sociale</string>
+    <string name="chooseTip">Zgjidhni një këshillë.</string>
+
+    <!--Transport-->
+    <string name="shorttransporttip1">Ecni për udhëtime të shkurtra</string>
+    <string name="shorttransporttip2">Përdorni biçikletën</string>
+    <string name="shorttransporttip3">Përdorni transportin publik</string>
+    <string name="shorttransporttip4">Planifikoni para udhëtimeve</string>
+    <string name="shorttransporttip5">Vozitje e gjelbër</string>
+    <string name="shorttransporttip6">Përdorni një makinë</string>
+    <string name="shorttransporttip7">Kurseni paratë tuaja</string>
+
+    <string name="transporttip1">Ecni për udhëtime të shkurtra.
+        \n\nEcja ndihmon për uljen e dhjamit në trup, ul presionin e gjakut dhe është falas.
+        Gjithashtu me më pak kohë sesa mendoni.
+        \n\nStudimet kanë treguar se shumica e njerëzve do të nënvlerësojnë kohën për udhëtime me makinën dhe mbivlerësojnë kohën që do të duhet për të ecur.
+        \n\nRitmi mesatar i ecjes është gjashtë kilometra në orë dhe nëse ecni nuk keni nevojë të gjeni parking kur të mbërrini ne destinacion.</string>
+    <string name="transporttip2">\n\n Zgjidh biçikletën
+         \n\nNjë udhëtimi 5 km në javë nga biçikletë digjë rreth 300 kalori dhe mund të kursejë
+         mbi 300 kg emisione të gazeve serë çdo vit.
+         \n\nA e dini? Udhëtimet në qytet janë zakonisht më të shpejtë me biçikletë se çdo formë tjetër e transportit.
+         \n\n Çiklizmi ndihmon uljen e dhjamit në trup, dh është hapi i parë për t’u bërë më i shëndetshëm dhe më i fortë!</string>
+    <string name="transporttip3">
+        Përdorni transportin publik
+        \n\nPërdorimi i transportit publik ju lejon të kaloni lehtë në trafik dhe parking dhe të jeni akoma në kohë!
+    </string>
+    <string name="transporttip4">
+        Planifikoni para udhëtimeve
+        \n\nPërfundoni porositë tuaja në një udhëtim për të kursyer benzin, para dhe kohë.
+        \n\nKjo do t\'ju lejojë të bëheni më produktivë gjatë ditës.</string>
+    <string name="transporttip5">
+        Vozitje e gjelbër
+        \n\nVozitni kujdesshëm. Vozitja në 90 km/h përdor 25% më pak benzin sesa vozitja ne 110 km/h
+        \n\nSlow down, driving at 90 km/h uses 25% less fuel than travelling at 110 km/h.
+        \n\nKontrolloni rregullisht presionin e gomave. Goma të nën-fryrë mund të rrisë konsumin e benzinit me 3% dhe hiq 10,000 km nga jeta e gomave.
+        \n\nNë vend që të përdorni AC, hapni dritaren kur vozitni nën 70 km/h.</string>
+    <string name="transporttip6">
+        Përdorni një makinë
+        \n\nNë vend që të merrni disa makina për të bërë të njëjtin udhëtim me miqtë tuaj, merrni vetëm një makinë
+        \n\nKjo ju lejon të ndërroni vendet me shoferin për ta bërë udhëtimin tuaj më të sigurt dhe më të rehatshëm
+        \n\nMund të zgjidhni te udhëtoni bashkë për të thyer monotoninë e udhëtimit tuaj të përditshë.</string>
+    <string name="transporttip7">
+        Kurseni paratë tuaja
+        \n\nTë kesh një makinë kushton shumë në ditët e sotme, benzini dhe taksat bëhen
+         më e shtrenjtë çdo vit.
+!</string>
+
+    <!--Hushåll-->
+    <string name="shorthouseholdtip1">Ndaloni përdorimin e qeses të disponueshme</string>
+    <string name="shorthouseholdtip2">Përdorni ujë të ftohtë kur lani rrobat tuaja</string>
+    <string name="shorthouseholdtip3">Bëni produktet tuaja pastruese</string>
+    <string name="shorthouseholdtip4">Izoloni shtëpinë tuaj</string>
+    <string name="shorthouseholdtip5">Fikni dritat kur dilni nga dhoma</string>
+    <string name="shorthouseholdtip6">Hani më pak mish</string>
+    <string name="shorthouseholdtip7">Riciklo gjithçka</string>
+
+    <string name="householdtip1">
+        \n\nNdaloni përdorimin e qeses të disponueshme
+	    \n\nBlini çanta të ripërdorshme. Ose, bëjini vetë - është shumë e lehtë.
+    </string>
+    <string name="householdtip2">
+        \n\nPërdorni ujë të ftohtë kur lani rrobat tuaja
+	    \n\nUji i nxehtë mund të prishë rrobat, mirëpo uji i ftohtë do t\'i bëjë rrobat tuaja po aq të pastra.
+    </string>
+    <string name="householdtip3">
+        \n\nBëni produktet tuaja pastruese
+        \n\nZëvendësoni të gjithë kontejnerët tuaj plastikë me një të vetëm.
+        \n\n*Pastrues dritaresh: 1/4 filxhan uthull të bardhë, 2 gota ujë të nxehtë dhe vaj melaleuca
+        \n\n*Pastrues anti-bakterial: 1/4 filxhan uthull të bardhë, 1 lugë sodë buke, 1 litër ujë të nxehtë dhe vajra esencialë portokalli
+    </string>
+    <string name="householdtip4">
+        \n\nIzoloni shtëpinë tuaj
+	    \n\nShtëpitë që nuk janë të izoluara mirë janë shumë më të vështira për te mbajtur të nxehta kur është ftohtë, dhe të freskëta kur është nxehtë.
+    </string>
+    <string name="householdtip5">
+        Fikni dritat kur dilni nga dhoma.</string>
+    <string name="householdtip6">
+        \n\nHani më pak mish
+	    \n\nMos të hani mish të kuq mund të ketë një ndikim të rëndësishëm në zvogëlimin e gjurmës tuaj të karbonit.
+    </string>
+    <string name="householdtip7">
+        \n\nRiciklo gjithçka
+	    \n\nMund të ricikloni gjithçka: bateritë, letra, makinat. Para se ta hidhni, merrni një minutë dhe mendoni nëse mund ta ricikloni.
+    </string>
+
+    <string name="shortworklifetip1">Riciklo!</string>
+    <string name="shortworklifetip2">Mos përdorni letër!</string>
+    <string name="shortworklifetip3">Produkte të gjelbër</string>
+    <string name="shortworklifetip4">Mos përdorni shishe uji</string>
+    <string name="shortworklifetip5">Planifikoni ditën e punës</string>
+    <string name="shortworklifetip6">Përdorni transportin publik</string>
+    <string name="shortworklifetip7">Përdorni dekoratë gjelbër</string>
+
+    <string name="worklifetip1">
+        \n\Riciklo!
+
+        \n\nShumë punëtor nuk kujdesen për riciklimin, por ka rëndësi riciklimi gjatë punës tuaj. Ju mund të ricikloni
+         letra, plastikë dhe ushqim për shembull.
+</string>
+    <string name="worklifetip2">
+        \n\nMos përdorni letër!
+        \n\nKaloni te dokumentet dixhitale në vend të letrës dhe konsideroni të blini letër të riciklua.
+</string>
+    <string name="worklifetip3">
+        \n\nProdukte të gjelbër
+        \n\nShumë produkte pastruese nuk janë miqësore me mjedisin dhe janë të rrezikshme për mjedisin, mirëpo edhe shëndetin e juaj.
+        \n\nBlini spreja dhe sapun të duarve ekologjike që nuk kanë kimikate të dëmshme.
+</string>
+    <string name="worklifetip4">
+        \n\nMos përdorni shishe uji
+        \n\nMund të pini ujë nga gota juaj, ose blini një shishe uji që mund të ripërdoret
+</string>
+    <string name="worklifetip5">
+        \n\nPlanifikoni ditën e punës
+        \n\nPërgatitni ushqimet tuaja një ditë para se të punoni, kështu që nuke të përdorni makinën për të blerë ushqim ose
+         sende të tjera.
+</string>
+    <string name="worklifetip6">
+        \n\nPërdorni transportin publik
+        \n\nMënyra më e mirë për të zvogëluar emetimet është përdorimi i transportit publik, nëse nuk është e mundur të përdoret ashtu
+         merrni biçikletën tuaj dhe çiklizoni në punë.
+</string>
+    <string name="worklifetip7">
+        \n\nPërdorni dekoratë gjelbër
+        Përditësoni zyrën tuaj duke e zbukuruar me bimë
+        \n\nBimët ju japin oksigjen dhe hiqni dioksid karboni dhe kjo ju ndihmon të merrni ajër më të shëndetshëm në zyrën tuaj dhe të shtoni bukuri dizajni.
+</string>
+    <string name="shortsocialtip1">Blini rroba ekologjike</string>
+    <string name="shortsocialtip2">Hani më shumë vegane</string>
+    <string name="shortsocialtip3">Blini të dorës së dytë</string>
+    <string name="shortsocialtip4">Hani ushqim të prodhuar në vend</string>
+    <string name="shortsocialtip5">Ruaj ujë</string>
+    <string name="shortsocialtip6">Mos përdorni pipa plastike</string>
+    <string name="shortsocialtip7">Jepni rrobat</string>
+
+    <string name="socialtip1">
+        \n\nBlini rroba ekologjike
+        \n\nPyesni dyqanin nëse rrobat e tyre janë prodhuar ekologjike.
+    </string>
+    <string name="socialtip2">
+        \n\nHani më shumë vegan
+        \n\nHani vegan në restorante, mos e hidhni ushqimin, përpiquni të hani më pak mish dhe të hani ushqim ekologjike.
+    </string>
+    <string name="socialtip3">
+    \n\nBlini të dorës së dytë
+    \n\nMbështetni dorën e dytë, blini rroba të vjetër dhe mobilje të përdorura në vend të reja
+    </string>
+    <string name="socialtip4">
+        \n\nHani ushqim të prodhuar në vend
+        \n\nHani ushqim prej vendit. Ushqimi i importuar kontribuon në degradimin e mjedisit.
+    </string>
+    <string name="socialtip5">
+        \n\nRuaj ujë
+        \n\nMundohuni të kurseni sa më shumë ujë
+        n\nMundohuni të pini ujë të bunarit në vend të shishes, dhe nëse nuk keni ujë të pastër përpiquni të blini një filtër.
+    </string>
+    <string name="socialtip6">
+        \n\nMos përdorni pipa plastike
+        \n\nPini me pipa letre në vend të plastikës. Ose mos perdorni pipa.
+    </string>
+    <string name="socialtip7">
+        \n\nJepni rrobat
+        \n\nJepni rrobat në mënyrë që ata t\'i ripërdorin ato në vend që t\'i digjen.
+    </string>
+
+
+    <string name="shortoutdoorstip1">Kini kujdes se çfarë qe digjeni</string>
+    <string name="shortoutdoorstip2">Mbani ujin të pastërt</string>
+    <string name="shortoutdoorstip3">Mos blini qese plastike</string>
+    <string name="shortoutdoorstip4">Mos hidhni mbeturina në tokë</string>
+    <string name="shortoutdoorstip5">Mos pini duhan në vende publike</string>
+    <string name="shortoutdoorstip6">Mos përdorni llakut të flokëve</string>
+    <string name="shortoutdoorstip7">Tip 7</string>
+    <string name="outdoorstip1">
+        \n\nKini kujdes se çfarë qe digjeni
+        \n\nMos digjeni kanaçeve të aluminit dhe sendeve të tjera që mund të lëshojnë ndotës në ajër.
+        \n\nJu gjithashtu duhet të jeni të kujdesshëm kur ndizni zjarret, sigurohuni që ju lejoheni ta bëni atë dhe nuk ka ndalime lokale të zjarrit për shkak të kushteve të rënda të thatësirës.
+    </string>
+    <string name="outdoorstip2">
+        Mbani ujin të pastërt
+        \n\nGjëra artificiale si kozmëtika dhe vajra për rrezitje mund ta bëjnë të papastër burimin të ujit.
+        \n\nZëvendësoni përdorimin e kimikateve kundër insekteve me një produkt natyror efektiv.
+    </string>
+    <string name="outdoorstip3">
+        \n\nMos blini qese plastike
+        \n\nrZëvendësoni çantat tuaja plastike me çanta rrobash
+</string>
+    <string name="outdoorstip4">
+        \n\nMos hidhni mbeturina në tokë
+        \n\nZogjtë mund të mbesin në çamçakëz në tokë në rrugë, dhe mund të goditjen nga makinat.
+        \n\nSidomos bateritë mund të kenë një efekt shumë të keq në natyrë.
+
+    </string>
+    <string name="outdoorstip5">
+        \n\nMos pini duhan në vende publike
+        \n\nPirja e duhanit prek si mjedisin ashtu edhe njerëzit në një mënyrë negative.
+        \n\nStudimet kanë treguar se prodhimi i duhanit shkakton humbje të pyjeve dhe sasia e dioksidit të karbonit të rritet në atmosferë.
+
+    </string>
+    <string name="outdoorstip6">
+        \n\nMos përdorni llakut të flokëve
+        \n\nLlak flokësh dhe produkte të tjerë të parfumuar kanë pasoja negative për mjedisin. Parfumet nuk prishen, por vazhdojnë në rrugët ujore.
+
+    </string>
+    <string name="outdoorstip7">Tip 7</string>
+    <string name="reminders">Kujtesë</string>
+    <string name="name_reminder">Emërtoni kujtesën tuaj</string>
+    <string name="button_schedule_set">OK</string>
+    <string name="button_schedule_cancel">Anulo</string>
+    <string name="contact_form">Kontakti</string>
+    <string name="contact_form_name">Emri juaj</string>
+    <string name="contact_form_email">Emaili juaj:</string>
+    <string name="contact_form_message">Mesazhi</string>
+    <string name="contact_form_subject">Lënda</string>
+    <string name="contact_form_button">Dërgoni mesazhin</string>
+    <string name="contact_form_post_message">Faleminderit që na kontaktuat, ju lutem prisni…</string>
+    <string name="contact_posted">Mesazhi juaj është dërguar.</string>
+    <string name="enter_your_e_mail_here">Emaili juaj këtu</string>
+    <string name="enter_your_name_here">Emri juaj këtu</string>
+    <string name="enter_your_subject_here">Lënda juaj këtu</string>
+    <string name="enter_your_message_here">Mesazhi juaj këtu</string>
+    <string name="sourcestext1">Burimet</string>
+    <string name="espanol">Español</string>
+    <string name="svenska">Svenska</string>
+    <string name="polsku">Polski</string>
+    <string name="shqip">Shqip</string>
+    <string name="english">English</string>
+    <string name="francais">Français</string>
+    <string name="app_name">GreenTips</string>
+    <string name="string_green_tips">Green Tips</string>
+
+
+</resources>
