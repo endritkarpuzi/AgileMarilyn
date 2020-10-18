@@ -13,7 +13,13 @@
     <string name="chooseCat">Choose a category</string>
     <string name="category">Category</string>
 
-    <string name="aboutapp">Developed by blablalba</string>
+    <string name="aboutapp">
+        <b>Welcome to GreenTips!</b>\n
+        \nThis application was developed by 6 students at Chalmers Tekniska Högskola in Gothenburg, Sweden.\n
+        \nWith the tips and ideas we give to you here, we will help you to reduce you environmental impact and live a healthier life!\n
+        \nSimply choose the category you are interested in and we will supply many, simple ways for a greener life.
+        \nReceive notifications for reminders and strive for achievements by choosing to have a tip in focus!
+    </string>
 
     <string name="transport">Transport</string>
     <string name="outdoors">Outdoors</string>
@@ -309,6 +315,7 @@
     <string name="enter_your_name_here">Enter your name here</string>
     <string name="enter_your_subject_here">Enter your subject here</string>
     <string name="enter_your_message_here">Enter your message here</string>
+    <string name="switch_view" translatable="false">Switch view</string>
 
 
 </resources>

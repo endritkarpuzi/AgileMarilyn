@@ -68,7 +68,9 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
                 android:textAllCaps="false"
-                android:text="@string/shortworklifetip1" />
+                android:text="@string/shortworklifetip1"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/worklifetip2"
@@ -79,7 +81,9 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
                 android:textAllCaps="false"
-                android:text="@string/shortworklifetip2" />
+                android:text="@string/shortworklifetip2"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/worklifetip3"
@@ -90,7 +94,9 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
                 android:textAllCaps="false"
-                android:text="@string/shortworklifetip3" />
+                android:text="@string/shortworklifetip3"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/worklifetip4"
@@ -101,7 +107,9 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
                 android:textAllCaps="false"
-                android:text="@string/shortworklifetip4" />
+                android:text="@string/shortworklifetip4"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/worklifetip5"
@@ -112,7 +120,9 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
                 android:textAllCaps="false"
-                android:text="@string/shortworklifetip5" />
+                android:text="@string/shortworklifetip5"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/worklifetip6"
@@ -123,7 +133,9 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
                 android:textAllCaps="false"
-                android:text="@string/shortworklifetip6" />
+                android:text="@string/shortworklifetip6"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/worklifetip7"
@@ -135,7 +147,9 @@
                 android:background="@drawable/rounded_tip_corner"
                 android:onClick="goToWorklifeSlide"
                 android:textAllCaps="false"
-                android:text="@string/shortworklifetip7" />
+                android:text="@string/shortworklifetip7"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
 
         </LinearLayout>

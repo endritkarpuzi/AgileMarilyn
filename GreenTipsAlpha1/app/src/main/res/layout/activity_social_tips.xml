@@ -65,7 +65,9 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:textAllCaps="false"
-                android:text="@string/shortsocialtip1" />
+                android:text="@string/shortsocialtip1"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/socialtip2"
@@ -76,7 +78,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shortsocialtip2" />
+                android:text="@string/shortsocialtip2"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/socialtip3"
@@ -87,7 +91,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shortsocialtip3" />
+                android:text="@string/shortsocialtip3"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/socialtip4"
@@ -98,7 +104,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shortsocialtip4" />
+                android:text="@string/shortsocialtip4"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/socialtip5"
@@ -109,7 +117,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shortsocialtip5" />
+                android:text="@string/shortsocialtip5"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/socialtip6"
@@ -120,7 +130,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shortsocialtip6" />
+                android:text="@string/shortsocialtip6"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/socialtip7"
@@ -133,7 +145,9 @@
                 android:textAllCaps="false"
                 android:layout_marginBottom="25dp"
 
-                android:text="@string/shortsocialtip7" />
+                android:text="@string/shortsocialtip7"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
 
         </LinearLayout>

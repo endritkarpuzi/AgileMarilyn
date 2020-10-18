@@ -2407,6 +2407,7 @@ string sourcestext1
 string status_bar_notification_info_overflow
 string string_green_tips
 string svenska
+string switch_view
 string transport
 string transporttip1
 string transporttip2
