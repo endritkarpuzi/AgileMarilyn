@@ -77,7 +77,7 @@ public class choose_lang extends AppCompatActivity {
         overridePendingTransition(0, 0);
     }
     public void changeAlbanian(View v) {
-        LocaleHelper.setLocale(this,"sq");
+        LocaleHelper.setLocale(this,"al");
         finish();
         overridePendingTransition(0, 0);
         startActivity(getIntent());
