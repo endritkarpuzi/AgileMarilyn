@@ -1,0 +1,74 @@
+During this week’s supervision we received a lot of constructive criticism. We knew that we had to focus on finishing our user stories one by one, before starting the next ones. We were all motivated to have regular meetings and work daily to have the time to finish all the features we wanted to implement in our app.
+
+
+Customer value and scope 
+
+We have almost finished our application and the remaining feature we have to finish implementing are the translations to support the different languages. In this way our app will be valuable not only for english speaking users, but also for users from all around the world.
+Our success criteria at this stage is to have a fully working app such as we planned it to be and most of all be satisfied with the result of our work throughout this project. Our main learning outcomes are the ability to use such tools as Trello or Git (and GitKraken). While progressing in the development of the project we were discovering different functionalities of git, such as branches and merges that we were using a lot on this last stage of implementation. Our main goal was also to learn basics and how to develop efficiently in Android Studio and we can mostly say that this goal is now reached. 
+
+This week we focused more on the vertical aspect of the user stories and their deliveries. It was an aspect of our approach that was not working properly from the beginning, but after last supervision we understood how that aspect should be approached. Our user stories had already defined acceptance criterias that we were checking each time , before moving the user story to the “Done” section. However we realised that we were having some delays with respect to our effort estimation for some user stories that we thought were easier than they really were. 
+
+
+Our three KPI’s are the following:
+Productivity: For this week we would put it at a 4.5. After the supervision meeting, all members were very motivated and ready to work harder than before and we believe it has been reflected on the work we’ve done. This might be correlated with it being the last week as well.
+
+Stress levels: For this week we would put this at a 4. It’s been a bit more stressful than earlier because the project is nearing the end and that always contributed to the stress levels. It hasn’t affected us negatively in any way though.
+
+Team satisfaction: For the week we would put this at a 4.5. We are very satisfied with the work that has been done this week.
+
+
+
+Social contract and effort 
+
+As a team we work hard this week and tried to follow the rules, which are:
+
+1. Everybody puts an effort and delivers what is expected from them. 
+We believe that everybody has tried their best this week.
+
+2. We immediately raise questions or issues we have. 
+We try to immediately raise issues we face and try to solve them as fast and effectively as we can, so this hasn’t been an issue for us.
+
+3. Regular meetings where we discuss our process in the project. 
+Our plan was to have meetings at least daily, and hopefully twice a day, but that has unfortunately not happened. While we’ve had meetings frequently, they haven’t been as frequent as we’ve hoped. This is specifically verbal meetings, we have had contact within the whole group basically throughout the whole day this whole week in form of text chat.
+
+4. Tell each other if something is too hard or if we need help with something. 
+When it comes to this rule, we have tried to do our best to give each other enough help, we had a zoom meeting to lose the problem if someone needed help. As a team we think that we did really good in this part.
+
+
+5. Know what we want to achieve and how to work towards that goal.
+
+Another thing we’ve implemented is the use of KPI-charts, which can be found in our documentation as well as a DoD - Definition of Done.
+
+Our definition of done is the following:
+1) Code is finished and builds with no errors 
+2) Code review is done 
+3) Implemented feature is tested and usable 
+4) The user story meets its acceptance criteria 
+5) A pull request is made, the changes are checked by another team member and the corresponding development git branch is merged 
+6) Product owner accepts the finished user story.
+
+We’ve tried to follow these points in order to define our stories as done
+
+
+Design decisions and product structure  
+
+We think that our design decisions make our app accessible to all users. We decided it to be simple in use, providing mainly useful information for people looking to change their way of life to a more sustainable. We decided to implement up to 7 languages to make it useful to more people around the world. By adding the possibility to contact us, the developers, we consider that users of our application can be able to help us to improve its content to continue providing valuable tips for all of those who need them.
+To keep track of our progress we use documentation such as a KPI chart, that we keep updating each week after evaluating our KPIs during the meeting at the end of the week.
+To make our use of Git easier we also keep updating the .gitignore file to not pull/push files we do not really need.
+
+
+Application of Scrum
+
+The only role we were using for the Scrum approach was the role of Scrum master. The scrum master was splitting the work and user stories between smaller groups as well as dividing bigger tasks into smaller ones. However in our approach the scrum master was not the only one to update the scrum board and move cards around it. It was also the responsibility of team members to keep updating the state of progress of user stories. 
+Some agile practices we were using until now were making the user stories as vertical as possible and splitting them each time in smaller tasks. We were then writing the effort estimation and acceptance criteria for each user story. In order to determine if a user story is done we were referring to our definition of done. 
+
+We did not have a Product Owner, so we carried out our sprint reviews on our own. Our sprint reviews were based on our own thoughts as well as on the supervision meetings. After each of these meetings and feedback, we were able to re-prioritize our user stories and catch up on aspects we were missing in our agile methods of working. These reviews became a very useful and often turning point of our sprints. 
+
+
+Regarding tools and technologies, we’ve continuously used GitKraken for version control. Each member is very satisfied with it, as it has simplified the use of Git quite much. We’ve also, as previously mentioned, used Trello for our Scrum boards and a nice thing is that both GitKraken and Trello can be connected between each other. 
+
+The way we’ve developed our experience in these tools have been both searching information about a specific issue we have. The respective FAQ’s for each tool has been very helpful, and this has of course been combined with expertise in different forums, as well as asking each other and gaining information we can pass on to each other. This is basically how information-gaining works in many areas and hasn’t really differed in these two tools. The more we’ve used them, the easier it has become to continue our development in expertise in these tools.
+
+
+We have very clear goals for these last days of our project. We want to be done with all the translations on Monday, in order to make a final review to have in the end  a completely done application that would be ready to release. On Tuesday we want to take some more time to have a general review of our work and talk about what we succeeded to deliver. 
+Finally we will be able to present our work to the examiner as well as to other students.
