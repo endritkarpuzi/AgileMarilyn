@@ -10,7 +10,7 @@
 *.class
 
 #Local configuration
-local.properties
+GreenTipsAlpha1/local.properties
 
 # OSX files
 .DS_Store
