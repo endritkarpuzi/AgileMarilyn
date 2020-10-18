@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
+    android:id="@+id/language_layout"
     android:background="@drawable/greenback"
     tools:context=".choose_lang">
 
@@ -47,7 +47,7 @@
                 android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
                 android:alpha="0.9"
-                android:onClick="changeEnglish"
+                android:onClick="englishButton"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/english" />
 
@@ -57,7 +57,7 @@
                 android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
                 android:alpha="0.9"
-                android:onClick="changeSwedish"
+                android:onClick="swedishButton"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/svenska" />
 
@@ -66,7 +66,7 @@
                 android:layout_width="138dp"
                 android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
-                android:onClick="changeSpanish"
+                android:onClick="spanishButton"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/espanol" />
@@ -76,7 +76,7 @@
                 android:layout_width="138dp"
                 android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
-                android:onClick="changeFrench"
+                android:onClick="frenchButton"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/francais" />
@@ -86,7 +86,7 @@
                 android:layout_width="138dp"
                 android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
-                android:onClick="changeArabic"
+                android:onClick="arabicButton"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/arabic" />
@@ -96,7 +96,7 @@
                 android:layout_width="138dp"
                 android:layout_marginBottom="10dp"
                 android:layout_height="wrap_content"
-                android:onClick="changePolish"
+                android:onClick="polishButton"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"
                 android:text="@string/polsku" />
@@ -105,7 +105,7 @@
                 android:id="@+id/albanian"
                 android:layout_width="138dp"
                 android:layout_marginBottom="10dp"
-                android:onClick="changeAlbanian"
+                android:onClick="albanianButton"
                 android:layout_height="wrap_content"
                 android:alpha="0.9"
                 android:background="@drawable/rounded_tip_corner"

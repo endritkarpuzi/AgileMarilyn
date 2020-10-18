@@ -1827,6 +1827,7 @@ id jumpToEnd
 id jumpToStart
 id labeled
 id languageButton
+id language_layout
 id largeLabel
 id layout
 id left
@@ -2202,6 +2203,7 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout popup_window_layout
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -2357,6 +2359,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string polsku
+string popup_message
 string reminders
 string search_menu_title
 string shorthouseholdtip1
@@ -2407,6 +2410,7 @@ string sourcestext1
 string status_bar_notification_info_overflow
 string string_green_tips
 string svenska
+string switch_view
 string transport
 string transporttip1
 string transporttip2

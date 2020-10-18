@@ -36,7 +36,7 @@
         android:alpha="1.0"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Switch view" />
+        android:text="@string/switch_view" />
     </LinearLayout>
 
     <ScrollView
@@ -66,7 +66,9 @@
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:textAllCaps="false"
-                android:text="@string/shorttransporttip1" />
+                android:text="@string/shorttransporttip1"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/transporttip2"
@@ -77,7 +79,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shorttransporttip2"/>
+                android:text="@string/shorttransporttip2"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/transporttip3"
@@ -88,7 +92,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shorttransporttip3" />
+                android:text="@string/shorttransporttip3"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/transporttip4"
@@ -99,7 +105,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shorttransporttip4" />
+                android:text="@string/shorttransporttip4"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/transporttip5"
@@ -110,7 +118,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shorttransporttip5" />
+                android:text="@string/shorttransporttip5"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/transporttip6"
@@ -121,7 +131,9 @@
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:textAllCaps="false"
-                android:text="@string/shorttransporttip6" />
+                android:text="@string/shorttransporttip6"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
             <Button
                 android:id="@+id/transporttip7"
@@ -133,7 +145,9 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="25dp"
                 android:textAllCaps="false"
-                android:text="@string/shorttransporttip7" />
+                android:text="@string/shorttransporttip7"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
 
 
         </LinearLayout>
