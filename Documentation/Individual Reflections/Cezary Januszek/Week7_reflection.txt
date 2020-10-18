@@ -1,0 +1,38 @@
+Individual reflection week 7:
+
+This week's supervision was a cold shower for me as well as the whole team. We received some constructive criticism
+regarding our user stories deliveries and our approach of working. This motivated the whole team to wokr harder to be 
+able to deliver the best product we can in the end, despite our methods of working not being as good as they should have
+been.
+
+What is the current situation? (A)
+
+From the beginning of this week, the whole team was motivated to work each day to catch up the delay we had in our project development.
+The most important aspect was to finish all the user stories we had started in parallel, in order to deliver a useful element of our app
+as quickly as it is possible. We had meetings shorter or longer almost every day this week, keeping eachother of the tasks we are implementing separately.
+At the end of this week we are almost done with the implementation of our app. The last thing that remains to be finished are the translations to the different 
+languages our app will support and the final review of our product. We will also have a day to prepare our final presentation of our project. 
+I found that this week was the most productive in terms of development and of my use of git branches. I feel pretty confident now about using them and merging
+as I already experience a situation where I had to resolve many merge conflicts manually. Due to some of my mistakes, while trying to write a correct .gitignore,
+I also learned how to revert merges and come back to previous commits. I was able to help some team members in using the branches and merging them to 
+master correctly. I had the opportunity to understand way better how the activities can be implemented in their Java classes. During this week I was also able 
+to find solutions to resolve some bugs we encountered, which only confirmed that I learned a lot from using Android Studio these past few weeks.
+
+As this week was very busy and sometimes it was difficult to keep track of all the changes we were doing, it was more difficult to keep updating all the changes 
+on our Scrum board on time. However I was trying to do so mainly on our Scrum board for week 7 on Trello.
+
+What I want the situation to be? (B)
+
+Tomorrow we have to be finally done with our project and code should be reviewed as well as the functionalities of our app. I would like to have the impression that 
+we have done all we could to deliver the best result of our work on this app development. All the team mebers should feel that they fully understood the agile development 
+approach, also based on the mistakes we have done during our work. I hope that this way of learning from my own mistakes will allow me to remember for a longer time, the agile methods
+I was able to discover during this project and how to correctly apply them in a team work.
+
+Finally, I hope that we will have a successful project presentation on Wednesday, when we will be able to proudly show our progress from last week and the final result - our own app "Green Tips".
+
+Plan to reduce the gap (A->B):
+
+We have our goal clearly set! Tomorrow we will add the final changes to the app and make sure that everything is working as we want. We will then take time on Tuesday to do a meeting and prepare
+our project presentation. We will make sure that at least 2 members of the team will be ready to present the app, if any other teammate encounters some technical issues during the presentation. 
+We will also recap how we worked and what our goal were, to be able to answer all questions concerning our project. 
+
