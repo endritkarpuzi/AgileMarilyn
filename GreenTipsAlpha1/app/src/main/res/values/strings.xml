@@ -320,6 +320,7 @@
         In order to apply the language changes to the whole app, please return to the home screen!\n
         (home button in bottom of the page)
     </string>
+    <string name="switch_view">Switch view</string>
 
 
 </resources>
