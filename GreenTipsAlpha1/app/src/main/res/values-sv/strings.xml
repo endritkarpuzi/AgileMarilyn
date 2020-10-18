@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">GreenTips</string>
     <string name="aboutButton">Om</string>
     <string name="chooseCat">Välj en kategori</string>
     <string name="chooseLang">Välj ett språk</string>
-    <string name="espanol">Español</string>
-    <string name="svenska">Svenska</string>
-    <string name="polsku">Polski</string>
-    <string name="shqip">Shqip</string>
-    <string name="english">English</string>
-    <string name="francais">Français</string>
     <string name="continueButton">Fortsätt</string>
     <string name="category">Kategori</string>
     <string name="reminders">Påminnelse</string>
-    <string name="string_green_tips">Gröna Tips</string>
-    <string name="transport" translatable="false">Transport</string>
+    <string name="transport">Transport</string>
     <string name="outdoors">Friluftsliv</string>
     <string name="worklife">Arbetsliv</string>
     <string name="household">Hushåll</string>
     <string name="sociallife">Socialt liv</string>
-    <string name="chooseTip" translatable="false">Välj ett tips</string>
-    <string name="shorttransporttip1" translatable="false">Gå för korta resor</string>
+    <string name="chooseTip">Välj ett tips</string>
+    <string name="shorttransporttip1">Gå för korta resor</string>
     <string name="transporttip1">Gå för korta resor.
         \n\nAtt promenera hjälper till att både minska kroppsfett, minska blodtryck och är också gratis.
         Det tar också mindre tid än vad man tror.
@@ -29,7 +21,6 @@
     <string name="name_reminder">Välj ett namn</string>
     <string name="button_schedule_set">OK</string>
     <string name="button_schedule_cancel">Avbryt</string>
-    <string name="arabic" translatable="false">العربية.</string>
     <string name="contact_form">Kontakta oss</string>
     <string name="contact_form_name">Ditt namn</string>
     <string name="contact_form_email">Din e-mail</string>
