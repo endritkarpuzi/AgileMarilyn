@@ -1706,6 +1706,7 @@ id bounce
 id btnCancel
 id btnSet
 id buttonPanel
+id button_links
 id cancel_action
 id cancel_button
 id center
@@ -2044,6 +2045,7 @@ id transporttip6
 id transporttip7
 id triangle
 id unchecked
+id undo
 id uniform
 id unlabeled
 id up
