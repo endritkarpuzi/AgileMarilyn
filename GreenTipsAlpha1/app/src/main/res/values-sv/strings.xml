@@ -12,7 +12,7 @@
     <string name="household">Hushåll</string>
     <string name="sociallife">Socialt liv</string>
     <string name="chooseTip" translatable="false">Välj ett tips</string>
-    <string name="shorttransporttip1" translatable="false">Gå för korta resor</string>
+    <string name="shorttransporttip1" translatable="false">Gå för korta resor </string>
     <string name="transporttip1">Gå för korta resor.
         \n\nAtt promenera hjälper till att både minska kroppsfett, minska blodtryck och är också gratis.
         Det tar också mindre tid än vad man tror.
@@ -36,8 +36,77 @@
     <string name="enter_your_message_here">Ditt meddelande här</string>
     <string name="aboutapp">Utvecklad av blablabla</string>
     <string name="shorttransporttip2">Används cykeln</string>
-    <string name="transporttip3">bla</string>
-    <string name="transporttip4">bla</string>
+    <string name="sourcestext1">Källor:</string>
+    <string name="transporttip2">Välj cykeln Att byta en resa på 10 km per vecka från din bil till din cykel kommer att bränna cirka 300 kalorier varje åktur och kan spara 300 kg växthusgasutsläpp varje år.\' Visste du?  Stadsturer på högst en timme upp till 10 km är i allmänhet snabbare med cyklar än någon annan form av transport, dörr till dörr. Dessutom hjälper cykling till att minska kroppsfett, vilket är ett första steg för att bli friskare och starkare!</string>
+    <string name="transporttip3">Använda kollektivtrafik Med kollektivtrafik kan du hoppa över besväret med trafik och parkering och fortfarande vara i tid!</string>
+    <string name="transporttip4">"Tänk två gånger  Samla ihop dina ärenden på en enda resa för att spara bränsle, pengar och tid! Detta gör att du kan bli mer produktiv under resten av dagen. "</string>
+    <string name="transporttip5">"Byt till grönkörning  Kör smidigt, start och stopp på din bil förbrukar mycket bränsle. Sakta ner! körning i 90 km/h använder 25% mindre bränsle än att resa med 110 km/h. Kontrollera regelbundet ditt däcktryck. För höga däck kan öka bränsleförbrukningen med 3% och ta 10 000 km från däckets liv. Istället för att använda luftkonditioneringen, öppna fönstret när du kör under 70 km / h. "</string>
+    <string name="transporttip6">"Ta endast en bil Istället för att ta flera bilar för en gemensam resa med dina vänner, ta en enda bil. Du kommer att njuta av din resa ännu mer och det gör att du kan byta säte med föraren för att göra din resa säkrare och bekvämare. Du kan alltid välja bilpool om du reser ensam för att bryta monotonin i din dagliga pendling. "</string>
+    <string name="transporttip7">"Spara dina pengar  Att ha en bil kostar mycket idag, bränslet är ganska dyrt och trängselskatten i Sverige blir dyrare varje år så tänk två gånger innan du köper en egen bil! "</string>
+    <string name="householdtip1">"Sluta använda engångspåsar  Skaffa några återanvändbara väskor, gör dina egna - de är vansinnigt enkla. "</string>
+    <string name="householdtip2">" Använd kallt vatten när du tvättar dina kläder ... Varmt vatten sätter faktiskt fläckar och kallt vatten får dina kläder lika rena. "</string>
+    <string name="householdtip3">" Gör dina egna rengöringsprodukter ... Byt ut alla dina rengörings plastbehållare mot en enda. * Fönsterrengöring: 1/4 kopp vit vinäger, 2 koppar varmt vatten och tea tree olja * Antibakteriell rengöringsmedel: 1/4 kopp vit vinäger, 1 msk bakpulver, 1 liter varmt vatten och orange eteriska oljor  "</string>
+    <string name="householdtip4">"Isolera ditt hem ... Hem som inte är välisolerade är mycket svårare att hålla varma när det är kallt och svalt när vädret är varmt "</string>
+    <string name="householdtip5">Släck lamporna när du lämnar rummet.</string>
+    <string name="householdtip6">" Ät mindre kött  Att inte ha rött kött, även om det bara är två eller tre dagar i veckan, kan ha en betydande inverkan på att minska ditt koldioxidavtryck. "</string>
+    <string name="householdtip7">"Återvinn allt  Du kan återvinna nästan allt, från batterier till papper till bilar. Innan du slänger den, ta en minut för att ta reda på om du skulle kunna återvinna den istället. "</string>
+    <string name="worklifetip1">"Återvinn! det är väldigt enkelt för de anställda att återvinna, det finns mycket material som går att återvinna så som papper och plast. "</string>
+    <string name="worklifetip2">"Använd inte papper!  Växla till digitala dokument istället för papper, och tänk över att köpa 100% återvunnet papper. "</string>
+    <string name="worklifetip3">"Grön städning Många städprodukter är icke miljövänliga, och är farliga för naturen såsom människans hälsa. Prioritera alltid att köpa miljövänliga handtvål som inte innehåller dåliga kemikalier. "</string>
+    <string name="worklifetip4">"Inga mer vattenflaskor Du kan helt enkelt dricka vatten av ett glas, eller om du kan köpa återanvändbara flaskor.  "</string>
+    <string name="worklifetip5">"Planera din arbetsdag Förbered dina måltider som du ska äta dagen innan så du inte blir tvungen att köra för att köpa mat. "</string>
+    <string name="worklifetip6">"Använd kollektivtrafik när du tar dig till jobbet Det bästa sättet att minska utsläpp är att använda kollektivtrafiken. Om du har möjligheten till kollektivtrafik så cykla istället! "</string>
+    <string name="worklifetip7">"Ha grön dekoration Uppgradera ditt kontor med gröna växter som du kan dekorera med. Växterna ger Syrgas och tar koldioxid från rummet vilket kan göra rummet fräschare. "</string>
+    <string name="socialtip1">"Köp miljövänliga kläder  Fråga butiker om deras kläder är miljövänliga. "</string>
+    <string name="socialtip2">"Bli mer vegan ute ... Försök vara  vegan när du äter på restauranger, slösa inte mat, försök att äta mindre kött och ät  ekologiskt. "</string>
+    <string name="socialtip3">"Köp vintage... stödja second hand, köp vintagekläder och begagnade möbler istället för nya  "</string>
+    <string name="socialtip4">"Spara Vatten... Försök att spara så mycket vatten som möjligt i din dagliga rutin. Försök att dricka kranvatten istället för flaska, och om du inte har tillgång till rent kranvatten, försök att köpa ett filter som kan spara mycket pengar. "</string>
+    <string name="socialtip5">"Ät närproducerad mat... Ät svensk mat. Importerad mat bidrar till miljöförstöring.   "</string>
+    <string name="socialtip6">"säg nej till plastsugrör.. Drick med papper sugrör istället för plast. Eller du kan undvika att dricka med plastsugrör överhuvudtaget.  "</string>
+    <string name="socialtip7">"Använd behållare Kasta dina gamla kläder i behållare så att de återanvänder dem istället för att bränna dem. "</string>
+    <string name="outdoorstip1">"Var försiktig med vad du bränner! När du är i naturen så det bäst att hålla dig ifrån att bränna saker som aluminiumburkar,  dessa har stor påverkan då de släpper ut föroreningar vid bränning. var även försiktig när  du börja elda, se till att du får elda innan sätter på elden. "</string>
+    <string name="outdoorstip2">"Håll vattnet rent! Konstgjorda produkter som sololja, smink, och andra krämer smutsar ner lokal vattenkälla.  Byt ut din kemiska insekts medlen med en effektiv naturprodukt "</string>
+    <string name="outdoorstip3">"Jordvänlig utomhusbelysning  Utomhusbelysning är faktiskt ett av de enklaste stegen att göra när det gäller att skapa ett grönt bostadsutrymme, eftersom soldrivna utomhusbelysning är allmänt tillgängliga och kan köpas i nästan alla trädgårdscentrar eller husaffärer. Se till att du köper helt naturliga alternativ som är gjorda av sojavax eller bivax och doftade med eteriska oljor "</string>
+    <string name="outdoorstip4">"Skräp inte ner marken Fåglar kan fastna på tuggummi och andra skräp som är slängda på marken,  vilket leder till att fåglarna blir träffade av bilar.  Batterier har också en stor negativ påverkan i naturen,  och därför är det viktigt att sortera de med de andra batterierna. "</string>
+    <string name="outdoorstip5">"Rök inte i offentliga platser Att röka påverkar både miljön och människorna på ett negativt sätt. studierna har visat att tobaksproduktion orsakar skog förluster, och detta gör mängden koldioxid ökar i  atmosfären. "</string>
+    <string name="outdoorstip6">"Sluta med hårspray hårspray och andra parfymerade produkter har negativa konsekvenser för miljön, då  parfymämnen inte bryts ned  utan många fortsätter ut i vattendragen. Vilket  gör en onödig belastning för reningsverken. "</string>
+    <string name="outdoorstip7">Grillning är en integrerad del av friluftsliv, så du vill nog se till att du väljer en grill som är så säker som möjligt för dina familjemedlemmar och vänner. Några exempel på de bästa tillgängliga gröna grill alternativen: kolgrill, majsgrill och naturgas</string>
+    <string name="shorttransporttip3">Använd kollektivtrafik</string>
+    <string name="shorttransporttip4" translatable="false">Planera innan du tar resor</string>
+    <string name="shorttransporttip5">Byt till grönkörning</string>
+    <string name="shorttransporttip6">Ta en bil bara</string>
+    <string name="shorttransporttip7">Spara dina pengar</string>
+    <string name="shorthouseholdtip1">Sluta använda engångspåsar</string>
+    <string name="shorthouseholdtip2">"Använd kallt vatten när du tvättar dina kläder "</string>
+    <string name="shorthouseholdtip3">Gör dina egna rengöringsprodukter</string>
+    <string name="shorthouseholdtip4">Isolera ditt hem</string>
+    <string name="shorthouseholdtip5">Släck lamporna när du lämnar rummet.</string>
+    <string name="shorthouseholdtip6">" Ät mindre kött"</string>
+    <string name="shorthouseholdtip7">"Återvinn allt "</string>
+    <string name="shortworklifetip1">Återvinn!</string>
+    <string name="shortworklifetip2">"Använd inte papper! "</string>
+    <string name="shortworklifetip3">"Grön städning "</string>
+    <string name="shortworklifetip4">Inga mer vattenflaskor</string>
+    <string name="shortworklifetip5">Planera din arbetsdag</string>
+    <string name="shortworklifetip6">Använd kollektivtrafik när du tar dig till jobbet</string>
+    <string name="shortworklifetip7">"Ha grön dekoration "</string>
+    <string name="shortsocialtip1">Köp miljövänliga kläder</string>
+    <string name="shortsocialtip2">"Bli mer vegan ute "</string>
+    <string name="shortsocialtip3">Köp vintage</string>
+    <string name="shortsocialtip4">Spara Vatten</string>
+    <string name="shortsocialtip5">Ät närproducerad mat</string>
+    <string name="shortsocialtip6">säg nej till plastsugrör</string>
+    <string name="shortsocialtip7">"Använd behållare "</string>
+    <string name="shortoutdoorstip1">Var försiktig med vad du bränner!</string>
+    <string name="shortoutdoorstip2">"Håll vattnet rent! "</string>
+    <string name="shortoutdoorstip3">"Jordvänlig utomhusbelysning "</string>
+    <string name="shortoutdoorstip4">"Skräp inte ner marken "</string>
+    <string name="shortoutdoorstip5">Rök inte i offentliga platser</string>
+    <string name="shortoutdoorstip6">"Sluta med hårspray "</string>
+    <string name="shortoutdoorstip7">Använd gröna medel när du grillar</string>
+    <string name="helpicon" translatable="false">Hjälp</string>
+    <string name="languageicon">Hjälp</string>
+    <string name="infoicon">Hjälp</string>
 
 
 </resources>

@@ -25,6 +25,7 @@
 18        android:roundIcon="@mipmap/ic_launcher_round"
 18-->C:\Users\czare\Chalmers\SP1\DAT257\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
+<<<<<<< HEAD
 19-->C:\Users\czare\Chalmers\SP1\DAT257\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:10:9-35
 20        android:testOnly="true"
 21        android:theme="@style/AppTheme" >
@@ -100,6 +101,83 @@
 49        <activity android:name="com.example.greentipsalpha1.welcome" />
 49-->C:\Users\czare\Chalmers\SP1\DAT257\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:39:9-45
 49-->C:\Users\czare\Chalmers\SP1\DAT257\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:39:19-42
+=======
+19-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:11:9-40
+22        <activity android:name="com.example.greentipsalpha1.links_page" />
+22-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:9-57
+22-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:12:19-45
+23        <activity android:name="com.example.greentipsalpha1.ContactForm" />
+23-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:9-49
+23-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:13:19-46
+24        <activity android:name="com.example.greentipsalpha1.slidecreatortransport" />
+24-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:9-59
+24-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:14:19-56
+25        <activity android:name="com.example.greentipsalpha1.slidecreatoroutdoors" />
+25-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:9-58
+25-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:15:19-55
+26        <activity android:name="com.example.greentipsalpha1.slidecreatorsocial" />
+26-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:9-56
+26-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:16:19-53
+27        <activity android:name="com.example.greentipsalpha1.slidecreatorworklife" />
+27-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:9-58
+27-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:17:19-55
+28        <activity android:name="com.example.greentipsalpha1.slidecreatorhousehold" />
+28-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:9-59
+28-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:18:19-56
+29        <activity android:name="com.example.greentipsalpha1.socialTips" />
+29-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:19:9-48
+29-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:19:19-45
+30        <activity android:name="com.example.greentipsalpha1.outdoorsTips" />
+30-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:9-50
+30-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:20:19-47
+31        <activity android:name="com.example.greentipsalpha1.worklifeTips" />
+31-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:21:9-50
+31-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:21:19-47
+32        <activity android:name="com.example.greentipsalpha1.householdTips" />
+32-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:22:9-51
+32-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:22:19-48
+33        <activity
+33-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:23:9-25:55
+34            android:name="com.example.greentipsalpha1.schedule"
+34-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:24:13-37
+35            android:windowSoftInputMode="adjustPan" />
+35-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:25:13-52
+36        <activity android:name="com.example.greentipsalpha1.splashscreen" >
+36-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:9-32:20
+36-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:26:19-47
+37            <intent-filter>
+37-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:27:13-31:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:28:17-69
+38-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:28:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:30:17-77
+40-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:30:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:33:9-35:59
+44            android:name="com.example.greentipsalpha1.transportTips"
+44-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:34:13-42
+45            android:windowSoftInputMode="adjustNothing" />
+45-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:35:13-56
+46        <activity android:name="com.example.greentipsalpha1.choose_category" />
+46-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:36:9-53
+46-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:36:19-50
+47        <activity android:name="com.example.greentipsalpha1.about" />
+47-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:37:9-43
+47-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:37:19-40
+48        <activity android:name="com.example.greentipsalpha1.choose_lang" />
+48-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:38:9-49
+48-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:38:19-46
+49        <activity android:name="com.example.greentipsalpha1.welcome" />
+49-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:39:9-45
+49-->C:\Users\Hp\Desktop\AgileMarilyn\AgileMarilyn\GreenTipsAlpha1\app\src\main\AndroidManifest.xml:39:19-42
+>>>>>>> development_smedra
 50    </application>
 51
 52</manifest>

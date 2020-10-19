@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lamp.png.flat",
         "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\drawable\\lamp.png"
     },
@@ -10,6 +11,18 @@
     {
         "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_number4.png.flat",
         "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\drawable\\number4.png"
+=======
+        "merged": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_language.png.flat",
+        "source": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\drawable-mdpi\\ic_language.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_category.xml.flat",
+        "source": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\layout\\activity_choose_category.xml"
+>>>>>>> development_smedra
     },
     {
         "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_outdoors_tips.xml.flat",
