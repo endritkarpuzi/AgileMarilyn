@@ -104,16 +104,16 @@
         "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_language.png"
     },
     {
-        "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_number6.png.flat",
-        "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\drawable\\number6.png"
+        "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\anim\\slide_up.xml"
     },
     {
         "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
         "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\anim\\fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
-        "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\anim\\slide_up.xml"
+        "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_number6.png.flat",
+        "source": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\drawable\\number6.png"
     },
     {
         "merged": "C:\\Users\\czare\\Chalmers\\SP1\\DAT257\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splashscreen.xml.flat",
