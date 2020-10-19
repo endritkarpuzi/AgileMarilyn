@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">GreenTips</string>
     <string name="aboutButton">Om</string>
     <string name="chooseCat">Välj en kategori</string>
     <string name="chooseLang">Välj ett språk</string>
-    <string name="espanol">Español</string>
-    <string name="svenska">Svenska</string>
-    <string name="polsku">Polski</string>
-    <string name="shqip">Shqip</string>
-    <string name="english">English</string>
-    <string name="francais">Français</string>
     <string name="continueButton">Fortsätt</string>
     <string name="category">Kategori</string>
     <string name="reminders">Påminnelse</string>

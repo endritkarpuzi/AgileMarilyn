@@ -75,7 +75,7 @@ public class choose_lang extends AppCompatActivity {
             public void run() {
                 changeEnglish(v);
             }
-        }, 5000);
+        }, 4000);
 
     }
 
@@ -89,7 +89,7 @@ public class choose_lang extends AppCompatActivity {
             public void run() {
                 changeSwedish(v);
             }
-        }, 5000);
+        }, 4000);
     }
 
     public void changeSwedish(View v) {
@@ -102,7 +102,7 @@ public class choose_lang extends AppCompatActivity {
             public void run() {
                 changeFrench(v);
             }
-        }, 5000);
+        }, 4000);
     }
 
     public void changeFrench(View v) {
@@ -115,7 +115,7 @@ public class choose_lang extends AppCompatActivity {
             public void run() {
                 changeSpanish(v);
             }
-        }, 5000);
+        }, 4000);
     }
 
     public void changeSpanish(View v) {
@@ -141,7 +141,7 @@ public class choose_lang extends AppCompatActivity {
             public void run() {
                 changePolish(v);
             }
-        }, 5000);
+        }, 4000);
     }
 
     public void changePolish(View v) {
@@ -154,7 +154,7 @@ public class choose_lang extends AppCompatActivity {
             public void run() {
                 changeAlbanian(v);
             }
-        }, 5000);
+        }, 4000);
     }
 
     public void changeAlbanian(View v) {
