@@ -13,7 +13,7 @@
     <string name="chooseCat">Choose a category</string>
     <string name="category">Category</string>
 
-    <string name="aboutapp">Developed by blablalba</string>
+    <string name="aboutapp" translatable="false">Developed by blablalba</string>
 
     <string name="transport">Transport</string>
     <string name="outdoors">Outdoors</string>
@@ -21,7 +21,7 @@
     <string name="household">Household</string>
     <string name="sociallife">Social life</string>
 
-    <string name="sourcestext1" translatable="false">Sources:</string>
+    <string name="sourcestext1">Sources:</string>
     <string name="txtCredits" translatable="false">
         \n\n https://info.esg.adec-innovations.com/blog/environmentally-friendly-practices-for-the-workplace
         \n\n https://info.esg.adec-innovations.com/blog/environmentally-friendly-practices-for-the-workplace
@@ -34,11 +34,11 @@
     <string name="chooseTip">Choose a tip</string>
     <string name="shorttransporttip1">Walk for short trips</string>
     <string name="shorttransporttip2">Opt for the bike</string>
-    <string name="shorttransporttip3" translatable="false">Use public transport</string>
-    <string name="shorttransporttip4" translatable="false">Plan before taking trips</string>
-    <string name="shorttransporttip5" translatable="false">Switch to Green driving</string>
-    <string name="shorttransporttip6" translatable="false">Take one car</string>
-    <string name="shorttransporttip7" translatable="false">Save your money</string>
+    <string name="shorttransporttip3">Use public transport</string>
+    <string name="shorttransporttip4">Plan before taking trips</string>
+    <string name="shorttransporttip5">Switch to Green driving</string>
+    <string name="shorttransporttip6">Take one car</string>
+    <string name="shorttransporttip7">Save your money</string>
 
 
     <string name="transporttip1">Walk for short trips.
@@ -49,235 +49,245 @@
         journeys and overestimate the time it will take to walk.
         \n\nThe average walking pace is six kilometres per hour and
         if you walk you don’t need to find a car bay when you arrive.</string>
-    <string name="transporttip2" translatable="false">
+    <string name="transporttip2">
         \n\nOpt for the bike
         \n\nSwitching a 10km journey per week from your car to your bike will burn around 300 calories each way and can save
         over 300kg of greenhouse gas emissions each year.
         \n\nDid you know? Peak hour city trips up to 10km in length are generally faster by bike than any other form of transport,
         door to door.
         \n\nIn addition cycling helps reducing body fat, which is a first step to become healthier and stronger!</string>
-    <string name="transporttip3" translatable="false">
+    <string name="transporttip3">
         Use public transport
         \n\nUsing public transport allows you to skip the hassle of traffic and parking and still be on time!</string>
-    <string name="transporttip4" translatable="false">
+    <string name="transporttip4">
         Plan before taking trips
         \n\nCollect your errands in one trip to save fuel, money and time!
         \n\nIt will allow you to become more productive during the rest of the day.</string>
-    <string name="transporttip5" translatable="false">
+    <string name="transporttip5">
         Switch to Green driving
         \n\nDrive smoothly, starting and stopping uses more fuel.
         \n\nSlow down, driving at 90 km/h uses 25% less fuel than travelling at 110 km/h.
         \n\nRegularly check your tyre pressure. Under-inflated tyres can increase fuel consumption by 3%
         and take 10,000km off the tyres life.
         \n\nInstead of using the air conditioner open the window when driving under 70km/h.</string>
-    <string name="transporttip6" translatable="false">
+    <string name="transporttip6">
         Take one car
         \n\nInstead of taking several cars to make the same trip with your friends, take a single car.
         \n\nYou will enjoy your trip
         even more and it allows you to switch seats with the driver to make your travel safer and more comfortable.
         \n\nYou can always opt for car-pooling if travelling alone to break the monotony of your daily commute.</string>
-    <string name="transporttip7" translatable="false">
+    <string name="transporttip7">
         Save your money
         \n\nHaving a car costs a lot nowadays, the fuel is pretty expensive and the congestion tax in Sweden becomes
         more expensive every year so think twice before buying your own car!</string>
 
 
-    <string name="shorthouseholdtip1" translatable="false">Stop using disposable bags</string>
-    <string name="shorthouseholdtip2" translatable="false">Use cold water when washing your clothes</string>
-    <string name="shorthouseholdtip3" translatable="false">Make your own cleaning products</string>
-    <string name="shorthouseholdtip4" translatable="false">Insulate your home</string>
-    <string name="shorthouseholdtip5" translatable="false">Turn off lights when you leave the room</string>
-    <string name="shorthouseholdtip6" translatable="false">Eat less meat</string>
-    <string name="shorthouseholdtip7" translatable="false">Recycle everything</string>
+    <string name="shorthouseholdtip1">Stop using disposable bags</string>
+    <string name="shorthouseholdtip2">Use cold water when washing your clothes</string>
+    <string name="shorthouseholdtip3">Make your own cleaning products</string>
+    <string name="shorthouseholdtip4">Insulate your home</string>
+    <string name="shorthouseholdtip5">Turn off lights when you leave the room</string>
+    <string name="shorthouseholdtip6">Eat less meat</string>
+    <string name="shorthouseholdtip7">Recycle everything</string>
 
 
-    <string name="householdtip1" translatable="false">
+    <string name="householdtip1">
         \n\nStop using disposable bags
 
-	    \n\nGet some reusable bags—my Or, make your own—they’re insanely easy.
+
+        Get some reusable bags, make your own—they\'re insanely easy.
 
 
 
     </string>
-    <string name="householdtip2" translatable="false">
+    <string name="householdtip2">
         \n\nUse cold water when washing your clothes
 	    \n\nHot water will actually set stains, and cold water will get your clothes just as clean.
 
 
     </string>
-    <string name="householdtip3" translatable="false">
+    <string name="householdtip3">
         \n\nMake your own cleaning products
         \n\nReplace all your plastic chemical containers with a single one.
         \n\n*Window cleaner: 1/4 cup of white vinegar, 2 cups of warm water and tea tree oil
         \n\n*Anti-bacterial cleaner: 1/4 cup of white vinegar, 1 tbsp of baking soda, 1 litre of hot water and orange essential oils
     </string>
-    <string name="householdtip4" translatable="false">
+    <string name="householdtip4">
         \n\nInsulate your home
 	    \n\nHomes that aren\'t well insulated are much harder to keep warm when it\'s cold, and cool when the weather is hot.
     </string>
-    <string name="householdtip5" translatable="false">
+    <string name="householdtip5">
         Turn off lights when you leave the room.</string>
-    <string name="householdtip6" translatable="false">
+    <string name="householdtip6">
         \n\nEat less meat
 	    \n\nNot having red meat, even if it’s just for two or three days a week - can have quite a significant impact on reducing your carbon footprint.
 </string>
-    <string name="householdtip7" translatable="false">
+    <string name="householdtip7">
         \n\nRecycle everything
 	    \n\nYou can recycle almost everything, from batteries to paper to cars. Before you throw it away, take a minute to find out if you could recycle it instead.
 </string>
 
 
-    <string name="shortworklifetip1" translatable="false">Recycle!</string>
-    <string name="shortworklifetip2" translatable="false">Go paperless!</string>
-    <string name="shortworklifetip3" translatable="false">Green cleansing</string>
-    <string name="shortworklifetip4" translatable="false">No more water bottles</string>
-    <string name="shortworklifetip5" translatable="false">Plan you work day</string>
-    <string name="shortworklifetip6" translatable="false">Use public transport</string>
-    <string name="shortworklifetip7" translatable="false">Have green decoration</string>
+    <string name="shortworklifetip1">Recycle!</string>
+    <string name="shortworklifetip2">Go paperless!</string>
+    <string name="shortworklifetip3">Green cleansing</string>
+    <string name="shortworklifetip4">No more water bottles</string>
+    <string name="shortworklifetip5">Plan you work day</string>
+    <string name="shortworklifetip6">Use public transport</string>
+    <string name="shortworklifetip7">Have green decoration</string>
 
 
-    <string name="worklifetip1" translatable="false">
+    <string name="worklifetip1">
         \n\nRecycle!
 
         \n\nA lot of employees don\'t care about recycling, but it does matter recycling during your work. You can recycle
         paper, plastic and food for example.
 </string>
-    <string name="worklifetip2" translatable="false">
+    <string name="worklifetip2">
         \n\nGo paperless!
 
         \n\nSwitch to digital documents instead of paper, and think over of buying 100€ recycled paper.
 </string>
-    <string name="worklifetip3" translatable="false">
+    <string name="worklifetip3">
         \n\nGreen cleansing
 
         \n\nMany cleansing products are environmentally unfriendly and are dangerous for the environment as well as human health.
         \n\nPrioritize buying eco friendly hand soap and sprays that don\'t have harmful and other bad chemicals
 </string>
-    <string name="worklifetip4" translatable="false">
+    <string name="worklifetip4">
         \n\nNo more water bottles
 
         \n\nyou can easily drink water from your own glass, or if you purchase a reusable water bottle
 </string>
-    <string name="worklifetip5" translatable="false">
+    <string name="worklifetip5">
         \n\nPlan you work day
 
         \n\nPrepare your meals and snacks day before you work, so you skip drive to buy food or
         other stuff.
 </string>
-    <string name="worklifetip6" translatable="false">
+    <string name="worklifetip6">
         \n\nUse public transport
 
         \n\nThe best to reduce emissions is  to use public transport, if it\'s not possible to use it so
         take your bike and cycle to work.
 </string>
-    <string name="worklifetip7" translatable="false">
+    <string name="worklifetip7">
         \n\nHave green decoration
 
         Upgrade your office by decorating it with plants. \n\nThe plants gives you Oxygen and remove the
         carbon dioxide and that helps you to get healthier air in you office and add beautiful
         design.
 </string>
-    <string name="shortsocialtip1" translatable="false">Buy Eco friendly clothes</string>
-    <string name="shortsocialtip2" translatable="false">Be more vegan outside</string>
-    <string name="shortsocialtip3" translatable="false">Buy vintage</string>
-    <string name="shortsocialtip4" translatable="false">Eat locally produced food</string>
-    <string name="shortsocialtip5" translatable="false">Save water</string>
-    <string name="shortsocialtip6" translatable="false">say no to plastic straw</string>
-    <string name="shortsocialtip7" translatable="false">Use containers</string>
+    <string name="shortsocialtip1">Buy Eco friendly clothes</string>
+    <string name="shortsocialtip2">Be more vegan outside</string>
+    <string name="shortsocialtip3">Buy vintage</string>
+    <string name="shortsocialtip4">Eat locally produced food</string>
+    <string name="shortsocialtip5">Save water</string>
+    <string name="shortsocialtip6">say no to plastic straw</string>
+    <string name="shortsocialtip7">Use containers</string>
 
-    <string name="socialtip1" translatable="false">
+    <string name="socialtip1">
         \n\nBuy Eco friendly clothes
 
         \n\nAsk the store if their clothes are made eco friendly.
 
     </string>
-    <string name="socialtip2" translatable="false">
+    <string name="socialtip2">
         \n\nBe more vegan outside
 
         \n\nBe vegan when you eat in restaurants,
         don\'t waste food, try to eat less meat, and eat ecologist food.
 
     </string>
-    <string name="socialtip3" translatable="false">
+    <string name="socialtip3">
 
     \n\nBuy vintage
 
     \n\nsupport second hand, buy vintage clothes and used  furniture instead of new
 
     </string>
-    <string name="socialtip4" translatable="false">
+    <string name="socialtip4">
         \n\nEat locally produced food
 
         \n\nEat Swedish food. Imported food contributes to environmental degradation.
 
     </string>
-    <string name="socialtip5" translatable="false">
+    <string name="socialtip5">
         \n\nSave water
 
         \n\nTry to save as much water as possible in your daily routine. \n\nAnd try to drink crane water instead of bottle,
         and if you don\'t have access to clean crane water try to buy a filter which can save a lot of money.
 
     </string>
-    <string name="socialtip6" translatable="false">
+    <string name="socialtip6">
         \n\nsay no to plastic straw
 
         \n\nDrink with paper straw instead of plastic. Or you can avoid drinking with straw at all.
 
     </string>
-    <string name="socialtip7" translatable="false">
+    <string name="socialtip7">
         \n\nuse containers
 
         \n\nThrow your old clothes in containers so they reuse them instead of burning them.
 
     </string>
-    <string name="shortoutdoorstip1" translatable="false">Be careful what you burn</string>
-    <string name="shortoutdoorstip2" translatable="false"> Keep water clean</string>
-    <string name="shortoutdoorstip3" translatable="false">Stop buying plastic bags</string>
-    <string name="shortoutdoorstip4" translatable="false">Do not throw rubbish on the ground</string>
-    <string name="shortoutdoorstip5" translatable="false">Do not smoke in public places</string>
-    <string name="shortoutdoorstip6" translatable="false">Stop using hair spray</string>
-    <string name="shortoutdoorstip7" translatable="false">Here we give information about the first tip, on click open this slide</string>
-    <string name="outdoorstip1" translatable="false">
+    <string name="shortoutdoorstip1">Be careful what you burn</string>
+    <string name="shortoutdoorstip2"> Keep water clean</string>
+    <string name="shortoutdoorstip3">Earth-Friendly Outdoor Lighting</string>
+    <string name="shortoutdoorstip4">Do not throw rubbish on the ground</string>
+    <string name="shortoutdoorstip5">Do not smoke in public places</string>
+    <string name="shortoutdoorstip6">Stop using hair spray</string>
+    <string name="shortoutdoorstip7">Greener Grilling and Outdoor </string>
+    <string name="outdoorstip1">
         \n\nBe careful what you burn
 
         \n\nAvoid burning aluminum cans and other stuff that can release pollutants into the air. \n\nYou should also be careful when you
         put out fires, make sure that you are allowed to do that and there aren\'t any local fire bans due to serious drought conditions.
 
     </string>
-    <string name="outdoorstip2" translatable="false">
+    <string name="outdoorstip2">
         Keep water clean
 
         \n\nartificial things like makeup, suntan oils can make the local water source unclean. \n\nReplace using chemical insect repellent
         with an effective natural product.
 
     </string>
-    <string name="outdoorstip3" translatable="false">
-        \n\nStop buying plastic bags
+    <string name="outdoorstip3">
+        \n\nEarth-Friendly Outdoor Lighting
 
-        \n\nreplace your plastic bags by buying clothes bags instead
+
+        \n\nOutdoor lighting is actually one of the easiest steps to make when it comes to creating a green living space,
+        because solar-powered outdoor lights are widely available and can be purchased at nearly any garden center or home store.
+        \n\nMake sure you purchase all-natural options that are made from soy wax or beeswax and scented with essential oils
+
 </string>
-    <string name="outdoorstip4" translatable="false">
+    <string name="outdoorstip4">
         \n\nDo not throw rubbish on the ground
 
         Birds can get stuck on chewing gum on the ground on the street, and that can lead to them getting hit by cars.
         \n\nEspecially batteries which can have a very bad effect on nature, and it should sort.
 
     </string>
-    <string name="outdoorstip5" translatable="false">
+    <string name="outdoorstip5">
         \n\nDo not smoke in public places
         \n\nSmoking affects both the environment and people in a negative way. \n\nstudies have shown
         that tobacco production causes forest losses, and this causes the amount of carbon dioxide to increase in
         the atmosphere
 
     </string>
-    <string name="outdoorstip6" translatable="false">
+    <string name="outdoorstip6">
         \n\nStop using hair spray
         hair spray and other perfumed products have negative consequences for the environment, then
         perfumes are not broken down but many continue into the waterways. \n\nWhich
         makes an unnecessary burden on the treatment plants.
 
     </string>
-    <string name="outdoorstip7" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="outdoorstip7">
+        \n\nGreener Grilling and Outdoor
+
+        \n\nGrilling is an integral part of outdoor living, so you probably want to make sure you select a grill that is as safe as possible for your family members and friends.
+        \n\nSome examples of the best green grilling options available: Charcoal Grill, Corn Grill and Natural Gas
+</string>
 
 
     <string name="string_green_tips">Green Tips</string>
@@ -289,11 +299,11 @@
     <string name="name_reminder">Name your reminder</string>
     <string name="button_schedule_set">Set</string>
     <string name="button_schedule_cancel">Cancel</string>
-    <string name="helpicon" translatable="false">help</string>
-    <string name="languageicon" translatable="false">help</string>
-    <string name="infoicon" translatable="false">help</string>
+    <string name="helpicon">help</string>
+    <string name="languageicon">help</string>
+    <string name="infoicon">help</string>
     <string name="image_slide" translatable="false">image slide for slide functionality</string>
-    <string name="arabic">العربية.</string>
+    <string name="arabic">العربية</string>
 
 
     <!--Kontakt-->

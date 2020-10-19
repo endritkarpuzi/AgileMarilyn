@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_language.png.flat",
         "source": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\drawable-mdpi\\ic_language.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Hp\\Desktop\\AgileMarilyn\\AgileMarilyn\\GreenTipsAlpha1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_category.xml.flat",
