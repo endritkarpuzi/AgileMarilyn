@@ -6,7 +6,6 @@
     <string name="continueButton">Fortsätt</string>
     <string name="category">Kategori</string>
     <string name="reminders">Påminnelse</string>
-    <string name="string_green_tips">Gröna Tips</string>
     <string name="transport" translatable="false">Transport</string>
     <string name="outdoors">Friluftsliv</string>
     <string name="worklife">Arbetsliv</string>
@@ -22,7 +21,7 @@
     <string name="name_reminder">Välj ett namn</string>
     <string name="button_schedule_set">OK</string>
     <string name="button_schedule_cancel">Avbryt</string>
-    <string name="arabic" translatable="false">العربية.</string>
+    <string name="arabic" translatable="false">العربية</string>
     <string name="contact_form">Kontakta oss</string>
     <string name="contact_form_name">Ditt namn</string>
     <string name="contact_form_email">Din e-mail</string>
