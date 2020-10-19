@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chooseLang">Choisis une langue</string>
+    <string name="continueButton">Continuer</string>
+    <string name="aboutButton">Information</string>
+    <string name="chooseCat">Choisis une catégorie</string>
+    <string name="category">Catégorie</string>
+    <string name="transport">Transport</string>
+    <string name="outdoors">Plein air</string>
+    <string name="worklife">Au bureau</string>
+    <string name="household">À la maison</string>
+    <string name="sociallife">Vie sociale</string>
+
+    <string name="aboutapp">
+        <b>Bienvenu(e) à GreenTips!</b>\n
+        \nCette application a été developpé par 6 étudiants de Chalmers Tekniska Högskola à Goteborg en Suède .\n
+        \nAvec les conseils et idées qu'on vous présent ici, on vous aidera à réduire votre impact environnemental et à vivre une vie plus saine !\n
+        \nChoisis simplement la catégorie qui t'intéresse et nou te fournirons de nobreux conseils simples pour une vie plus verte.
+        \nReçois des notifications et crée tes propres buts en choisissant d'avoir des astuces précises en vue!
+    </string>
+
+
+    <string name="sourcestext1">Sources</string>
+    <string name="chooseTip" translatable="false">Choisis une astuce</string>
+
+    <string name="shorttransporttip1">Marche pour de courts trajets</string>
+    <string name="shorttransporttip2">Opte pour le vélo</string>
+    <string name="shorttransporttip3">Utilise les transports publics</string>
+    <string name="shorttransporttip4">Planifie tes trajets</string>
+    <string name="shorttransporttip5">Passe à la Conduite Verte</string>
+    <string name="shorttransporttip6">Prend une seule voiture</string>
+    <string name="shorttransporttip7">Économise ton argent</string>
+
+    <string name="transporttip1">
+        \n\n<b>Marche por de courts trajets</b>
+        \n\nLa marche aide à perdre du poids, diminuer la pression artérielle et est totalement gratuite.
+        Cela prends aussi moins de temps que ce que tu penses.
+
+        \n\nDes études ont montré que la plupart des gens sous-estime le temps nécessaire pour un trajet en voiture, ainsi qu'ils
+        sur-estiment le temps nécessaire que prendra ce même trajet à pieds.
+        \n\nLa vitesse à pieds.</string>
+    <string name="transporttip2">
+        \n\n<b>Opt for the bike</b>
+        \n\nSwitching a 10km journey per week from your car to your bike will burn around 300 calories each way and can save
+        over 300kg of greenhouse gas emissions each year.
+        \n\nDid you know? Peak hour city trips up to 10km in length are generally faster by bike than any other form of transport,
+        door to door.
+        \n\nIn addition cycling helps reducing body fat, which is a first step to become healthier and stronger!</string>
+    <string name="transporttip3">
+        \n\n<b>Use public transport</b>
+        \n\nUsing public transport allows you to skip the hassle of traffic and parking and still be on time!</string>
+    <string name="transporttip4">
+        \n\n<b>Plan before taking trips</b>
+        \n\nCollect your errands in one trip to save fuel, money and time!
+        \n\nIt will allow you to become more productive during the rest of the day.</string>
+    <string name="transporttip5">
+        \n\n<b>Switch to Green driving</b>
+        \n\nDrive smoothly, starting and stopping uses more fuel.
+        \n\nSlow down, driving at 90 km/h uses 25% less fuel than travelling at 110 km/h.
+        \n\nRegularly check your tyre pressure. Under-inflated tyres can increase fuel consumption by 3%
+        and take 10,000km off the tyres life.
+        \n\nInstead of using the air conditioner open the window when driving under 70km/h.</string>
+    <string name="transporttip6">
+        \n\n<b>Take one car</b>
+        \n\nInstead of taking several cars to make the same trip with your friends, take a single car whenever it is possible.
+        \n\nYou will enjoy your trip
+        even more and it allows you to switch seats with the driver to make your travel safer and more comfortable.
+        \n\nYou can always opt for car-pooling if travelling alone to break the monotony of your daily commute.</string>
+    <string name="transporttip7">
+        \n\n<b>Save your money</b>
+        \n\nHaving a car costs a lot nowadays, the fuel is pretty expensive and the congestion tax in Sweden becomes
+        more expensive every year so think twice before buying your own car!</string>
+
+</resources>
