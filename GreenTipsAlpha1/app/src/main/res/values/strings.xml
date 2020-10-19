@@ -166,31 +166,31 @@
         \n\nGreen cleansing
 
         \n\nMany cleansing products are environmentally unfriendly and are dangerous for the environment as well as human health.
-        \n\nPrioritize buying eco friendly hand soap and sprays that don\'t have harmful and other bad chemicals
+        \n\nPrioritize buying eco friendly hand soap and sprays that don\'t have harmful and other bad chemicals.
 </string>
     <string name="worklifetip4" translatable="false">
         \n\nNo more water bottles
 
-        \n\nyou can easily drink water from your own glass, or if you purchase a reusable water bottle
+        \n\nYou can easily drink water from your own glass, or if you decide to purchase a reusable water bottle.
 </string>
     <string name="worklifetip5" translatable="false">
         \n\nPlan you work day
 
-        \n\nPrepare your meals and snacks day before you work, so you skip drive to buy food or
+        \n\nPrepare your meals and snacks the day before you work, so you don\'t need to drive to buy food or
         other stuff.
 </string>
     <string name="worklifetip6" translatable="false">
         \n\nUse public transport
 
-        \n\nThe best to reduce emissions is  to use public transport, if it\'s not possible to use it so
+        \n\nThe best solution to reduce emissions is to use public transport, and if it\'s not possible then
         take your bike and cycle to work.
 </string>
     <string name="worklifetip7" translatable="false">
         \n\nHave green decoration
 
-        Upgrade your office by decorating it with plants. \n\nThe plants gives you Oxygen and remove the
-        carbon dioxide and that helps you to get healthier air in you office and add beautiful
-        design.
+        \n\nUpgrade your office by decorating it with plants.
+        \n\nThe plants gives you oxygen and remove the carbon dioxide. That helps you to get healthier air
+        in your office and add a beautiful design.
 </string>
     <string name="shortsocialtip1" translatable="false">Buy Eco friendly clothes</string>
     <string name="shortsocialtip2" translatable="false">Be more vegan outside</string>
@@ -209,7 +209,7 @@
     <string name="socialtip2" translatable="false">
         \n\nBe more vegan outside
 
-        \n\nBe vegan when you eat in restaurants,
+        \n\nBe vegan whenever you can. When you eat in restaurants,
         don\'t waste food, try to eat less meat, and eat ecologist food.
 
     </string>
@@ -229,18 +229,21 @@
     <string name="socialtip5" translatable="false">
         \n\nSave water
 
-        \n\nTry to save as much water as possible in your daily routine. \n\nAnd try to drink crane water instead of bottle,
-        and if you don\'t have access to clean crane water try to buy a filter which can save a lot of money.
+        \n\nTry to save as much water as possible in your daily routine.
+        \n\nDrink crane water instead of bottled one,
+        and if you don\'t have access to clean crane water try to buy a filter which will make it clean.
+        It will also save you a lot of money.
 
     </string>
     <string name="socialtip6" translatable="false">
         \n\nsay no to plastic straw
 
-        \n\nDrink with paper straw instead of plastic. Or you can avoid drinking with straw at all.
+        \n\nDrink with paper straw instead of plastic. You can also avoid drinking with a straw at all.
+        \nWhy would you even need one?
 
     </string>
     <string name="socialtip7" translatable="false">
-        \n\nuse containers
+        \n\nUse containers
 
         \n\nThrow your old clothes in containers so they reuse them instead of burning them.
 
@@ -251,51 +254,59 @@
     <string name="shortoutdoorstip4" translatable="false">Do not throw rubbish on the ground</string>
     <string name="shortoutdoorstip5" translatable="false">Do not smoke in public places</string>
     <string name="shortoutdoorstip6" translatable="false">Stop using hair spray</string>
-    <string name="shortoutdoorstip7" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="shortoutdoorstip7" translatable="false">Change your workout</string>
+
     <string name="outdoorstip1" translatable="false">
         \n\nBe careful what you burn
 
-        \n\nAvoid burning aluminum cans and other stuff that can release pollutants into the air. \n\nYou should also be careful when you
-        put out fires, make sure that you are allowed to do that and there aren\'t any local fire bans due to serious drought conditions.
+        \n\nAvoid burning aluminum cans and other stuff that can release pollutants into the air.
+        \n\nYou should also be careful when you put out fires, make sure that you are allowed to do
+        that and there aren\'t any local fire bans due to serious drought conditions.
 
     </string>
     <string name="outdoorstip2" translatable="false">
-        Keep water clean
+        \n\nKeep water clean
 
-        \n\nArtificial things like makeup, suntan oils can make the local water source unclean. \n\nReplace using chemical insect repellent
-        with an effective natural product.
+        \n\nArtificial things like makeup, suntan oils can make the local water source unclean.
+        \n\nReplace using chemical insect repellent with an effective natural product.
 
     </string>
     <string name="outdoorstip3" translatable="false">
         \n\nStop buying plastic bags
 
-        \n\nreplace your plastic bags by buying clothes bags instead
+        \n\nReplace your plastic bags by buying clothes bags instead.
 </string>
     <string name="outdoorstip4" translatable="false">
         \n\nDo not throw rubbish on the ground
+        \n\nSome kinds of rubbish have an impressively long decomposition time.
+        \n\nEspecially do not throw batteries which can have a very bad effect on nature, and should be recycled.
+        \n\nBirds can get stuck on chewing gum on the ground on the street, and that can lead to them getting hit by cars.
+        Another well known consequence of throwing rubbish (in the oceans) are seals getting trapped in plastic rubbish and very often dying because of it.
 
-        Birds can get stuck on chewing gum on the ground on the street, and that can lead to them getting hit by cars.
-        \n\nEspecially batteries which can have a very bad effect on nature, and it should sort.
 
     </string>
     <string name="outdoorstip5" translatable="false">
         \n\nDo not smoke in public places
-        \n\nSmoking affects both the environment and people in a negative way. \n\nstudies have shown
-        that tobacco production causes forest losses, and this causes the amount of carbon dioxide to increase in
+        \n\nSmoking affects both the environment and people\'s health in a negative way.
+        \n\nStudies have shown that tobacco production causes forest losses, and this causes the amount of carbon dioxide to increase in
         the atmosphere
 
     </string>
     <string name="outdoorstip6" translatable="false">
         \n\nStop using hair spray
-        hair spray and other perfumed products have negative consequences for the environment, then
-        perfumes are not broken down but many continue into the waterways. \n\nWhich
+        \n\nHair spray and other perfumed products have negative consequences for the environment.
+        The perfumes are not broken down but many continue into the waterways, which
         makes an unnecessary burden on the treatment plants.
 
     </string>
-    <string name="outdoorstip7" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="outdoorstip7" translatable="false">
+        \n\nChange your workout
+        \n\nWork out outside instead of at a gym; there are endless options and it will save you money on machinery
+        and memberships.
+    </string>
 
 
-    <string name="string_green_tips">Green Tips</string>
+    <string name="string_green_tips" translatable="false">Green Tips</string>
     <string name="image_for_tips" translatable="false">image for tips</string>
     <string name="reminders">Reminders</string>
     <string name="image_for_reminders" translatable="false">image_for_reminders</string>

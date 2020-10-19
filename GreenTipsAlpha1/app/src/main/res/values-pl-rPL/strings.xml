@@ -84,19 +84,13 @@
 
     <string name="householdtip1" translatable="false">
         \n\nPrzestań korzystać z torebek jednorazowych
-
 	    \n\nKupuj torby do wielorazowego użytku albo zrób swoje własne - jest to niezwykle proste.
-
-
-
     </string>
     <string name="householdtip2" translatable="false">
         \n\nPierz w zimnej wodzie
         \n\nOd 75 do 90 procent energii, którą Twoja pralka zużywa służy do podgrzewania wody, więc pranie w zimnej wodzie
         z pewnością zmiejszy Twoje rachunki za prąd.
 	    \n\nPoza tym, gorąca woda utrwala niektóre plamy, z którymi świetnie poradzi sobie pranie w zimnej wodzie.
-
-
     </string>
     <string name="householdtip3" translatable="false">
         \n\nUżywaj swoich własych produktów do czyszczenia
@@ -115,7 +109,6 @@
         Gaszenie świateł, kiedy nie są one potrzebne pozwoli Ci zaoszczędzić na rachunkach za elektryczność i
         przedłużyć żywotność żarówek.
         \n\nTo natomiast sprawi że Twój dom stanie się bardziej energooszczędny.
-
     </string>
     <string name="householdtip6" translatable="false">
         \n\nJedz mniej mięsa
@@ -126,6 +119,191 @@
 	    \n\nMożesz segregować dosłownie wsyzstko, od baterii po papier czy samochód. Zanim coś wyrzucisz do kosza zastanów się czy możesz to posegregować.
 </string>
 
+    <string name="shortworklifetip1" translatable="false">Segreguj!</string>
+    <string name="shortworklifetip2" translatable="false">Przejdź na system cyfrowy</string>
+    <string name="shortworklifetip4" translatable="false">Koniec z wodą butelkowaną</string>
+    <string name="shortworklifetip5" translatable="false">Zaplanuj swój dzień roboczy</string>
+    <string name="shortworklifetip6" translatable="false">Korzystaj z transportu miejskiego</string>
+    <string name="shortworklifetip7" translatable="false">Zielone dekoracje</string>
+    <string name="shortworklifetip3" translatable="false">Naturalne produkty oczyszczające</string>
+
+    <string name="worklifetip1" translatable="false">
+        \n\nSegreguj!
+
+        \n\nW wielu miejscach pracy nie dba się o poprawne segregowanie śmieci. Możesz segregować m.in. plasitk, papier
+        i odpadki żywnościowe.
+</string>
+    <string name="worklifetip2" translatable="false">
+        \n\nPrzejdź na system cyfrowy
+
+        \n\nPrzejdź na dokumenty cyfrowe zamiast papieru i zastanów się nad zakupem papieru z recyklingu za 100 €.
+</string>
+    <string name="worklifetip3" translatable="false">
+        \n\nNaturalne produkty oczyszczające
+
+        \n\nWiele produktów oczyszczających jest nieprzyjaznych dla środowiska, a nawet niebezpieczne również dla naszego zdrowia.
+        \n\nPreferuj kupowanie ekologicznych mydeł i sprayów, które nie zawierają żadnych szkodliwych środków.
+</string>
+    <string name="worklifetip4" translatable="false">
+        \n\nKoniec z wodą butelkowaną
+
+        \n\nPij wodę z własnej szklanki lub jeśli wolisz kup butelkę na wodę do wielorazowego użytku.
+</string>
+    <string name="worklifetip5" translatable="false">
+        \n\nZaplanuj swój dzień roboczy
+
+        \n\nPrzygotuj swoje posiłki na dzień wcześniej, żeby nie musieć jeździć z pracy żeby kupić jedzenie
+        lub inne potrzebne rzeczy.
+</string>
+    <string name="worklifetip6" translatable="false">
+        \n\nKorzystaj z komunikacji miejskiej
+
+        \n\nNajlepszym rozwiązaniem na zredukowanie własnej emisji smogu jest skorystanie z komunikacji miejskiej,
+        a jeżeli to nie jest możliwe - wybierz rower.
+</string>
+    <string name="worklifetip7" translatable="false">
+        \n\nZielone dekoracje
+
+        \n\nUdekoruj swoje biuro w zieleń.
+        \n\nKwiaty i inne rośliny wytwarzają tlen i eliminują dwutlenek węgla. To pozwoli Ci na cieszenie się zdrowszym powietrzem
+        i przyjemeniej urządzonym miejscem pracy.
+</string>
+
+    <string name="shortsocialtip1" translatable="false">Kupuj ekologiczne ubrania</string>
+    <string name="shortsocialtip2" translatable="false">Jedz częściej wege</string>
+    <string name="shortsocialtip3" translatable="false">Kupuj vintage</string>
+    <string name="shortsocialtip4" translatable="false">Jedz lokalne produkty</string>
+    <string name="shortsocialtip5" translatable="false">Oszczędzaj wodę</string>
+    <string name="shortsocialtip6" translatable="false">Powiedz nie plastikowym słomkom</string>
+    <string name="shortsocialtip7" translatable="false">"Korzystaj z kontenerów "</string>
+
+
+    <string name="socialtip1" translatable="false">
+        \n\nKupuj ekologiczne ubrania
+
+        \n\nSpytaj się w sklepie przy najbliższych zakupach czy ich ubrania są tworzone z ekologicznych materiałów.
+
+    </string>
+    <string name="socialtip2" translatable="false">
+        \n\nJedz częściej wege
+
+        \n\nJedz częściej potrawy wegetariańskie w restauracjach, nie marnuj jedzenia i wybieraj ekologiczne potrawy.
+
+    </string>
+    <string name="socialtip3" translatable="false">
+
+    \n\nKupuj vintage
+
+    \n\nZaglądaj częściej do sklepów z używanymi rzeczami i stawiaj na używaną odzież lub meble zamiast kupować nowe.
+
+    </string>
+    <string name="socialtip4" translatable="false">
+        \n\nJedz lokalne produkty
+
+        \n\nJedz szwedzkie produkty.
+        Importowana żywność przyczynia się do degradacji środowiska.
+
+    </string>
+    <string name="socialtip5" translatable="false">
+        \n\nOszczędzaj wodę
+
+        \n\nStaraj się oszczędzać wodę w swojej codziennej rutynie.
+        \n\nPij wodę z kranu zamiast butelkowanej, a jeżeli nie masz dostępu do czystej wody w kranie, kup filter, który będzie ją oczyszczał.
+        Zaoszczędzisz przy tym sporo pieniędzy.
+
+    </string>
+    <string name="socialtip6" translatable="false">
+        \n\nPowiedz nie plastikowym słomkom
+
+        \n\nKorzystaj z papierowych słomek zamiast plastikowych. Możesz też zupełnie zrezygnować ze słomki.
+        \nCzemu miałaby Ci być wogóle potrzebna?
+
+    </string>
+    <string name="socialtip7" translatable="false">
+        \n\nKorzystaj z kontenerów
+
+        \n\nWyrzucaj swoje stare ciuchy do specjalnych kontenerów, żeby mogłyby byc ponownie wykorzystane zamiast spalone jak zwykłe śmieci.
+    </string>
+
+    <string name="shortoutdoorstip1" translatable="false">Uważaj co spalasz</string>
+    <string name="shortoutdoorstip2" translatable="false">Dbaj o czystość wody</string>
+    <string name="shortoutdoorstip3" translatable="false">Przestań kupować plastikowe torebki</string>
+    <string name="shortoutdoorstip4" translatable="false">Nie śmieć</string>
+    <string name="shortoutdoorstip5" translatable="false">Nie pal w miesjcach publicznych</string>
+    <string name="shortoutdoorstip6" translatable="false">Nie używaj lakieru do włosów</string>
+    <string name="shortoutdoorstip7" translatable="false">Zmień swoje treningi</string>
+
+    <string name="outdoorstip1" translatable="false">
+        \n\nUważaj co spalasz
+
+        \n\nNie pal puszek aluminiowych i innych tworzyw, które mogą uwalniać zanieczyszczenia.
+        \n\nUważaj też na to gdzie rozpalasz ognisko, upewnij się czy masz do tego prawo w danym miejscu i czy nie obowiązują
+        żadne lokalne zakazy spowodowane suszą.
+
+    </string>
+    <string name="outdoorstip2" translatable="false">
+        \n\nDbaj o czystość wody
+
+        \n\nSztuczne kosmetyki takie jak make-up czy olejki do opalania mogą zanieczyścić lokalne źródło wody.
+        \n\nZastąp chemiczny środek odstraszający owady skutecznym produktem naturalnym.
+
+    </string>
+    <string name="outdoorstip3" translatable="false">
+        \n\nPrzestań kupować plastikowe torebki
+
+        \n\nZastąp plastikowe torby, torbami materiałowymi.
+</string>
+    <string name="outdoorstip4" translatable="false">
+        \n\nNie śmieć
+        \n\nNiektóre rodzaje śmieci mają wyjątkowo długi czas rozkładu.
+        \n\nW szczególności nei wyrzucaj baterii, które mogą mieć poważny negatywny wpływ na środowisko, a powinny być wyrzucone do recyklingu.
+        \n\nPtaki mogą utknąć na gumie do żucia wyrzuconej na ulicę, co może doprowadzić do potrącenia ich przez samochód.
+        Innym dobrze znanym skutkiem zaśmiecania (oceanów) są foki uwięzione w plastikowych śmieciach i bardzo często z ich powodu giną.
+
+    </string>
+    <string name="outdoorstip5" translatable="false">
+        \n\nNie pal w miesjcach publicznych
+        \n\nPalenie wpływa negatywnie zarówno na środowisko jak i na ludzkie zdrowie.
+        \n\nBadania wykazały, że produkcja tytoniu powoduje wymieranie lasów, a to powoduje wzrost ilości dwutlenku węgla
+        w atmosferze.
+
+    </string>
+    <string name="outdoorstip6" translatable="false">
+        \n\nNie używaj lakieru do włosów
+        \n\nLakier do włosów i inne perfumowane produkty mają negatywny wpływ na środowisko. Perfumy nie rozkładają się,
+        a wiele z nich przedostaje się do dróg wodnych, co stanowi niepotrzebne obciążenie dla oczyszczalń.
+
+    </string>
+    <string name="outdoorstip7" translatable="false">
+        \n\nChange your workout
+        \n\nTrenuj na świeżym powietrzu zamiast na siłowni; istnieje nieskończona liczba możliwości, które pozwolą Ci zaoszczędzić pieniądze na maszynach
+        oraz kartach członkowskich.
+    </string>
+
+
+    <string name="reminders">Przypomnienia</string>
+    <string name="button_schedule_set">OK</string>
+    <string name="button_schedule_cancel">Anuluj</string>
+
+    <string name="contact_form">Skontaktuj się z nami</string>
+    <string name="contact_form_name">Imię i nazwisko</string>
+    <string name="contact_form_email">Twój email</string>
+    <string name="contact_form_message">Wiadomość</string>
+    <string name="contact_form_button">Wyślij wiadomość</string>
+    <string name="contact_form_post_message">Dziękujemy za skontaktowanie się z nami, proszę czekać</string>
+    <string name="contact_posted">Twoja wiadomość została wysłana. Skontaktujemy się z Tobą jeśli będziemy mieć pytania.</string>
+    <string name="enter_your_e_mail_here">Wprowadź swój email</string>
+    <string name="enter_your_name_here">Wprowadź swoje imię i nazwisko</string>
+    <string name="contact_form_subject">Tytuł wiadomości</string>
+    <string name="enter_your_subject_here">Wprowadź tytuł wiadomości</string>
+    <string name="enter_your_message_here">Wprowadź swoją wiadomość</string>
+
+    <string name="switch_view">Zmień widok</string>
+
+    <string name="popup_message">
+        Aby zastosować zmiany języka w całej aplikacji, wróć do ekranu głównego!
+        \n(przycisk strony głównej na dole strony)
+    </string>
 
 
 </resources>
