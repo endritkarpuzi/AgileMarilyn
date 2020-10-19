@@ -6091,7 +6091,7 @@
 
         \n\n<b>Buy vintage</b>
 
-    \n\nsupport second hand, buy vintage clothes and used  furniture instead of new
+    \n\nSupport second hand, buy vintage clothes and used furniture instead of new.
 
     </string><string name="socialtip4">
 <<<<<<< HEAD
@@ -6142,7 +6142,7 @@
 >>>>>>> development_smedra
 
         \n\nAvoid burning aluminum cans and other stuff that can release pollutants into the air.
-        \n\nYou should also be careful when you put out fires, make sure that you are allowed to do
+        \n\nYou should also be careful when you light the fire, make sure that you are allowed to do
         that and there aren\'t any local fire bans due to serious drought conditions.
 
     </string><string name="outdoorstip2">
@@ -6406,7 +6406,7 @@
         \n\n<b>Zmień swoje treningi</b>
         \n\nTrenuj na świeżym powietrzu zamiast na siłowni; istnieje nieskończona liczba możliwości, które pozwolą Ci zaoszczędzić pieniądze na maszynach
         oraz kartach członkowskich.
-    </string><string name="reminders">Przypomnienia</string><string name="button_schedule_set">OK</string><string name="button_schedule_cancel">Anuluj</string><string name="contact_form">Skontaktuj się z nami</string><string name="contact_form_name">Imię i nazwisko</string><string name="contact_form_email">Twój email</string><string name="contact_form_message">Wiadomość</string><string name="contact_form_button">Wyślij wiadomość</string><string name="contact_form_post_message">Dziękujemy za skontaktowanie się z nami, proszę czekać</string><string name="contact_posted">Twoja wiadomość została wysłana. Skontaktujemy się z Tobą jeśli będziemy mieć pytania.</string><string name="enter_your_e_mail_here">Wprowadź swój email</string><string name="enter_your_name_here">Wprowadź swoje imię i nazwisko</string><string name="contact_form_subject">Tytuł wiadomości</string><string name="enter_your_subject_here">Wprowadź tytuł wiadomości</string><string name="enter_your_message_here">Wprowadź swoją wiadomość</string><string name="switch_view">Zmień widok</string><string name="popup_message">
+    </string><string name="reminders">Przypomnienia</string><string name="button_schedule_set">OK</string><string name="button_schedule_cancel">Anuluj</string><string name="contact_form">Skontaktuj się z nami</string><string name="contact_form_name">Imię i nazwisko</string><string name="contact_form_email">Twój email</string><string name="contact_form_message">Wiadomość</string><string name="contact_form_button">Wyślij wiadomość</string><string name="contact_form_post_message">Dziękujemy za skontaktowanie się z nami, proszę czekać...</string><string name="contact_posted">Twoja wiadomość została wysłana. Skontaktujemy się z Tobą jeśli będziemy mieć pytania.</string><string name="enter_your_e_mail_here">Wprowadź swój email</string><string name="enter_your_name_here">Wprowadź swoje imię i nazwisko</string><string name="contact_form_subject">Tytuł wiadomości</string><string name="enter_your_subject_here">Wprowadź tytuł wiadomości</string><string name="enter_your_message_here">Wprowadź swoją wiadomość</string><string name="switch_view">Zmień widok</string><string name="popup_message">
         Aby zastosować zmiany języka w całej aplikacji, wróć do ekranu głównego!
         \n(przycisk strony głównej na dole strony)
     </string><string name="name_reminder">Nazwij swoje przypomnienie</string></file><file path="C:\Users\czare\Chalmers\SP1\DAT257\AgileMarilyn\GreenTipsAlpha1\app\src\main\res\values-sq\strings.xml" qualifiers="sq"><string name="chooseLang">Zgjidhni një gjuhë</string><string name="continueButton">Vazhdoni</string><string name="aboutButton">Informacion</string><string name="chooseCat">Vazhdoni</string><string name="category">Zgjidhni një kategori</string><string name="aboutapp">Zhvilluar nga:</string><string name="transport">Transport</string><string name="outdoors">Përjashta</string><string name="worklife">Në punë</string><string name="household">Shtëpiake</string><string name="sociallife">Jete sociale</string><string name="chooseTip">Zgjidhni një këshillë.</string><string name="shorttransporttip1">Ecni për udhëtime të shkurtra</string><string name="shorttransporttip2">Përdorni biçikletën</string><string name="shorttransporttip3">Përdorni transportin publik</string><string name="shorttransporttip4">Planifikoni para udhëtimeve</string><string name="shorttransporttip5">Vozitje e gjelbër</string><string name="shorttransporttip6">Përdorni një makinë</string><string name="shorttransporttip7">Kurseni paratë tuaja</string><string name="transporttip1">Ecni për udhëtime të shkurtra.
