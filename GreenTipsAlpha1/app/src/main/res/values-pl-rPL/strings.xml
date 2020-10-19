@@ -288,7 +288,7 @@
     <string name="contact_form_email">Twój email</string>
     <string name="contact_form_message">Wiadomość</string>
     <string name="contact_form_button">Wyślij wiadomość</string>
-    <string name="contact_form_post_message">Dziękujemy za skontaktowanie się z nami, proszę czekać</string>
+    <string name="contact_form_post_message">Dziękujemy za skontaktowanie się z nami, proszę czekać...</string>
     <string name="contact_posted">Twoja wiadomość została wysłana. Skontaktujemy się z Tobą jeśli będziemy mieć pytania.</string>
     <string name="enter_your_e_mail_here">Wprowadź swój email</string>
     <string name="enter_your_name_here">Wprowadź swoje imię i nazwisko</string>

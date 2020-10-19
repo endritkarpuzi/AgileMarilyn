@@ -5996,7 +5996,7 @@
 
         \n\n<b>Buy vintage</b>
 
-    \n\nsupport second hand, buy vintage clothes and used  furniture instead of new
+    \n\nSupport second hand, buy vintage clothes and used furniture instead of new.
 
     </string><string name="socialtip4">
         \n\n<b>Eat locally produced food</b>
@@ -6026,7 +6026,7 @@
         \n\n<b>Be careful what you burn</b>
 
         \n\nAvoid burning aluminum cans and other stuff that can release pollutants into the air.
-        \n\nYou should also be careful when you put out fires, make sure that you are allowed to do
+        \n\nYou should also be careful when you light the fire, make sure that you are allowed to do
         that and there aren\'t any local fire bans due to serious drought conditions.
 
     </string><string name="outdoorstip2">
@@ -6072,7 +6072,190 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:textAllCaps">false</item>
-    </style></file><file path="C:\Users\czare\Chalmers\SP1\DAT257\AgileMarilyn\GreenTipsAlpha1\app\src\main\res\values-pl-rPL\strings.xml" qualifiers="pl-rPL"><string name="chooseLang">Wybierz język</string><string name="continueButton">Dalej</string><string name="chooseCat">Wybierz kategorię</string><string name="aboutButton">O aplikacji</string><string name="category">Kategoria</string><string name="aboutapp">
+    </style></file><file path="C:\Users\czare\Chalmers\SP1\DAT257\AgileMarilyn\GreenTipsAlpha1\app\src\main\res\values-fr-rFR\strings.xml" qualifiers="fr-rFR"><string name="chooseLang">Choisis une langue</string><string name="continueButton">Continuer</string><string name="aboutButton">Information</string><string name="chooseCat">Choisis une catégorie</string><string name="category">Catégorie</string><string name="transport">Transport</string><string name="outdoors">Plein air</string><string name="worklife">Au bureau</string><string name="household">À la maison</string><string name="sociallife">Vie sociale</string><string name="aboutapp">
+        <b>Bienvenu(e) à GreenTips!</b>\n
+        \nCette application a été developpé par 6 étudiants de Chalmers Tekniska Högskola à Goteborg en Suède .\n
+        \nAvec les conseils et idées qu\'on vous présente ici, on vous aidera à réduire votre impact environnemental et à vivre une vie plus saine!\n
+        \nChoisis simplement la catégorie qui t\'intéresse et nous te fournirons de nobreux conseils simples pour une vie plus verte.
+        \nReçois des notifications et crée tes propres buts en choisissant d\'avoir des astuces précises en vue!
+    </string><string name="sourcestext1">Sources</string><string name="chooseTip">Choisis une astuce</string><string name="shorttransporttip1">Marche pour de courts trajets</string><string name="shorttransporttip2">Opte pour le vélo</string><string name="shorttransporttip3">Utilise les transports publics</string><string name="shorttransporttip4">Planifie tes trajets</string><string name="shorttransporttip5">Passe à la Conduite Verte</string><string name="shorttransporttip6">Prend une seule voiture</string><string name="shorttransporttip7">Économise ton argent</string><string name="transporttip1">
+        \n\n<b>Marche por de courts trajets</b>
+        \n\nLa marche aide à perdre du poids, diminuer la pression artérielle et est totalement gratuite.
+        Cela prends aussi moins de temps que ce que tu penses.
+
+        \n\nDes études ont montré que la plupart des gens sous-estime le temps nécessaire pour un trajet en voiture, ainsi qu\'ils
+        sur-estiment le temps nécessaire que prendra ce même trajet à pied.
+        \n\nLa vitesse moyenne à pied est de 6 km/h et si tu choisis de marcher tu n\'auras pas besoin de trouver une place de parking
+        sur place.</string><string name="transporttip2">
+        \n\n<b>Opte pour le vélo</b>
+        \n\nFaire un total de 10km de trajets par semaine à vélo au lieu de le faire en voiture te permettras de brûler 300 calories
+        par trajets et peut réduire les émissions de gaz à effet de serre de jusqu\'à 300 kg par année.
+        \n\nLe savais-tu? Les trajets pendant les heures de pointe de moins de 10km sont généralement plus rapide à vélo qu\'en voiture.
+        \n\nEn plus de cela, faire du vélo t\'aides à perdre du poids et gagner en muscles!</string><string name="transporttip3">
+        \n\n<b>Utilise les tranpsorts publics</b>
+        \n\nL\'utilisation des transports publics te permet d\'éviter les problèmes liés aux bouchons et aux places de parking.
+        De toute manière tu arriveras à temps!
+    </string><string name="transporttip4">
+        \n\n<b>Planifie tes trajets</b>
+        \n\nCumule tes devoirs et plans pour un seul trajet afin d\'économiser en essence, argent et temps!
+        \n\nCela te permettra d\'avoir plus de temps pour le reste de ta journée pour plus productif.</string><string name="transporttip5">
+        \n\n<b>Passe à la Conduite Verte</b>
+        \n\nConduit fluidement, le démarrage et l\'arrêt complet consomme plus de ton essence.
+        \n\nRalentis, rouler à 90 km/h consomme 25% d\'essence en moins que de rouler à 110 km/h.
+        \n\nVérifie la pression de tes pneus régulièrement. Des pneus sous-gonflés peuvent augmenter la consommation
+        d\'essence de 3% ainsi que réduire leur durée de vie de 10,000km.
+        \n\nAu lieu d\'allumer la climatisation, ouvre la fenêtre lorsque tu roules à moins de 70km/h.</string><string name="transporttip6">
+        \n\n<b>Prends une seule voiture</b>
+        \n\nAu lieu de prendre plusieurs voitures pour partir en voyage avec tes amis, prenez en une seule lorsque cela est possible.
+        \n\nVous profiterez de votre voyage davantage et cela vous permettra de changer entre conducteurs pour un voyage plus sûr et plus confortable .
+        \n\nVous pouvez toujours choisir de faire du covoiturage pour briser la monotonie du trajet quotidien.</string><string name="transporttip7">
+        \n\n<b>Économise ton argent</b>
+        \n\nPosséder une voiture de nos jours coûte énormément, l\'essence est très chère et la taxe de congestion en Suède
+        augmente chaque année, alors pense y deux fois avant d\'acheter ta propre voiture!</string><string name="shorthouseholdtip1" translatable="false">Stop aux sacs jetables</string><string name="shorthouseholdtip2" translatable="false">Lave les vêtements à l\'eau froide</string><string name="shorthouseholdtip3" translatable="false">Fais tes propres produits de nettoyage</string><string name="shorthouseholdtip4" translatable="false">Isole ta maison</string><string name="shorthouseholdtip5" translatable="false">Éteinds la lumière</string><string name="shorthouseholdtip6" translatable="false">Mange moins de viande</string><string name="shorthouseholdtip7" translatable="false">Recycles tout</string><string name="householdtip1">
+    \n\n<b>Stop aux sacs jetables</b>
+
+    \n\nProcure toi des sacs réutilisable ou fabrique les toi-même - ils sont incroyablement faciles à faire.
+</string><string name="householdtip2">
+        \n\n<b>Lave les vêtements à l\'eau froide</b>
+        \n\nEnviron 75 à 90 pour cents de toute l\'énergie que ta machine à laver utilise est due au chauffage de l\'eau, donc le simple fait de passer à l\'eau froide
+        va diminuer tes factures d\'électricité.
+	    \n\nDe plus, l\'eau chaude renforcera les taches et l\'eau froide rendra vos vêtements tout aussi propres.
+    </string><string name="householdtip3">
+        \n\n<b>Fais tes propres produits de nettoyage</b>
+        \n\nRemplaces tous tes contenants de produits chimiques en plastique par un seul.
+        \n\n*Nettoyant pour vitres: 1/4 tasse de vinaigre blanc, 2 tasses d\'eau tiède et d\'huile d\'arbre à thé
+        \n\n*Nettoyant antibactérien: 1/4 tasse de vinaigre blanc, 1 cuillère à soupe de bicarbonate de soude, 1 litre d\'eau chaude et huiles essentielles d\'orange
+    </string><string name="householdtip4">
+        \n\n<b>Isole ta maison</b>
+	    \n\nLes maisons qui ne sont pas bien isolées sont beaucoup plus difficiles à garder au chaud quand il fait froid et au frais quand il fait chaud.
+    </string><string name="householdtip5">
+        \n\n<b>Éteinds la lumière</b>
+        \n\nC\'est sûrement l\'un des conseils les plus connus. Éteindre les lumières lorsque tu ne les utilises pas peut t\'aider à économiser de l\'argent en réduisant tes factures d\'électricité et en prolongeant la
+        vie de tes ampoules.
+        \n\nCela peut rendre ta maison plus écoénergétique.
+    </string><string name="householdtip6">
+        \n\n<b>Mange moins de viande</b>
+	    \n\nNe pas consommer de viande rouge, même si ce n\’est que deux ou trois jours par semaine, peut avoir un impact assez important sur la réduction de ton empreinte carbone.
+    </string><string name="householdtip7">
+        \n\n<b>Recycles tout</b>
+	    \n\nTu peux recycler presque tout, des batteries au papier en passant par les voitures. Avant de le jeter, prenez une minute pour savoir si vous pouvez le recycler à la place.
+    </string><string name="shortworklifetip1" translatable="false">Recycle</string><string name="shortworklifetip2" translatable="false">Approche sans papier</string><string name="shortworklifetip3" translatable="false">Nettoyage vert</string><string name="shortworklifetip4" translatable="false">L\'eau en bouteilles c\'est fini</string><string name="shortworklifetip5" translatable="false">Planifie ta journée de travail</string><string name="shortworklifetip6" translatable="false">Utilise les transport publics</string><string name="shortworklifetip7" translatable="false">Décorations vertes</string><string name="worklifetip1">
+        \n\n<b>Recycle</b>
+
+        \n\nDe nombreux employés ne se soucient pas du recyclage, mais le recyclage est important pendant votre travail. Tu peux recycler
+        papier, plastique et nourriture par exemple.
+    </string><string name="worklifetip2">
+        \n\n<b>Approche sans papier</b>
+
+        \n\nPasse aux documents numériques au lieu du papier ou pense à acheter du papier recyclé à 100 €.
+    </string><string name="worklifetip3">
+        \n\n<b>Nettoyage vert</b>
+
+        \n\nDe nombreux produits de nettoyage sont dangereux pour l\'environnement ainsi que pour la santé humaine.
+        \n\nPriorises l\'achat de savon et de sprays écologiques qui ne contiennent pas de produits chimiques nocifs.
+    </string><string name="worklifetip4">
+        \n\n<b>L\'eau en bouteille c\'est fini</b>
+
+        \n\nTu peux facilement boire de l\'eau de ton propre verre ou si tu décides d\'acheter une bouteille d\'eau réutilisable.
+    </string><string name="worklifetip5">
+        \n\n<b>Planifie ta journée de travail</b>
+
+        \n\nPrépares tes repas la veille de ta journée de travail, de sorte que tu n\’aies pas besoin de conduire
+        pour acheter de la nourriture ou autre chose.
+    </string><string name="worklifetip6">
+        \n\n<b>Utilise les transports publics</b>
+
+        \n\nLa meilleure solution pour réduire les émissions de gaz est d\'utiliser les transports publics, et si ce n\'est pas possible, alors
+        prends ton vélo pour te rendre à ton lieu de travail.
+    </string><string name="worklifetip7">
+        \n\n<b>Décorations vertes</b>
+
+        \n\nDécores ton bureau avec des plantes.
+        \n\nLes plantes nous donnent de l\'oxygène et éliminent le dioxyde de carbone. Cela t\'aidera à à avoir un air plus sain
+        dans ton bureau et sera un bon ajout à son design.
+    </string><string name="shortsocialtip1" translatable="false">Achètes des vêtements éco</string><string name="shortsocialtip2" translatable="false">Sois plus vegan</string><string name="shortsocialtip3" translatable="false">Achètes vintage</string><string name="shortsocialtip4" translatable="false">Mange localement</string><string name="shortsocialtip5" translatable="false">Économise l\'eau</string><string name="shortsocialtip6" translatable="false">Dis non aux pailles en plastique</string><string name="shortsocialtip7" translatable="false">Utilise des conteneurs</string><string name="socialtip1">
+        \n\n<b>Achètes des vêtements éco</b>
+
+        \n\nDemandes au magasin si leurs vêtements sont écologiques.
+
+    </string><string name="socialtip2">
+        \n\n<b>Sois plus vegan</b>
+
+        \n\nSois végan aussi souvent que tu le peux. Quand tu manges dans les restaurants,
+        ne gaspilles pas la nourriture, essayes de manger moins de viande, ainsi que de la nourriture écologique.
+
+    </string><string name="socialtip3">
+
+        \n\n<b>Achètes vintage</b>
+
+        \n\nSoutiens les magasins de seconde main, achètes des vêtements vintage et des meubles d\'occasion au lieu de nouveaux.
+
+    </string><string name="socialtip4">
+        \n\n<b>Manges localement</b>
+
+        \n\nManges de la nourriture suédoise. Les aliments importés contribuent à la dégradation de l\'environnement.
+
+    </string><string name="socialtip5">
+        \n\n<b>Économise l\'eau</b>
+
+        \n\nEssaies d\'économiser autant d\'eau que possible dans ta routine quotidienne.
+        \n\nBois de l\'eau du robinet au lieu d\'une en bouteille, et si tu n\'as pas accès à de l\'eau du robinet propre,
+        essaies d\'acheter un filtre qui la rendra propre et te fera également économiser beaucoup d\'argent.
+
+    </string><string name="socialtip6">
+        \n\n<b>Dis non aux pailles en plastique</b>
+
+        \n\nBois avec de une paille en papier au lieu d\'une en plastique. Tu peux également tout simplement éviter de boire avec une paille.
+        \nPourquoi en aurais-tu besoin?
+
+    </string><string name="socialtip7">
+        \n\n<b>Utilise des conteneurs</b>
+
+        \n\nJètes tes vieux habits dans des conteneurs pour qu\'on puisse les réutiliser au lieu de les brûler.
+
+    </string><string name="shortoutdoorstip1" translatable="false">Fais attention à ce que tu brûles</string><string name="shortoutdoorstip2" translatable="false">Garde l\'eau propre</string><string name="shortoutdoorstip3" translatable="false">Arrête d\'acheter des sacs en plastique</string><string name="shortoutdoorstip4" translatable="false">Ne laisse pas de déchets dehors</string><string name="shortoutdoorstip5" translatable="false">Ne fume pas dans les lieux publics</string><string name="shortoutdoorstip6" translatable="false">N\'utilises pas de la laque</string><string name="shortoutdoorstip7" translatable="false">Changes ton entrainement</string><string name="outdoorstip1">
+        \n\n<b>Fais attention à ce que tu brûles</b>
+
+        \n\nÉvites de brûler des canettes d\'aluminium et d\'autres objets susceptibles de libérer des polluants dans l\'air.
+        \n\nTu dois également faire attention lorsque t\'allumes le feu, assures-toi que tu es autorisé à le faire
+        et qu\'il n\'y a pas d\'interdiction de feu locale en raison de graves conditions de sécheresse.
+
+    </string><string name="outdoorstip2">
+        \n\n<b>Garde l\'eau propre</b>
+
+        \n\nLes produits cosmétiques artificiels comme le maquillage, les huiles de bronzage peuvent rendre la source d\'eau locale impure.
+        \n\nRemplaces l\'utilisation d\'un insectifuge chimique par un produit naturel efficace.
+
+    </string><string name="outdoorstip3">
+        \n\n<b>Arrête d\'acheter des sacs en plastique</b>
+
+        \n\nRemplaces tes sacs en plastique en achetant des sacs en tissu à la place.
+</string><string name="outdoorstip4">
+        \n\n<b>Ne laisse pas de déchets dehors</b>
+        \n\nCertains types de déchets ont un temps de décomposition incroyablement long.
+        \n\nSurtout, ne jettes pas les piles qui peuvent avoir un très mauvais effet sur la nature et doivent être recyclées.
+        \n\nLes oiseaux peuvent rester coincés dans un chewing-gum au sol dans la rue, et par conséquent ils se peuvent faire heurter par des voitures.
+        Une autre conséquence bien connue de détritus (dans les océans) est que les phoques se retrouvent piégés dans des déchets plastiques et meurent très souvent à cause de cela.
+
+
+    </string><string name="outdoorstip5">
+        \n\n<b>Ne fume pas dans les lieux publics</b>
+        \n\nFumer affecte à la fois l\'environnement et la santé des personnes de manière négative.
+        \n\nDes études ont montré que la production de tabac entraîne des pertes de forêt, ce qui entraîne une
+        augmentation de la quantité de dioxyde de carbone dans l\'atmosphère.
+
+    </string><string name="outdoorstip6">
+        \n\n<b>N\'utilises pas de la laque</b>
+        \n\nLa laque et autres produits parfumés ont des conséquences néfastes sur l\'environnement. Les parfums ne sont pas décomposés mais beaucoup continuent dans les cours d\'eau,
+        ce qui alourdit le travail des usines de traitement.
+
+    </string><string name="outdoorstip7">
+        \n\n<b>Changes ton entrainement </b>
+        \n\nEntraînes-toi à l\'extérieur plutôt que dans une salle de sport; les options sont infinies et cela te fera économiser de l\'argent sur les machines et les abonnements.
+    </string><string name="reminders">Rappels</string><string name="name_reminder">Donne un nom à ton rappel</string><string name="button_schedule_set">OK</string><string name="button_schedule_cancel">Annuler</string><string name="contact_form">Contactez nous</string><string name="contact_form_name">Votre nom</string><string name="contact_form_email">Votre mail</string><string name="contact_form_subject">Sujet</string><string name="contact_form_message">Message</string><string name="contact_form_button">Envoyer un message</string><string name="contact_form_post_message">Merci de nous avoir contacté, veuillez patienter...</string><string name="contact_posted">Votre message a été envoyé. Nous vous contacterons en cas de plus de questions.</string><string name="enter_your_e_mail_here">Entrez votre mail</string><string name="enter_your_name_here">Entrez votre nom</string><string name="enter_your_subject_here">Entrez le sujet</string><string name="enter_your_message_here">Entrez le message</string><string name="switch_view">Changer de vue</string><string name="popup_message">
+        Afin d\'appliquer les changements de langue à l\'ensemble de l\'application, veuillez retourner à l\'écran d\'accueil!
+        \n(bouton d\'accueil en bas de page)
+    </string></file><file path="C:\Users\czare\Chalmers\SP1\DAT257\AgileMarilyn\GreenTipsAlpha1\app\src\main\res\values-pl-rPL\strings.xml" qualifiers="pl-rPL"><string name="chooseLang">Wybierz język</string><string name="continueButton">Dalej</string><string name="chooseCat">Wybierz kategorię</string><string name="aboutButton">O aplikacji</string><string name="category">Kategoria</string><string name="aboutapp">
         <b>Witamy w GreenTips</b>\n
         \nAplikacja została stworzona przez 6 studentów Chalmers Tekniska Hogskola w Goteborgu, Szwecja.\n
         \nZa pomocą wskazówek i pomysłów które tutaj odkryjesz, pomożemy Ci zmniejszyć Twój wpływ na środowisko naturalne oraz
@@ -6253,7 +6436,7 @@
         \n\n<b>Zmień swoje treningi</b>
         \n\nTrenuj na świeżym powietrzu zamiast na siłowni; istnieje nieskończona liczba możliwości, które pozwolą Ci zaoszczędzić pieniądze na maszynach
         oraz kartach członkowskich.
-    </string><string name="reminders">Przypomnienia</string><string name="button_schedule_set">OK</string><string name="button_schedule_cancel">Anuluj</string><string name="contact_form">Skontaktuj się z nami</string><string name="contact_form_name">Imię i nazwisko</string><string name="contact_form_email">Twój email</string><string name="contact_form_message">Wiadomość</string><string name="contact_form_button">Wyślij wiadomość</string><string name="contact_form_post_message">Dziękujemy za skontaktowanie się z nami, proszę czekać</string><string name="contact_posted">Twoja wiadomość została wysłana. Skontaktujemy się z Tobą jeśli będziemy mieć pytania.</string><string name="enter_your_e_mail_here">Wprowadź swój email</string><string name="enter_your_name_here">Wprowadź swoje imię i nazwisko</string><string name="contact_form_subject">Tytuł wiadomości</string><string name="enter_your_subject_here">Wprowadź tytuł wiadomości</string><string name="enter_your_message_here">Wprowadź swoją wiadomość</string><string name="switch_view">Zmień widok</string><string name="popup_message">
+    </string><string name="reminders">Przypomnienia</string><string name="button_schedule_set">OK</string><string name="button_schedule_cancel">Anuluj</string><string name="contact_form">Skontaktuj się z nami</string><string name="contact_form_name">Imię i nazwisko</string><string name="contact_form_email">Twój email</string><string name="contact_form_message">Wiadomość</string><string name="contact_form_button">Wyślij wiadomość</string><string name="contact_form_post_message">Dziękujemy za skontaktowanie się z nami, proszę czekać...</string><string name="contact_posted">Twoja wiadomość została wysłana. Skontaktujemy się z Tobą jeśli będziemy mieć pytania.</string><string name="enter_your_e_mail_here">Wprowadź swój email</string><string name="enter_your_name_here">Wprowadź swoje imię i nazwisko</string><string name="contact_form_subject">Tytuł wiadomości</string><string name="enter_your_subject_here">Wprowadź tytuł wiadomości</string><string name="enter_your_message_here">Wprowadź swoją wiadomość</string><string name="switch_view">Zmień widok</string><string name="popup_message">
         Aby zastosować zmiany języka w całej aplikacji, wróć do ekranu głównego!
         \n(przycisk strony głównej na dole strony)
     </string><string name="name_reminder">Nazwij swoje przypomnienie</string></file><file path="C:\Users\czare\Chalmers\SP1\DAT257\AgileMarilyn\GreenTipsAlpha1\app\src\main\res\values-sq\strings.xml" qualifiers="sq"><string name="chooseLang">Zgjidhni një gjuhë</string><string name="continueButton">Vazhdoni</string><string name="aboutButton">Informacion</string><string name="chooseCat">Vazhdoni</string><string name="category">Zgjidhni një kategori</string><string name="aboutapp">Zhvilluar nga:</string><string name="transport">Transport</string><string name="outdoors">Përjashta</string><string name="worklife">Në punë</string><string name="household">Shtëpiake</string><string name="sociallife">Jete sociale</string><string name="chooseTip">Zgjidhni një këshillë.</string><string name="shorttransporttip1">Ecni për udhëtime të shkurtra</string><string name="shorttransporttip2">Përdorni biçikletën</string><string name="shorttransporttip3">Përdorni transportin publik</string><string name="shorttransporttip4">Planifikoni para udhëtimeve</string><string name="shorttransporttip5">Vozitje e gjelbër</string><string name="shorttransporttip6">Përdorni një makinë</string><string name="shorttransporttip7">Kurseni paratë tuaja</string><string name="transporttip1">Ecni për udhëtime të shkurtra.
