@@ -3,7 +3,7 @@
     <string name="chooseLang">Choisis une langue</string>
     <string name="continueButton">Continuer</string>
     <string name="aboutButton">Information</string>
-    <string name="chooseCat">Choisis une catégorie</string>
+    <string name="chooseCat">Choisir une catégorie</string>
     <string name="category">Catégorie</string>
     <string name="transport">Transport</string>
     <string name="outdoors">Plein air</string>
@@ -229,11 +229,11 @@
 
     <string name="shortoutdoorstip1">Fais attention à ce que tu brûles</string>
     <string name="shortoutdoorstip2">Garde l\'eau propre</string>
-    <string name="shortoutdoorstip3">Arrête d\'acheter des sacs en plastique</string>
+    <string name="shortoutdoorstip3">Éclairage extérieur écologique</string>
     <string name="shortoutdoorstip4">Ne laisse pas de déchets dehors</string>
     <string name="shortoutdoorstip5">Ne fume pas dans les lieux publics</string>
     <string name="shortoutdoorstip6">N\'utilises pas de la laque</string>
-    <string name="shortoutdoorstip7">Changes ton entrainement</string>
+    <string name="shortoutdoorstip7">Grillades plus vertes</string>
 
     <string name="outdoorstip1">
         \n\n<b>Fais attention à ce que tu brûles</b>
@@ -251,9 +251,10 @@
 
     </string>
     <string name="outdoorstip3">
-        \n\n<b>Arrête d\'acheter des sacs en plastique</b>
-
-        \n\nRemplaces tes sacs en plastique en achetant des sacs en tissu à la place.
+        \n\n<b>Éclairage extérieur écologique</b>
+        \n\nL\'éclairage extérieur est en fait l\'une des étapes les plus faciles à franchir lorsqu\'il s'agit de créer un espace de vie vert,
+        parce que les lampes d\'extérieur à énergie solaire sont largement disponibles et peuvent être achetées dans presque tous les centres de jardinage ou magasins à domicile.
+        \n\nAssurez-vous d\'acheter des options entièrement naturelles à base de cire de soja ou de cire d\'abeille et parfumées aux huiles essentielles.
 </string>
     <string name="outdoorstip4">
         \n\n<b>Ne laisse pas de déchets dehors</b>
@@ -278,8 +279,10 @@
 
     </string>
     <string name="outdoorstip7">
-        \n\n<b>Changes ton entrainement </b>
-        \n\nEntraînes-toi à l\'extérieur plutôt que dans une salle de sport; les options sont infinies et cela te fera économiser de l\'argent sur les machines et les abonnements.
+        \n\n<b>Grillades plus vertes </b>
+        \n\nLes grillades font partie intégrante de la vie en plein air, tu veux donc probablement t\'assurer de choisir un gril aussi sûr que possible pour les membres de votre famille et vos amis.
+        \n\nQuelques exemples des meilleures options de grillades vertes disponibles: gril à charbon, gril à maïs et gaz naturel.
+
     </string>
     <string name="reminders">Rappels</string>
     <string name="name_reminder">Donne un nom à ton rappel</string>
