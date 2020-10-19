@@ -1,13 +1,13 @@
 <resources>
 
-    <string name="app_name">GreenTips</string>
+    <string name="app_name" translatable="false">GreenTips</string>
     <string name="chooseLang">Choose a language</string>
-    <string name="espanol">Español</string>
-    <string name="svenska">Svenska</string>
-    <string name="polsku">Polski</string>
-    <string name="shqip">Shqip</string>
-    <string name="english">English</string>
-    <string name="francais">Français</string>
+    <string name="espanol" translatable="false">Español</string>
+    <string name="svenska" translatable="false">Svenska</string>
+    <string name="polsku" translatable="false">Polski</string>
+    <string name="shqip" translatable="false">Shqip</string>
+    <string name="english" translatable="false">English</string>
+    <string name="francais" translatable="false">Français</string>
     <string name="continueButton">Continue</string>
     <string name="aboutButton">About</string>
     <string name="chooseCat">Choose a category</string>
@@ -47,7 +47,8 @@
     <string name="shorttransporttip7" translatable="false">Save your money</string>
 
 
-    <string name="transporttip1">Walk for short trips.
+    <string name="transporttip1">
+        \n\nWalk for short trips
         \n\nWalking helps reduce body fat, lower blood pressure and is free.
         It may also take less time than you think.
 
@@ -62,28 +63,28 @@
         \n\nDid you know? Peak hour city trips up to 10km in length are generally faster by bike than any other form of transport,
         door to door.
         \n\nIn addition cycling helps reducing body fat, which is a first step to become healthier and stronger!</string>
-    <string name="transporttip3" translatable="false">
-        Use public transport
+    <string name="transporttip3">
+        \n\nUse public transport
         \n\nUsing public transport allows you to skip the hassle of traffic and parking and still be on time!</string>
-    <string name="transporttip4" translatable="false">
-        Plan before taking trips
+    <string name="transporttip4">
+        \n\nPlan before taking trips
         \n\nCollect your errands in one trip to save fuel, money and time!
         \n\nIt will allow you to become more productive during the rest of the day.</string>
     <string name="transporttip5" translatable="false">
-        Switch to Green driving
+        \n\nSwitch to Green driving
         \n\nDrive smoothly, starting and stopping uses more fuel.
         \n\nSlow down, driving at 90 km/h uses 25% less fuel than travelling at 110 km/h.
         \n\nRegularly check your tyre pressure. Under-inflated tyres can increase fuel consumption by 3%
         and take 10,000km off the tyres life.
         \n\nInstead of using the air conditioner open the window when driving under 70km/h.</string>
     <string name="transporttip6" translatable="false">
-        Take one car
-        \n\nInstead of taking several cars to make the same trip with your friends, take a single car.
+        \n\nTake one car
+        \n\nInstead of taking several cars to make the same trip with your friends, take a single car whenever it is possible.
         \n\nYou will enjoy your trip
         even more and it allows you to switch seats with the driver to make your travel safer and more comfortable.
         \n\nYou can always opt for car-pooling if travelling alone to break the monotony of your daily commute.</string>
     <string name="transporttip7" translatable="false">
-        Save your money
+        \n\nSave your money
         \n\nHaving a car costs a lot nowadays, the fuel is pretty expensive and the congestion tax in Sweden becomes
         more expensive every year so think twice before buying your own car!</string>
 
@@ -97,17 +98,20 @@
     <string name="shorthouseholdtip7" translatable="false">Recycle everything</string>
 
 
-    <string name="householdtip1" translatable="false">
+       <string name="householdtip1" translatable="false">
         \n\nStop using disposable bags
 
-	    \n\nGet some reusable bags—my Or, make your own—they’re insanely easy.
+	    \n\nGet some reusable bags or make your own — they’re insanely easy to make.
 
 
 
     </string>
     <string name="householdtip2" translatable="false">
         \n\nUse cold water when washing your clothes
-	    \n\nHot water will actually set stains, and cold water will get your clothes just as clean.
+        \n\nAn estimated 75 to 90 percent of all the energy your washer uses goes to warming up the water,
+        so switching to colder water can lower your gas or electric bill.
+	    \n\nIn addition hot water will actually set stains, and cold water will get your clothes just as clean.
+
 
 
     </string>
@@ -122,7 +126,12 @@
 	    \n\nHomes that aren\'t well insulated are much harder to keep warm when it\'s cold, and cool when the weather is hot.
     </string>
     <string name="householdtip5" translatable="false">
-        Turn off lights when you leave the room.</string>
+        \n\nTurn off lights when you leave the room
+        \n\nThis is surely one of the most know tips you can hear from anyone.
+        Turning the lights off when you\'re not using them can help save money by reducing your electricity bills and extend the
+        life of your light bulbs.
+        \n\nDoing so can make your home more energy-efficient.
+    </string>
     <string name="householdtip6" translatable="false">
         \n\nEat less meat
 	    \n\nNot having red meat, even if it’s just for two or three days a week - can have quite a significant impact on reducing your carbon footprint.
@@ -157,31 +166,31 @@
         \n\nGreen cleansing
 
         \n\nMany cleansing products are environmentally unfriendly and are dangerous for the environment as well as human health.
-        \n\nPrioritize buying eco friendly hand soap and sprays that don\'t have harmful and other bad chemicals
+        \n\nPrioritize buying eco friendly hand soap and sprays that don\'t have harmful and other bad chemicals.
 </string>
     <string name="worklifetip4" translatable="false">
         \n\nNo more water bottles
 
-        \n\nyou can easily drink water from your own glass, or if you purchase a reusable water bottle
+        \n\nYou can easily drink water from your own glass, or if you decide to purchase a reusable water bottle.
 </string>
     <string name="worklifetip5" translatable="false">
         \n\nPlan you work day
 
-        \n\nPrepare your meals and snacks day before you work, so you skip drive to buy food or
+        \n\nPrepare your meals and snacks the day before you work, so you don\'t need to drive to buy food or
         other stuff.
 </string>
     <string name="worklifetip6" translatable="false">
         \n\nUse public transport
 
-        \n\nThe best to reduce emissions is  to use public transport, if it\'s not possible to use it so
+        \n\nThe best solution to reduce emissions is to use public transport, and if it\'s not possible then
         take your bike and cycle to work.
 </string>
     <string name="worklifetip7" translatable="false">
         \n\nHave green decoration
 
-        Upgrade your office by decorating it with plants. \n\nThe plants gives you Oxygen and remove the
-        carbon dioxide and that helps you to get healthier air in you office and add beautiful
-        design.
+        \n\nUpgrade your office by decorating it with plants.
+        \n\nThe plants gives you oxygen and remove the carbon dioxide. That helps you to get healthier air
+        in your office and add a beautiful design.
 </string>
     <string name="shortsocialtip1" translatable="false">Buy Eco friendly clothes</string>
     <string name="shortsocialtip2" translatable="false">Be more vegan outside</string>
@@ -200,7 +209,7 @@
     <string name="socialtip2" translatable="false">
         \n\nBe more vegan outside
 
-        \n\nBe vegan when you eat in restaurants,
+        \n\nBe vegan whenever you can. When you eat in restaurants,
         don\'t waste food, try to eat less meat, and eat ecologist food.
 
     </string>
@@ -220,18 +229,21 @@
     <string name="socialtip5" translatable="false">
         \n\nSave water
 
-        \n\nTry to save as much water as possible in your daily routine. \n\nAnd try to drink crane water instead of bottle,
-        and if you don\'t have access to clean crane water try to buy a filter which can save a lot of money.
+        \n\nTry to save as much water as possible in your daily routine.
+        \n\nDrink crane water instead of bottled one,
+        and if you don\'t have access to clean crane water try to buy a filter which will make it clean.
+        It will also save you a lot of money.
 
     </string>
     <string name="socialtip6" translatable="false">
         \n\nsay no to plastic straw
 
-        \n\nDrink with paper straw instead of plastic. Or you can avoid drinking with straw at all.
+        \n\nDrink with paper straw instead of plastic. You can also avoid drinking with a straw at all.
+        \nWhy would you even need one?
 
     </string>
     <string name="socialtip7" translatable="false">
-        \n\nuse containers
+        \n\nUse containers
 
         \n\nThrow your old clothes in containers so they reuse them instead of burning them.
 
@@ -242,51 +254,59 @@
     <string name="shortoutdoorstip4" translatable="false">Do not throw rubbish on the ground</string>
     <string name="shortoutdoorstip5" translatable="false">Do not smoke in public places</string>
     <string name="shortoutdoorstip6" translatable="false">Stop using hair spray</string>
-    <string name="shortoutdoorstip7" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="shortoutdoorstip7" translatable="false">Change your workout</string>
+
     <string name="outdoorstip1" translatable="false">
         \n\nBe careful what you burn
 
-        \n\nAvoid burning aluminum cans and other stuff that can release pollutants into the air. \n\nYou should also be careful when you
-        put out fires, make sure that you are allowed to do that and there aren\'t any local fire bans due to serious drought conditions.
+        \n\nAvoid burning aluminum cans and other stuff that can release pollutants into the air.
+        \n\nYou should also be careful when you put out fires, make sure that you are allowed to do
+        that and there aren\'t any local fire bans due to serious drought conditions.
 
     </string>
     <string name="outdoorstip2" translatable="false">
-        Keep water clean
+        \n\nKeep water clean
 
-        \n\nartificial things like makeup, suntan oils can make the local water source unclean. \n\nReplace using chemical insect repellent
-        with an effective natural product.
+        \n\nArtificial things like makeup, suntan oils can make the local water source unclean.
+        \n\nReplace using chemical insect repellent with an effective natural product.
 
     </string>
     <string name="outdoorstip3" translatable="false">
         \n\nStop buying plastic bags
 
-        \n\nreplace your plastic bags by buying clothes bags instead
+        \n\nReplace your plastic bags by buying clothes bags instead.
 </string>
     <string name="outdoorstip4" translatable="false">
         \n\nDo not throw rubbish on the ground
+        \n\nSome kinds of rubbish have an impressively long decomposition time.
+        \n\nEspecially do not throw batteries which can have a very bad effect on nature, and should be recycled.
+        \n\nBirds can get stuck on chewing gum on the ground on the street, and that can lead to them getting hit by cars.
+        Another well known consequence of throwing rubbish (in the oceans) are seals getting trapped in plastic rubbish and very often dying because of it.
 
-        Birds can get stuck on chewing gum on the ground on the street, and that can lead to them getting hit by cars.
-        \n\nEspecially batteries which can have a very bad effect on nature, and it should sort.
 
     </string>
     <string name="outdoorstip5" translatable="false">
         \n\nDo not smoke in public places
-        \n\nSmoking affects both the environment and people in a negative way. \n\nstudies have shown
-        that tobacco production causes forest losses, and this causes the amount of carbon dioxide to increase in
+        \n\nSmoking affects both the environment and people\'s health in a negative way.
+        \n\nStudies have shown that tobacco production causes forest losses, and this causes the amount of carbon dioxide to increase in
         the atmosphere
 
     </string>
     <string name="outdoorstip6" translatable="false">
         \n\nStop using hair spray
-        hair spray and other perfumed products have negative consequences for the environment, then
-        perfumes are not broken down but many continue into the waterways. \n\nWhich
+        \n\nHair spray and other perfumed products have negative consequences for the environment.
+        The perfumes are not broken down but many continue into the waterways, which
         makes an unnecessary burden on the treatment plants.
 
     </string>
-    <string name="outdoorstip7" translatable="false">Here we give information about the first tip, on click open this slide</string>
+    <string name="outdoorstip7" translatable="false">
+        \n\nChange your workout
+        \n\nWork out outside instead of at a gym; there are endless options and it will save you money on machinery
+        and memberships.
+    </string>
 
 
-    <string name="string_green_tips">Green Tips</string>
+    <string name="string_green_tips" translatable="false">Green Tips</string>
     <string name="image_for_tips" translatable="false">image for tips</string>
     <string name="reminders">Reminders</string>
     <string name="image_for_reminders" translatable="false">image_for_reminders</string>
@@ -320,7 +340,6 @@
         In order to apply the language changes to the whole app, please return to the home screen!\n
         (home button in bottom of the page)
     </string>
-    <string name="switch_view">Switch view</string>
 
 
 </resources>
