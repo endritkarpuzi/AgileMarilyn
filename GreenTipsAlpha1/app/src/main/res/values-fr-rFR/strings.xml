@@ -73,13 +73,13 @@
         augmente chaque année, alors pense y deux fois avant d\'acheter ta propre voiture!</string>
 
 
-    <string name="shorthouseholdtip1" translatable="false">Stop aux sacs jetables</string>
-    <string name="shorthouseholdtip2" translatable="false">Lave les vêtements à l\'eau froide</string>
-    <string name="shorthouseholdtip3" translatable="false">Fais tes propres produits de nettoyage</string>
-    <string name="shorthouseholdtip4" translatable="false">Isole ta maison</string>
-    <string name="shorthouseholdtip5" translatable="false">Éteinds la lumière</string>
-    <string name="shorthouseholdtip6" translatable="false">Mange moins de viande</string>
-    <string name="shorthouseholdtip7" translatable="false">Recycles tout</string>
+    <string name="shorthouseholdtip1" >Stop aux sacs jetables</string>
+    <string name="shorthouseholdtip2" >Lave les vêtements à l\'eau froide</string>
+    <string name="shorthouseholdtip3">Fais tes propres produits de nettoyage</string>
+    <string name="shorthouseholdtip4">Isole ta maison</string>
+    <string name="shorthouseholdtip5">Éteinds la lumière</string>
+    <string name="shorthouseholdtip6">Mange moins de viande</string>
+    <string name="shorthouseholdtip7">Recycles tout</string>
 
     <string name="householdtip1">
     \n\n<b>Stop aux sacs jetables</b>
@@ -119,13 +119,13 @@
     </string>
 
 
-    <string name="shortworklifetip1" translatable="false">Recycle</string>
-    <string name="shortworklifetip2" translatable="false">Approche sans papier</string>
-    <string name="shortworklifetip3" translatable="false">Nettoyage vert</string>
-    <string name="shortworklifetip4" translatable="false">L\'eau en bouteilles c\'est fini</string>
-    <string name="shortworklifetip5" translatable="false">Planifie ta journée de travail</string>
-    <string name="shortworklifetip6" translatable="false">Utilise les transport publics</string>
-    <string name="shortworklifetip7" translatable="false">Décorations vertes</string>
+    <string name="shortworklifetip1">Recycle</string>
+    <string name="shortworklifetip2">Approche sans papier</string>
+    <string name="shortworklifetip3">Nettoyage vert</string>
+    <string name="shortworklifetip4">L\'eau en bouteilles c\'est fini</string>
+    <string name="shortworklifetip5">Planifie ta journée de travail</string>
+    <string name="shortworklifetip6">Utilise les transport publics</string>
+    <string name="shortworklifetip7">Décorations vertes</string>
 
     <string name="worklifetip1">
         \n\n<b>Recycle</b>
@@ -170,13 +170,13 @@
     </string>
 
 
-    <string name="shortsocialtip1" translatable="false">Achètes des vêtements éco</string>
-    <string name="shortsocialtip2" translatable="false">Sois plus vegan</string>
-    <string name="shortsocialtip3" translatable="false">Achètes vintage</string>
-    <string name="shortsocialtip4" translatable="false">Mange localement</string>
-    <string name="shortsocialtip5" translatable="false">Économise l\'eau</string>
-    <string name="shortsocialtip6" translatable="false">Dis non aux pailles en plastique</string>
-    <string name="shortsocialtip7" translatable="false">Utilise des conteneurs</string>
+    <string name="shortsocialtip1">Achètes des vêtements éco</string>
+    <string name="shortsocialtip2">Sois plus vegan</string>
+    <string name="shortsocialtip3">Achètes vintage</string>
+    <string name="shortsocialtip4">Mange localement</string>
+    <string name="shortsocialtip5">Économise l\'eau</string>
+    <string name="shortsocialtip6">Dis non aux pailles en plastique</string>
+    <string name="shortsocialtip7">Utilise des conteneurs</string>
 
     <string name="socialtip1">
         \n\n<b>Achètes des vêtements éco</b>
@@ -227,13 +227,13 @@
     </string>
 
 
-    <string name="shortoutdoorstip1" translatable="false">Fais attention à ce que tu brûles</string>
-    <string name="shortoutdoorstip2" translatable="false">Garde l\'eau propre</string>
-    <string name="shortoutdoorstip3" translatable="false">Arrête d\'acheter des sacs en plastique</string>
-    <string name="shortoutdoorstip4" translatable="false">Ne laisse pas de déchets dehors</string>
-    <string name="shortoutdoorstip5" translatable="false">Ne fume pas dans les lieux publics</string>
-    <string name="shortoutdoorstip6" translatable="false">N\'utilises pas de la laque</string>
-    <string name="shortoutdoorstip7" translatable="false">Changes ton entrainement</string>
+    <string name="shortoutdoorstip1">Fais attention à ce que tu brûles</string>
+    <string name="shortoutdoorstip2">Garde l\'eau propre</string>
+    <string name="shortoutdoorstip3">Arrête d\'acheter des sacs en plastique</string>
+    <string name="shortoutdoorstip4">Ne laisse pas de déchets dehors</string>
+    <string name="shortoutdoorstip5">Ne fume pas dans les lieux publics</string>
+    <string name="shortoutdoorstip6">N\'utilises pas de la laque</string>
+    <string name="shortoutdoorstip7">Changes ton entrainement</string>
 
     <string name="outdoorstip1">
         \n\n<b>Fais attention à ce que tu brûles</b>

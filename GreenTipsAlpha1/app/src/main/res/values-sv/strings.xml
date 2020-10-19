@@ -6,13 +6,13 @@
     <string name="continueButton">Fortsätt</string>
     <string name="category">Kategori</string>
     <string name="reminders">Påminnelse</string>
-    <string name="transport" translatable="false">Transport</string>
+    <string name="transport">Transport</string>
     <string name="outdoors">Friluftsliv</string>
     <string name="worklife">Arbetsliv</string>
     <string name="household">Hushåll</string>
     <string name="sociallife">Socialt liv</string>
-    <string name="chooseTip" translatable="false">Välj ett tips</string>
-    <string name="shorttransporttip1" translatable="false">Gå för korta resor </string>
+    <string name="chooseTip">Välj ett tips</string>
+    <string name="shorttransporttip1" >Gå för korta resor </string>
     <string name="transporttip1">Gå för korta resor.
         \n\nAtt promenera hjälper till att både minska kroppsfett, minska blodtryck och är också gratis.
         Det tar också mindre tid än vad man tror.
@@ -72,7 +72,7 @@
     <string name="outdoorstip6">"Sluta med hårspray hårspray och andra parfymerade produkter har negativa konsekvenser för miljön, då  parfymämnen inte bryts ned  utan många fortsätter ut i vattendragen. Vilket  gör en onödig belastning för reningsverken. "</string>
     <string name="outdoorstip7">Grillning är en integrerad del av friluftsliv, så du vill nog se till att du väljer en grill som är så säker som möjligt för dina familjemedlemmar och vänner. Några exempel på de bästa tillgängliga gröna grill alternativen: kolgrill, majsgrill och naturgas</string>
     <string name="shorttransporttip3">Använd kollektivtrafik</string>
-    <string name="shorttransporttip4" translatable="false">Planera innan du tar resor</string>
+    <string name="shorttransporttip4" >Planera innan du tar resor</string>
     <string name="shorttransporttip5">Byt till grönkörning</string>
     <string name="shorttransporttip6">Ta en bil bara</string>
     <string name="shorttransporttip7">Spara dina pengar</string>

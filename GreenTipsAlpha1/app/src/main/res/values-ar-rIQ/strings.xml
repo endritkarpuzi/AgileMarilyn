@@ -12,13 +12,13 @@
     <string name="aboutButton">عن</string>
     <string name="chooseCat">"اختر فئة "</string>
     <string name="category">الفئة</string>
-    <string name="transport" translatable="false">المواصلات</string>
+    <string name="transport">المواصلات</string>
     <string name="sociallife">"الحياة الاجتماعية  "</string>
     <string name="worklife">الحياة العملية</string>
     <string name="household">البيت</string>
     <string name="sourcestext1">المصادر:</string>
     <string name="outdoors">الخارج</string>
-    <string name="chooseTip" translatable="false">اختر نصيحة</string>
+    <string name="chooseTip" >اختر نصيحة</string>
     <string name="transporttip1">" امشي جولة قصيرة إذ كنت تكشي كل يوم فهذا سيساعدك على الحصول على طاقة أكثر. سيساعدك أيضا على أن تكون أكثر تركيزاً عندما تدرس. و المشي يسمح لك بتجني ركوب السيارة. "</string>
     <string name="transporttip2">خذ الدراجة عوضا عن المركبة ركوب الدراجة يساعدك على التقليل من دهون الجسم و يصبح جسمك بصحة أكثر. عند ركوب الدراجة لمسافة أكثر من ١٠ كيلومترا يمكنك حرق حوالي ٣٠٠ سعرة حرارية</string>
     <string name="transporttip3">" استخدم وسائل النقل العام استخدام وسائل النقل العام يسمح لك بتخطي الازدحام المروري و مواقف السيارات وكذلك التواجد في الوقت المحدد. "</string>

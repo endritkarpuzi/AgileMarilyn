@@ -304,6 +304,7 @@
         Aby zastosować zmiany języka w całej aplikacji, wróć do ekranu głównego!
         \n(przycisk strony głównej na dole strony)
     </string>
+    <string name="name_reminder">Nazwij swoje pryzpomnienie</string>
 
 
 </resources>
