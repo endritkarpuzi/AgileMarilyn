@@ -21,6 +21,7 @@
     <string name="name_reminder">Välj ett namn</string>
     <string name="button_schedule_set">OK</string>
     <string name="button_schedule_cancel">Avbryt</string>
+    <string name="arabic" translatable="false">العربية</string>
     <string name="contact_form">Kontakta oss</string>
     <string name="contact_form_name">Ditt namn</string>
     <string name="contact_form_email">Din e-mail</string>
