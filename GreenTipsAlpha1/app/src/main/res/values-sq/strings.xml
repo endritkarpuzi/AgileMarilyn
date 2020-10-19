@@ -6,7 +6,14 @@
     <string name="aboutButton">Informacion</string>
     <string name="chooseCat">Vazhdoni</string>
     <string name="category">Zgjidhni një kategori</string>
-    <string name="aboutapp">Zhvilluar nga:</string>
+    <string name="aboutapp">
+        <b> Mirësevini në GreenTips! </b>\n
+        \nKy aplikacion është zhvilluar nga 6 studentë në Chalmers Tekniska Högskola në Gothenburg, Suedi.\n
+        \nMe këshillat dhe idetë që ju japim këtu, ne do t'ju ndihmojmë të zvogëloni ndikimin tuaj në mjedis dhe të jetoni një jetë më të shëndetshme!\n
+        \nThjesht zgjidhni kategorinë që ju intereson dhe ne do të ofrojmë shumë mënyra të thjeshta për një jetë më të gjelbër.
+        \nMerr njoftime për përkujtesat duke zgjedhur të kesh një këshillë në fokus!
+
+    </string>
     <string name="transport">Transport</string>
     <string name="outdoors">Përjashta</string>
     <string name="worklife">Në punë</string>
@@ -183,7 +190,7 @@
     <string name="shortoutdoorstip4">Mos hidhni mbeturina në tokë</string>
     <string name="shortoutdoorstip5">Mos pini duhan në vende publike</string>
     <string name="shortoutdoorstip6">Mos përdorni llakut të flokëve</string>
-    <string name="shortoutdoorstip7">Tip 7</string>
+    <string name="shortoutdoorstip7">Ndryshoni ushtrimin tuaj.</string>
     <string name="outdoorstip1">
         \n\nKini kujdes se çfarë qe digjeni
         \n\nMos digjeni kanaçeve të aluminit dhe sendeve të tjera që mund të lëshojnë ndotës në ajër.
@@ -213,9 +220,10 @@
     <string name="outdoorstip6">
         \n\nMos përdorni llakut të flokëve
         \n\nLlak flokësh dhe produkte të tjerë të parfumuar kanë pasoja negative për mjedisin. Parfumet nuk prishen, por vazhdojnë në rrugët ujore.
-
     </string>
-    <string name="outdoorstip7">Tip 7</string>
+    <string name="outdoorstip7">
+        Ndryshoni ushtrimin tuaj. Ushtroni jashtë në vend të fitnesit; ka mundësi të pafundme dhe kjo do t\'ju kursejë para.
+    </string>
     <string name="reminders">Kujtesë</string>
     <string name="name_reminder">Emërtoni kujtesën tuaj</string>
     <string name="button_schedule_set">OK</string>
@@ -233,6 +241,9 @@
     <string name="enter_your_subject_here">Lënda juaj këtu</string>
     <string name="enter_your_message_here">Mesazhi juaj këtu</string>
     <string name="sourcestext1">Burimet</string>
+    <string name="switch_view">Ndërro pamjen</string>
+
+    <string name="popup_message">Për të ndryshuar gjuhën, ju lutemi kthehuni në faqe kryesor! (butoni në fund të kesaj faqes)</string>
 
 
 </resources>
