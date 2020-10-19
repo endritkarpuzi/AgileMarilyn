@@ -31,7 +31,7 @@
     <string name="shorttransporttip5">Promuj \"Zieloną jazdę\"</string>
 
     <string name="transporttip1">
-        \n\nWybieraj spacery
+        \n\n<b>Wybieraj spacery</b>
         \n\nSpacery pomagają zrzucić zbędne kilogramy, zmniejsząją ciśnienie w krwi i są zpełnie darmowe!
         Zajmują też o wiele mniej czasu niż Ci się wydaje.
 
@@ -41,35 +41,35 @@
         na szukanie miejsca do zaparkowania.
     </string>
     <string name="transporttip2" translatable="false">
-        \n\nPostaw na rower
+        \n\n<b>Postaw na rower</b>
         \n\nZmiana z samochodu na rower przy cotygodniowym przejeżdżaniu 10km, poskutkuje spalaniem 300 kalorii przy każdym przejeździe
         i pozwoli zmniejszyć emisję gazu cieplarniangeo o 300kg rocznie.
         \n\nWiedziałeś o tym? Przejazdy do odległości 10km,  w godzinach szczytu pokonuje się szybciej na rowerze niż jakimkolwiek innym
         śrdokiem transportu.
         \n\nNa dodatek jazda na rowerze pomaga schudnąć i rozwijać mięśnie, co jest już pierwszym krokiem do zdrowszego rozwoju!</string>
     <string name="transporttip3">
-        \n\nKorzystaj z komunikacji miejskiej
+        \n\n<b>Korzystaj z komunikacji miejskiej</b>
         \n\nKorzystanie z komunikacji miejskiej pozwala Ci uniknąć nieprzyjemnych korków i trudności z parkowaniem i być na czas na każde
         umówione spotkanie!</string>
     <string name="transporttip4">
-        \n\nZaplanuj przejazdy
+        \n\n<b>Zaplanuj przejazdy</b>
         \n\nOgranicz swoje niezbędne podróże do minimum, żeby ograniczyć zużycie paliwa i wydatki oraz zaoszczędzić więcej czasu.
         \n\nPozwoli Ci to na bycie bardziej produktywnym w ciągu reszty dnia!</string>
     <string name="transporttip5" translatable="false">
-        \n\nPromuj \"Zieloną jazdę\"
+        \n\n<b>Promuj \"Zieloną jazdę\"</b>
         \n\nJeździj płynnie, ruszanie i zatrzymywanie się zużywa więcej paliwa.
         \n\nZwolnij, jeżdżenie 90 km/h zużywa 25% paliwa mniej niż 110 km/h.
         \n\nRegularnie sprawdzaj ciśnienie w oponach. Jeżdżenie z za niskim ciśnieniem w oponach może zwiększyć zużycie paliwa
         o 3% i zmniejszyć żywotność opon o 10\'000km.
         \n\nZamiast włączać klimatyzację, otwórz okno, jeśli jedziesz wolniej niż 70 km/h.</string>
     <string name="transporttip6" translatable="false">
-        \n\nKorzystaj z jednego samochodu
+        \n\n<b>Korzystaj z jednego samochodu</b>
         \n\nZamiast wybierania się w podróż ze znajomymi w kilka samochodów, ograniczcie się do jednego jeśli to tylko możliwe.
         \n\nWasza podróż będzie weselsza i takie rozwiązanie pozwoli na zmianę kierowcy, by Wasza wspólna podróż była beypieczniejsza
         i wygodniejsza dla wszystkich.
         \n\nMożesz zawsze postawić na współdzielenie samochodu z nieznajomymi podróżującymi w to samo miesjce, o ile podróżujesz sam i jesteś otwarty na nowe znajomości.</string>
     <string name="transporttip7" translatable="false">
-        \n\nOszczędzaj
+        \n\n<b>Oszczędzaj</b>
         \n\nPosiadanie samochodu w dzisiejszych czasach jest drogą inwestycją, ceny paliw są wysokie i szwedzki podatek od pojazdów zwiększa się co roku,
         dlatego zastanów się dwa razy zanim zdecydujesz się na kupno własnego samochodu! </string>
 
@@ -83,39 +83,39 @@
     <string name="shorthouseholdtip7" translatable="false">Segreguj śmieci</string>
 
     <string name="householdtip1" translatable="false">
-        \n\nPrzestań korzystać z torebek jednorazowych
+        \n\n<b>Przestań korzystać z torebek jednorazowych</b>
 	    \n\nKupuj torby do wielorazowego użytku albo zrób swoje własne - jest to niezwykle proste.
     </string>
     <string name="householdtip2" translatable="false">
-        \n\nPierz w zimnej wodzie
+        \n\n<b>Pierz w zimnej wodzie</b>
         \n\nOd 75 do 90 procent energii, którą Twoja pralka zużywa służy do podgrzewania wody, więc pranie w zimnej wodzie
         z pewnością zmiejszy Twoje rachunki za prąd.
 	    \n\nPoza tym, gorąca woda utrwala niektóre plamy, z którymi świetnie poradzi sobie pranie w zimnej wodzie.
     </string>
     <string name="householdtip3" translatable="false">
-        \n\nUżywaj swoich własych produktów do czyszczenia
+        \n\n<b>Używaj swoich własych produktów do czyszczenia</b>
         \n\nZastąp wszystkie swoje plastikowe pojemniki na chemikalia swoimi własnymi.
         \n\n*Płyn do szyb: 1/4 szklanka octu, 2 szklanki gorącej wody i olejek z drzewa herbacianego
         \n\n*Płyn antybakteryjny: 1/4 szklanka octu, 1 łyżka stołowa proszku do pieczenia, 1 litr gorącej wody i pomarańczowy olejek eteryczny
     </string>
     <string name="householdtip4" translatable="false">
-        \n\nZadbaj o izolację domu
+        \n\n<b>Zadbaj o izolację domu</b>
 	    \n\nW domach, które nie są odpowiednio zaizolowane, jest o wiele trudniej utrzymać ciepło, gdy na dworze jest zimno. Natomiast latem
         ciężko jest zabać o odpowiedni chłód w środku.
     </string>
     <string name="householdtip5" translatable="false">
-        \n\nGaś światła
+        \n\n<b>Gaś światła</b>
         \n\nTo z pewnością jedna z najpopularniejszych wskazówek, którą już słyszałeś nie raz.
         Gaszenie świateł, kiedy nie są one potrzebne pozwoli Ci zaoszczędzić na rachunkach za elektryczność i
         przedłużyć żywotność żarówek.
         \n\nTo natomiast sprawi że Twój dom stanie się bardziej energooszczędny.
     </string>
     <string name="householdtip6" translatable="false">
-        \n\nJedz mniej mięsa
+        \n\n<b>Jedz mniej mięsa</b>
 	    \n\nNiejedzenie mięsa, nawet jedynie przez 2/3 dni w tygodniu, może mieć duży wpływ na zmniejszenie Twojego śladu węglowego.
 </string>
     <string name="householdtip7" translatable="false">
-        \n\nSegreguj śmieci
+        \n\n<b>Segreguj śmieci</b>
 	    \n\nMożesz segregować dosłownie wsyzstko, od baterii po papier czy samochód. Zanim coś wyrzucisz do kosza zastanów się czy możesz to posegregować.
 </string>
 
@@ -128,41 +128,41 @@
     <string name="shortworklifetip3" translatable="false">Naturalne produkty oczyszczające</string>
 
     <string name="worklifetip1" translatable="false">
-        \n\nSegreguj!
+        \n\n<b>Segreguj</b>
 
         \n\nW wielu miejscach pracy nie dba się o poprawne segregowanie śmieci. Możesz segregować m.in. plasitk, papier
         i odpadki żywnościowe.
 </string>
     <string name="worklifetip2" translatable="false">
-        \n\nPrzejdź na system cyfrowy
+        \n\n<b>Przejdź na system cyfrowy</b>
 
         \n\nPrzejdź na dokumenty cyfrowe zamiast papieru i zastanów się nad zakupem papieru z recyklingu za 100 €.
 </string>
     <string name="worklifetip3" translatable="false">
-        \n\nNaturalne produkty oczyszczające
+        \n\n<b>Naturalne produkty oczyszczające</b>
 
         \n\nWiele produktów oczyszczających jest nieprzyjaznych dla środowiska, a nawet niebezpieczne również dla naszego zdrowia.
         \n\nPreferuj kupowanie ekologicznych mydeł i sprayów, które nie zawierają żadnych szkodliwych środków.
 </string>
     <string name="worklifetip4" translatable="false">
-        \n\nKoniec z wodą butelkowaną
+        \n\n<b>Koniec z wodą butelkowaną</b>
 
         \n\nPij wodę z własnej szklanki lub jeśli wolisz kup butelkę na wodę do wielorazowego użytku.
 </string>
     <string name="worklifetip5" translatable="false">
-        \n\nZaplanuj swój dzień roboczy
+        \n\n<b>Zaplanuj swój dzień roboczy</b>
 
         \n\nPrzygotuj swoje posiłki na dzień wcześniej, żeby nie musieć jeździć z pracy żeby kupić jedzenie
         lub inne potrzebne rzeczy.
 </string>
     <string name="worklifetip6" translatable="false">
-        \n\nKorzystaj z komunikacji miejskiej
+        \n\n<b>Korzystaj z komunikacji miejskiej</b>
 
         \n\nNajlepszym rozwiązaniem na zredukowanie własnej emisji smogu jest skorystanie z komunikacji miejskiej,
         a jeżeli to nie jest możliwe - wybierz rower.
 </string>
     <string name="worklifetip7" translatable="false">
-        \n\nZielone dekoracje
+        \n\n<b>Zielone dekoracje</b>
 
         \n\nUdekoruj swoje biuro w zieleń.
         \n\nKwiaty i inne rośliny wytwarzają tlen i eliminują dwutlenek węgla. To pozwoli Ci na cieszenie się zdrowszym powietrzem
@@ -179,33 +179,31 @@
 
 
     <string name="socialtip1" translatable="false">
-        \n\nKupuj ekologiczne ubrania
+        \n\n<b>Kupuj ekologiczne ubrania</b>
 
         \n\nSpytaj się w sklepie przy najbliższych zakupach czy ich ubrania są tworzone z ekologicznych materiałów.
 
     </string>
     <string name="socialtip2" translatable="false">
-        \n\nJedz częściej wege
+        \n\n<b>Jedz częściej wege</b>
 
         \n\nJedz częściej potrawy wegetariańskie w restauracjach, nie marnuj jedzenia i wybieraj ekologiczne potrawy.
 
     </string>
     <string name="socialtip3" translatable="false">
+        \n\n<b>Kupuj vintage</b>
 
-    \n\nKupuj vintage
-
-    \n\nZaglądaj częściej do sklepów z używanymi rzeczami i stawiaj na używaną odzież lub meble zamiast kupować nowe.
-
+        \n\nZaglądaj częściej do sklepów z używanymi rzeczami i stawiaj na używaną odzież lub meble zamiast kupować nowe.
     </string>
     <string name="socialtip4" translatable="false">
-        \n\nJedz lokalne produkty
+        \n\n<b>Jedz lokalne produkty</b>
 
         \n\nJedz szwedzkie produkty.
         Importowana żywność przyczynia się do degradacji środowiska.
 
     </string>
     <string name="socialtip5" translatable="false">
-        \n\nOszczędzaj wodę
+        \n\n<b>Oszczędzaj wodę</b>
 
         \n\nStaraj się oszczędzać wodę w swojej codziennej rutynie.
         \n\nPij wodę z kranu zamiast butelkowanej, a jeżeli nie masz dostępu do czystej wody w kranie, kup filter, który będzie ją oczyszczał.
@@ -213,14 +211,14 @@
 
     </string>
     <string name="socialtip6" translatable="false">
-        \n\nPowiedz nie plastikowym słomkom
+        \n\n<b>Powiedz nie plastikowym słomkom</b>
 
         \n\nKorzystaj z papierowych słomek zamiast plastikowych. Możesz też zupełnie zrezygnować ze słomki.
         \nCzemu miałaby Ci być wogóle potrzebna?
 
     </string>
     <string name="socialtip7" translatable="false">
-        \n\nKorzystaj z kontenerów
+        \n\n<b>Korzystaj z kontenerów</b>
 
         \n\nWyrzucaj swoje stare ciuchy do specjalnych kontenerów, żeby mogłyby byc ponownie wykorzystane zamiast spalone jak zwykłe śmieci.
     </string>
@@ -234,7 +232,7 @@
     <string name="shortoutdoorstip7" translatable="false">Zmień swoje treningi</string>
 
     <string name="outdoorstip1" translatable="false">
-        \n\nUważaj co spalasz
+        \n\n<b>Uważaj co spalasz</b>
 
         \n\nNie pal puszek aluminiowych i innych tworzyw, które mogą uwalniać zanieczyszczenia.
         \n\nUważaj też na to gdzie rozpalasz ognisko, upewnij się czy masz do tego prawo w danym miejscu i czy nie obowiązują
@@ -242,19 +240,19 @@
 
     </string>
     <string name="outdoorstip2" translatable="false">
-        \n\nDbaj o czystość wody
+        \n\n<b>Dbaj o czystość wody</b>
 
         \n\nSztuczne kosmetyki takie jak make-up czy olejki do opalania mogą zanieczyścić lokalne źródło wody.
         \n\nZastąp chemiczny środek odstraszający owady skutecznym produktem naturalnym.
 
     </string>
     <string name="outdoorstip3" translatable="false">
-        \n\nPrzestań kupować plastikowe torebki
+        \n\n<b>Przestań kupować plastikowe torebki</b>
 
         \n\nZastąp plastikowe torby, torbami materiałowymi.
 </string>
     <string name="outdoorstip4" translatable="false">
-        \n\nNie śmieć
+        \n\n<b>Nie śmieć</b>
         \n\nNiektóre rodzaje śmieci mają wyjątkowo długi czas rozkładu.
         \n\nW szczególności nei wyrzucaj baterii, które mogą mieć poważny negatywny wpływ na środowisko, a powinny być wyrzucone do recyklingu.
         \n\nPtaki mogą utknąć na gumie do żucia wyrzuconej na ulicę, co może doprowadzić do potrącenia ich przez samochód.
@@ -262,20 +260,20 @@
 
     </string>
     <string name="outdoorstip5" translatable="false">
-        \n\nNie pal w miesjcach publicznych
+        \n\n<b>Nie pal w miesjcach publicznych</b>
         \n\nPalenie wpływa negatywnie zarówno na środowisko jak i na ludzkie zdrowie.
         \n\nBadania wykazały, że produkcja tytoniu powoduje wymieranie lasów, a to powoduje wzrost ilości dwutlenku węgla
         w atmosferze.
 
     </string>
     <string name="outdoorstip6" translatable="false">
-        \n\nNie używaj lakieru do włosów
+        \n\n<b>Nie używaj lakieru do włosów</b>
         \n\nLakier do włosów i inne perfumowane produkty mają negatywny wpływ na środowisko. Perfumy nie rozkładają się,
         a wiele z nich przedostaje się do dróg wodnych, co stanowi niepotrzebne obciążenie dla oczyszczalń.
 
     </string>
     <string name="outdoorstip7" translatable="false">
-        \n\nChange your workout
+        \n\n<b>Zmień swoje treningi</b>
         \n\nTrenuj na świeżym powietrzu zamiast na siłowni; istnieje nieskończona liczba możliwości, które pozwolą Ci zaoszczędzić pieniądze na maszynach
         oraz kartach członkowskich.
     </string>
@@ -304,6 +302,7 @@
         Aby zastosować zmiany języka w całej aplikacji, wróć do ekranu głównego!
         \n(przycisk strony głównej na dole strony)
     </string>
+    <string name="name_reminder">Nazwij swoje przypomnienie</string>
 
 
 </resources>
