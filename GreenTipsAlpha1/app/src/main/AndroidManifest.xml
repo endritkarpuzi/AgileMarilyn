@@ -9,11 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ScheduleDateActivity"></activity>
-        <activity android:name=".ScheduleTimeActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".DatabaseActivity" />
-        <activity android:name=".transportslide" />
+        <activity android:name=".BaseActivity"></activity>
+        <activity android:name=".links_page" />
+        <activity android:name=".ContactForm" />
+        <activity android:name=".slidecreatortransport" />
+        <activity android:name=".slidecreatoroutdoors" />
+        <activity android:name=".slidecreatorsocial" />
+        <activity android:name=".slidecreatorworklife" />
+        <activity android:name=".slidecreatorhousehold" />
+        <activity android:name=".transportTips"
+            android:launchMode="singleTop"
+            android:parentActivityName=".BaseActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.greentipsalpha1.BaseActivity"/>
+        </activity>
+
         <activity android:name=".socialTips" />
         <activity android:name=".outdoorsTips" />
         <activity android:name=".worklifeTips" />
@@ -29,16 +40,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".transportTips"
-            android:windowSoftInputMode="adjustNothing" />
+
         <activity android:name=".choose_category" />
         <activity android:name=".help" />
         <activity android:name=".about" />
         <activity android:name=".choose_lang" />
         <activity android:name=".welcome" />
 
-        <receiver android:name=".AlarmReceiver"/>
+        <receiver android:name=".AlarmReceiver" />
     </application>
 
 </manifest>

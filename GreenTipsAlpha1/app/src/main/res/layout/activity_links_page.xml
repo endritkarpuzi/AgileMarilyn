@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".links_page">
+
+    <include layout="@layout/base_activity" />
+
+    <TextView
+        android:id="@+id/sourcestext"
+        android:layout_width="wrap_content"
+        android:layout_height="59dp"
+        android:layout_marginTop="152dp"
+        android:enabled="false"
+        android:text="@string/sourcestext1"
+        android:textAlignment="center"
+        android:textColor="#145317"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toStartOf="@+id/infoTxtCredits"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/infoTxtCredits"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/infoTxtCredits"
+        android:layout_width="306dp"
+        android:layout_height="477dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="152dp"
+        android:layout_marginEnd="44dp"
+        android:autoLink="web"
+        android:gravity="center"
+        android:linksClickable="true"
+        android:text="@string/txtCredits"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/homebutton"
+        android:alpha="0.8"
+        android:background="@drawable/homebutton"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:onClick="returnHome"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="5dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

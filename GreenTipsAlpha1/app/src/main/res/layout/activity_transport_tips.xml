@@ -29,10 +29,32 @@
         android:gravity="center"
         android:text="@string/transport"
         android:textAlignment="center"
+
         android:textColor="#000000"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+        <!-- android:textSize="40sp"/> -->
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="000dp">
+
+    <Button
+        android:id="@+id/switchviewtoslide"
+        android:onClick="switchView"
+        android:alpha="1.0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/switch_view" />
+    </LinearLayout>
+
 
     <ScrollView
         android:id="@+id/scrollViewTransport"
@@ -54,62 +76,114 @@
             android:orientation="vertical"
             app:layout_constraintTop_toTopOf="parent">
 
-            <TextView
-                android:id="@+id/transportip1"
+            <Button
+                android:id="@+id/transporttip1"
+                android:onClick="goToTransportSlide"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
-                android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner"
-                android:onClick="goToTransportSlide" />
 
-            <TextView
-                android:id="@+id/transportip2"
-                android:layout_width="350dp"
-                android:layout_height="150dp"
-                android:layout_marginTop="10dp"
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip1"
+                android:textSize="16sp"
+                android:textStyle="bold"
                 android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner" />
+                android:background="@drawable/rounded_tip_corner"/>
 
-            <TextView
-                android:id="@+id/transportip3"
-                android:layout_width="350dp"
-                android:layout_height="150dp"
-                android:layout_marginTop="10dp"
-                android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner" />
-
-            <TextView
-                android:id="@+id/transportip4"
+            <Button
+                android:id="@+id/transporttip2"
+                android:onClick="goToTransportSlide"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip2"
+                android:textSize="16sp"
+                android:textStyle="bold"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner" />
+            <!-- android:onClick="goToTransportSlide"-->
 
-            <TextView
-                android:id="@+id/transportip5"
+
+            <Button
+                android:id="@+id/transporttip3"
+                android:onClick="goToTransportSlide"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip3"
+                android:textSize="16sp"
+                android:textStyle="bold"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner" />
 
-            <TextView
-                android:id="@+id/transportip6"
+
+            <Button
+                android:id="@+id/transporttip4"
+                android:onClick="goToTransportSlide"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
+
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip4"
+                android:textSize="16sp"
+                android:textStyle="bold"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner" />
 
-            <TextView
-                android:id="@+id/transportip7"
+
+            <Button
+                android:id="@+id/transporttip5"
+                android:onClick="goToTransportSlide"
+                android:layout_width="350dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="10dp"
+
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip5"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:alpha="0.8"
+                android:background="@drawable/rounded_tip_corner" />
+
+
+
+            <Button
+                android:id="@+id/transporttip6"
+                android:onClick="goToTransportSlide"
+                android:layout_width="350dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="10dp"
+
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip6"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:alpha="0.8"
+                android:background="@drawable/rounded_tip_corner" />
+
+
+
+            <Button
+                android:id="@+id/transporttip7"
+                android:onClick="goToTransportSlide"
                 android:layout_width="350dp"
                 android:layout_height="150dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="25dp"
+
                 android:alpha="0.8"
-                android:background="@drawable/rounded_tip_corner" />
+                android:background="@drawable/rounded_tip_corner"
+
+                android:textAllCaps="false"
+                android:text="@string/shorttransporttip7"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                />
+
 
 
         </LinearLayout>
@@ -126,21 +200,5 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_marginBottom="5dp"
-        android:layout_marginStart="80dp" />
-
-    <Button
-        android:id="@+id/undo"
-        android:alpha="0.8"
-        android:background="@drawable/undo"
-        android:layout_width="45dp"
-        android:layout_height="45dp"
-        android:onClick="returnActivity"
-        android:layout_gravity="center"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_marginBottom="5dp"
-        android:layout_marginEnd="80dp"/>
-
+        android:layout_marginBottom="5dp"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
