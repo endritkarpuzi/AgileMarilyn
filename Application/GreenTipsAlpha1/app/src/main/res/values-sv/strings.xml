@@ -13,7 +13,7 @@
     <string name="sociallife">Socialt liv</string>
     <string name="chooseTip">Välj ett tips</string>
     <string name="shorttransporttip1" >Gå för korta resor </string>
-    <string name="transporttip1">Gå för korta resor.
+    <string name="transporttip1">\n\nGå för korta resor.
         \n\nAtt promenera hjälper till att både minska kroppsfett, minska blodtryck och är också gratis.
         Det tar också mindre tid än vad man tror.
 
@@ -34,18 +34,13 @@
     <string name="enter_your_name_here">Ditt namn här</string>
     <string name="enter_your_subject_here">Ditt ämne här</string>
     <string name="enter_your_message_here">Ditt meddelande här</string>
-<<<<<<< Updated upstream
 
     <string name="aboutapp">        <b>Välkommen GreenTips!</b>\n
         \nDenna app har utvecklats av 6 studenter på Chalmers Tekniska Högskola i Göteborg.\n
         \nMed tipsen vi ger dig här hjälper vi dig att minska din miljöpåverkan och hjälper dig leva ett mer hälsosamt liv!\n
         \nVälj helt enkelt en kategori du är intresserad av, så ger vi dig flera, enkla sätt att leva ett grönare liv!
         \nFå även påminnelser genom att välja ett tips att ha i fokus.</string>
-
-=======
-    <string name="aboutapp">\nDenna applikation har utvecklats av 6 studenter vid Chalmers Technical High School i Göteborg, Sverige. \n\nMed de tips och idéer vi ger dig här hjälper vi dig att minska din miljöpåverkan och leva ett hälsosammare liv! \nVälj bara den kategori du är intresserad av och vi kommer att erbjuda många enkla sätt för ett grönare liv. \n\nFå aviseringar för påminnelser genom att välja att ha ett tips i fokus!</string>
->>>>>>> Stashed changes
-    <string name="shorttransporttip2">Används cykeln</string>
+    <string name="shorttransporttip2">Använd cykeln</string>
     <string name="sourcestext1">Källor:</string>
     <string name="transporttip2">\n\nVälj cykeln \n\nAtt byta en resa på 10 km per vecka från din bil till din cykel kommer att bränna cirka 300 kalorier varje åktur och kan spara 300 kg växthusgasutsläpp varje år. \n\nVisste du att? Stadsturer på högst en timme upp till 10 km är i allmänhet snabbare med cyklar än någon annan form av transport, dörr till dörr. Dessutom hjälper cykling till att minska kroppsfett, vilket är ett första steg till att bli friskare och starkare!</string>
     <string name="transporttip3">\n\nAnvända kollektivtrafik \n\nMed kollektivtrafik kan du hoppa över besväret med trafik och parkering och fortfarande vara i tid!</string>
