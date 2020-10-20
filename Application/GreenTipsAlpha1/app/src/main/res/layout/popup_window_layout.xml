@@ -9,7 +9,7 @@
         android:clickable="false"
         android:layout_height="225dp"
         android:layout_centerInParent="true"
-        android:alpha="0.8"
+        android:alpha="0.85"
         android:background="@drawable/rounded_tip_corner"
         android:text="@string/popup_message"
         android:paddingStart="15dp"
