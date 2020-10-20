@@ -12,7 +12,9 @@ endritkarpuzi - Endrit Karpuzi;
 
 What is in our repo?
 
-Documentation folder - contains all the team documentation for this project: 
+APK - contains the APK of our app
+
+Documentation - contains all the team documentation for this project: 
 
  -> our weekly individual reflections in "Individual Reflections" folder
  
@@ -20,7 +22,7 @@ Documentation folder - contains all the team documentation for this project:
  
  -> "KPI, Backlog and Social Contract" with our social contract, product backlog, KPIs, KPI chart and definition of done
  
- GreenTipsAlpha1 folder - project folder of our app "GreenTips" prototype
+ Application/GreenTipsAlpha1 - project folder of our app "GreenTips" 
  
  .gitignore - contains all the files we judged that should be ignored by Git when pushing/pulling
  
