@@ -114,5 +114,4 @@ public class socialTips extends BaseActivity {
         startActivity(new Intent(socialTips.this, welcome.class));
     }
 
-    public void switchView(View v) { startActivity(new Intent(socialTips.this, slidecreatorsocial.class)); }
 }

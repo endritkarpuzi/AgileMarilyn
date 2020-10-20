@@ -112,5 +112,4 @@ public class outdoorsTips extends BaseActivity {
 
     public void returnHome(View v){ startActivity(new Intent(outdoorsTips.this, welcome.class)); }
 
-    public void switchView(View v) { startActivity(new Intent(outdoorsTips.this, slidecreatoroutdoors.class)); }
 }

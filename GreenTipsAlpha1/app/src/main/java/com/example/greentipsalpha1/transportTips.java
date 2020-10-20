@@ -114,7 +114,6 @@ public class transportTips extends BaseActivity {
         startActivity(new Intent(transportTips.this, welcome.class));
     }
 
-    public void switchView(View v) { startActivity(new Intent(transportTips.this, slidecreatortransport.class)); }
 
 
 }

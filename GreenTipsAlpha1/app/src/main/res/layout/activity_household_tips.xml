@@ -30,13 +30,6 @@
         android:layout_marginTop="200dp"
         android:layout_marginBottom="000dp">
 
-        <Button
-            android:id="@+id/switchviewtoslide"
-            android:onClick="switchView"
-            android:alpha="1.0"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/switch_view" />
     </LinearLayout>
 
 

@@ -114,6 +114,5 @@ public class worklifeTips extends BaseActivity {
         startActivity(new Intent(worklifeTips.this, welcome.class));
     }
 
-    public void switchView(View v) { startActivity(new Intent(worklifeTips.this, slidecreatorworklife.class)); }
 
 }

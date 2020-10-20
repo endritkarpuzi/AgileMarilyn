@@ -110,15 +110,8 @@ public class householdTips extends BaseActivity {
         return this;
     }
 
-    public void returnActivity (View v){
-        finish();
-    }
-
     public void returnHome(View v){
         startActivity(new Intent(householdTips.this, welcome.class));
     }
 
-    //public void goToHouseholdSlide(View v) { startActivity(new Intent(householdTips.this, slidecreatorhousehold.class)); }
-
-    public void switchView(View v) { startActivity(new Intent(householdTips.this, slidecreatorhousehold.class)); }
 }
