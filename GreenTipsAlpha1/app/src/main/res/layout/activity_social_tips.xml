@@ -59,7 +59,6 @@
 
             <Button
                 android:id="@+id/socialtip1"
-                android:onClick="goToSocialSlide"
                 android:alpha="0.7"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -71,7 +70,6 @@
 
             <Button
                 android:id="@+id/socialtip2"
-                android:onClick="goToSocialSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -84,7 +82,6 @@
 
             <Button
                 android:id="@+id/socialtip3"
-                android:onClick="goToSocialSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -97,7 +94,6 @@
 
             <Button
                 android:id="@+id/socialtip4"
-                android:onClick="goToSocialSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -110,7 +106,6 @@
 
             <Button
                 android:id="@+id/socialtip5"
-                android:onClick="goToSocialSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -123,7 +118,6 @@
 
             <Button
                 android:id="@+id/socialtip6"
-                android:onClick="goToSocialSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -136,7 +130,6 @@
 
             <Button
                 android:id="@+id/socialtip7"
-                android:onClick="goToSocialSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"

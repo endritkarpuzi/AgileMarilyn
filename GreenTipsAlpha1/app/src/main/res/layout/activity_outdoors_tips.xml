@@ -60,7 +60,6 @@
 
             <Button
                 android:id="@+id/outdoorstip1"
-                android:onClick="goToOutdoorsSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -85,7 +84,6 @@
 
             <Button
                 android:id="@+id/outdoorstip3"
-                android:onClick="goToOutdoorsSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -98,7 +96,6 @@
 
             <Button
                 android:id="@+id/outdoorstip4"
-                android:onClick="goToOutdoorsSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -111,7 +108,6 @@
 
             <Button
                 android:id="@+id/outdoorstip5"
-                android:onClick="goToOutdoorsSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -124,7 +120,6 @@
 
             <Button
                 android:id="@+id/outdoorstip6"
-                android:onClick="goToOutdoorsSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -137,7 +132,6 @@
 
             <Button
                 android:id="@+id/outdoorstip7"
-                android:onClick="goToOutdoorsSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"

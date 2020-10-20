@@ -8,12 +8,23 @@ import android.os.Bundle;
 public class slidecreatortransport extends AppCompatActivity {
     private ViewPager mSlideViewPager;
     private SliderAdapterTransport sliderAdapter;
+    int position;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_slidelayout);
+        position = 0;
+
+        Bundle extras = getIntent().getExtras();
+        if(extras != null){
+            position = extras.getInt("slide_position");
+        }
+
         mSlideViewPager = (ViewPager) findViewById(R.id.slideViewPager);
         sliderAdapter = new SliderAdapterTransport(this);
         mSlideViewPager.setAdapter(sliderAdapter);
+
+        mSlideViewPager.setCurrentItem(position);
     }
  }
