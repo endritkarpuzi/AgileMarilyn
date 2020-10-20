@@ -5,16 +5,18 @@
     android:layout_height="fill_parent">
 
 
-        <Button
-            android:id="@+id/switchviewtoslide"
-            android:onClick="switchView"
-            android:alpha="1.0"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerInParent="true"
-            android:layout_alignParentTop="true"
-            android:layout_marginTop="140dp"
-            android:text="@string/switch_view" />
+    <TextView
+        android:id="@+id/switchviewtoslide"
+        android:layout_width="wrap_content"
+        android:layout_height="41dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="150dp"
+        android:alpha="1.0"
+        android:text="Discover tips by swiping left and right"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textColor="#145317"/>
 
     <ImageView
         android:id="@+id/slide_image2"
