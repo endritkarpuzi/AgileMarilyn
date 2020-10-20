@@ -1,11 +1,13 @@
 package com.example.greentipsalpha1;
 
 import android.content.Context;
+import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
@@ -16,7 +18,9 @@ import androidx.viewpager.widget.PagerAdapter;
 public class SliderAdapterWorklife extends PagerAdapter {
     SQLiteDatabase db;
     DatabaseHelper dbHelper;
-    choose_lang lan;
+    String lan = "Engelska";
+    int pos;
+    String tip;
 
     String t1 = " ";
     String t2 = " ";
@@ -78,10 +82,15 @@ public class SliderAdapterWorklife extends PagerAdapter {
 
     @Override
     public Object instantiateItem(ViewGroup container, int position) {
+        Intent intent = new Intent();
+        lan = intent.getStringExtra(choose_lang.EXTRA_LAN);
+
         dbHelper = new DatabaseHelper(context);
         db = dbHelper.getReadableDatabase();
 
         databaseInput();
+
+        pos = position;
 
         layoutInflater = (LayoutInflater) context.getSystemService(context.LAYOUT_INFLATER_SERVICE);
         View view = layoutInflater.inflate(R.layout.slide_functionality, container, false);
@@ -95,6 +104,23 @@ public class SliderAdapterWorklife extends PagerAdapter {
         slideImageView2.setImageResource(slide_images2[position]);
         container.addView(view);
 
+        Button notifyMe_1 = (Button) view.findViewById(R.id.slide_heading);
+        Button notifyMe_2 = (Button) view.findViewById(R.id.notify_btn);
+
+        notifyMe_1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                tip = Integer.toString(slide_headings[pos]);
+            }
+        });
+
+        notifyMe_2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                tip = Integer.toString(slide_headings[pos]);
+            }
+        });
+
         return view;
     }
 
@@ -104,25 +130,25 @@ public class SliderAdapterWorklife extends PagerAdapter {
     }
 
     public void databaseInput(){
-        Cursor tip1 = dbHelper.getTip("22", lan.getLanguage());
+        Cursor tip1 = dbHelper.getTip("22", lan);
         t1 = tip1.getString(0);
 
-        Cursor tip2 = dbHelper.getTip("23", lan.getLanguage());
+        Cursor tip2 = dbHelper.getTip("23", lan);
         t2 = tip2.getString(0);
 
-        Cursor tip3 = dbHelper.getTip("24", lan.getLanguage());
+        Cursor tip3 = dbHelper.getTip("24", lan);
         t3 = tip3.getString(0);
 
-        Cursor tip4 = dbHelper.getTip("25", lan.getLanguage());
+        Cursor tip4 = dbHelper.getTip("25", lan);
         t4 = tip4.getString(0);
 
-        Cursor tip5 = dbHelper.getTip("26", lan.getLanguage());
+        Cursor tip5 = dbHelper.getTip("26", lan);
         t5 = tip5.getString(0);
 
-        Cursor tip6 = dbHelper.getTip("27", lan.getLanguage());
+        Cursor tip6 = dbHelper.getTip("27", lan);
         t6 = tip6.getString(0);
 
-        Cursor tip7 = dbHelper.getTip("28", lan.getLanguage());
+        Cursor tip7 = dbHelper.getTip("28", lan);
         t7 = tip7.getString(0);
 
         slide_headings[0] = Integer.parseInt(t1);
@@ -132,5 +158,10 @@ public class SliderAdapterWorklife extends PagerAdapter {
         slide_headings[4] = Integer.parseInt(t5);
         slide_headings[5] = Integer.parseInt(t6);
         slide_headings[6] = Integer.parseInt(t7);
+    }
+
+    public String passingData(){
+        return tip;
+
     }
 }

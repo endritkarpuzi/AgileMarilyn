@@ -31,7 +31,6 @@ public class ScheduleTimeActivity extends AppCompatActivity {
 
         createNotificationChannel();
 
-        editText = findViewById(R.id.et);
         timePicker = findViewById(R.id.time);
         setTime = findViewById(R.id.btnSet);
         cancelTime = findViewById(R.id.btnCancel);
@@ -40,10 +39,46 @@ public class ScheduleTimeActivity extends AppCompatActivity {
         setTime.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent (ScheduleTimeActivity.this, AlarmReceiver.class);
-                intent.putExtra ("notificationId", NotificationId);
-                intent.putExtra ("message", editText.getText().toString());
-                final PendingIntent pendingIntent = PendingIntent.getBroadcast(ScheduleTimeActivity.this, 0,intent, 0);
+                String tip = "NO TIP";
+                /*String tip_res;
+
+                Intent intent_1 = getIntent();
+                String tip_trans = intent_1.getStringExtra(slidecreatortransport.EXTRA_TEXT);
+
+                Intent intent_2 = getIntent();
+                String tip_out = intent_2.getStringExtra(slidecreatoroutdoors.EXTRA_TEXT);
+
+                Intent intent_3 = getIntent();
+                String tip_soc = intent_3.getStringExtra(slidecreatorsocial.EXTRA_TEXT);
+
+                Intent intent_4 = getIntent();
+                String tip_work = intent_4.getStringExtra(slidecreatorworklife.EXTRA_TEXT);
+
+                Intent intent_5 = getIntent();
+                String tip_house = intent_5.getStringExtra(slidecreatorhousehold.EXTRA_TEXT);
+
+                if(tip_out == null && tip_soc == null && tip_work == null && tip_house == null){
+
+                }
+                if(tip_out == null && tip_soc == null && tip_work == null && tip_house == null){
+
+                }
+                if(tip_out == null && tip_soc == null && tip_work == null && tip_house == null){
+
+                }
+                if(tip_out == null && tip_soc == null && tip_work == null && tip_house == null){
+
+                }*/
+
+                Bundle extras = getIntent().getExtras();
+                if(extras != null){
+                    tip = extras.getString("slide_content");
+                }
+
+                Intent intent_res = new Intent (ScheduleTimeActivity.this, AlarmReceiver.class);
+                intent_res.putExtra ("notificationId", NotificationId);
+                intent_res.putExtra ("message", tip);
+                final PendingIntent pendingIntent = PendingIntent.getBroadcast(ScheduleTimeActivity.this, 0,intent_res, 0);
                 int Hour = timePicker.getHour();
                 int Minute = timePicker.getMinute();
                 Calendar calendar = Calendar.getInstance();

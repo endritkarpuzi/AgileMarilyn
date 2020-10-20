@@ -7,6 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
@@ -17,7 +18,9 @@ import androidx.viewpager.widget.PagerAdapter;
 public class SliderAdapterTransport extends PagerAdapter {
     SQLiteDatabase db;
     DatabaseHelper dbHelper;
-    String lan;
+    int pos;
+    String tip;
+    String lan = "Engelska";
 
     String t1 = " ";
     String t2 = " ";
@@ -71,7 +74,6 @@ public class SliderAdapterTransport extends PagerAdapter {
     };
     */
 
-
     @Override
     public int getCount() {
         return slide_headings.length;
@@ -100,6 +102,8 @@ public class SliderAdapterTransport extends PagerAdapter {
 
         databaseInput();
 
+        pos = position;
+
         layoutInflater = (LayoutInflater) context.getSystemService(context.LAYOUT_INFLATER_SERVICE);
         View view = layoutInflater.inflate(R.layout.slide_functionality, container, false);
 
@@ -112,6 +116,23 @@ public class SliderAdapterTransport extends PagerAdapter {
         slideHeading.setText(slide_headings[position]);
 
         container.addView(view);
+
+        Button notifyMe_1 = (Button) view.findViewById(R.id.slide_heading);
+        Button notifyMe_2 = (Button) view.findViewById(R.id.notify_btn);
+
+        notifyMe_1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                tip = Integer.toString(slide_headings[pos]);
+            }
+        });
+
+        notifyMe_2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                tip = Integer.toString(slide_headings[pos]);
+            }
+        });
 
         return view;
     }
@@ -151,5 +172,10 @@ public class SliderAdapterTransport extends PagerAdapter {
         slide_headings[4] = Integer.parseInt(t5);
         slide_headings[5] = Integer.parseInt(t6);
         slide_headings[6] = Integer.parseInt(t7);
+    }
+
+    public String passingData(){
+        return tip;
+
     }
 }
