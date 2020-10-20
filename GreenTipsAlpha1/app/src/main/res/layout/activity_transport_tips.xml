@@ -60,7 +60,7 @@
 
             <Button
                 android:id="@+id/transporttip1"
-                android:onClick="goToTransportSlide"
+
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -72,7 +72,6 @@
 
             <Button
                 android:id="@+id/transporttip2"
-                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -85,7 +84,6 @@
 
             <Button
                 android:id="@+id/transporttip3"
-                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -98,7 +96,6 @@
 
             <Button
                 android:id="@+id/transporttip4"
-                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -111,7 +108,6 @@
 
             <Button
                 android:id="@+id/transporttip5"
-                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -124,7 +120,6 @@
 
             <Button
                 android:id="@+id/transporttip6"
-                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
@@ -137,7 +132,6 @@
 
             <Button
                 android:id="@+id/transporttip7"
-                android:onClick="goToTransportSlide"
                 android:alpha="0.8"
                 android:background="@drawable/rounded_tip_corner"
                 android:layout_width="350dp"
