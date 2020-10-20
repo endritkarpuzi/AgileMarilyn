@@ -332,6 +332,7 @@
     <string name="enter_your_message_here">Enter your message here</string>
     <string name="switch_view" translatable="false">Switch view</string>
     <string name="popup_message">In order to apply the language changes to the whole app, please return to the home screen!\n(home button in bottom of the page)</string>
+    <string name="press_a_card_for_more_information">Press a card for more information</string>
 
 
 </resources>
