@@ -244,6 +244,7 @@
     <string name="switch_view">Ndërro pamjen</string>
 
     <string name="popup_message">Për të ndryshuar gjuhën, ju lutemi kthehuni në faqe kryesor! (butoni në fund të kesaj faqes)</string>
+    <string name="press_a_card_for_more_information">Press a card for more information</string>
 
 
 </resources>
