@@ -4,6 +4,7 @@
     <string name="chooseLang">Choose a language</string>
     <string name="espanol" translatable="false">Español</string>
     <string name="svenska" translatable="false">Svenska</string>
+    <string name="syriac" translatable="false">ܣܘܪܝܝܐ</string>
     <string name="polsku" translatable="false">Polski</string>
     <string name="shqip" translatable="false">Shqip</string>
     <string name="english" translatable="false">English</string>
@@ -333,5 +334,9 @@
     <string name="switch_view">Switch view</string>
     <string name="popup_message">In order to apply the language changes to the whole app, please return to the home screen!\n(home button in bottom of the page)</string>
 
-
+    <string-array name="days_spinner">
+        <item>Monday-Friday</item>
+        <item>Weekend</item>
+        <item>Every day</item>
+    </string-array>
 </resources>

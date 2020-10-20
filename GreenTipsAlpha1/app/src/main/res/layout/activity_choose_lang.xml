@@ -92,6 +92,16 @@
                 android:text="@string/arabic" />
 
             <Button
+                android:id="@+id/syriac"
+                android:layout_width="138dp"
+                android:layout_marginBottom="10dp"
+                android:layout_height="wrap_content"
+                android:onClick="syriacButton"
+                android:alpha="0.9"
+                android:background="@drawable/rounded_tip_corner"
+                android:text="@string/syriac" />
+
+            <Button
                 android:id="@+id/polish"
                 android:layout_width="138dp"
                 android:layout_marginBottom="10dp"

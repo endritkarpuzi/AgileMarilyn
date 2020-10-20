@@ -1,11 +1,13 @@
 package com.example.greentipsalpha1;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.res.ResourcesCompat;
 
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.content.res.Resources;
+import android.graphics.Typeface;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
@@ -81,6 +83,7 @@ public class choose_lang extends AppCompatActivity {
 
     public void changeEnglish(View v) {
         changeLang("en");
+        //setTheme(R.style.AppTheme);
     }
 
     public void swedishButton(final View v){
@@ -94,6 +97,7 @@ public class choose_lang extends AppCompatActivity {
 
     public void changeSwedish(View v) {
         changeLang("sv");
+        //setTheme(R.style.AppTheme);
     }
 
     public void frenchButton(final View v){
@@ -107,6 +111,7 @@ public class choose_lang extends AppCompatActivity {
 
     public void changeFrench(View v) {
         changeLang("fr");
+        //setTheme(R.style.AppTheme);
     }
 
     public void spanishButton(final View v){
@@ -120,6 +125,21 @@ public class choose_lang extends AppCompatActivity {
 
     public void changeSpanish(View v) {
         changeLang("es");
+        //setTheme(R.style.AppTheme);
+    }
+
+    public void syriacButton(final View v){
+        showPopup();
+        new Handler().postDelayed(new Runnable() {
+            public void run() {
+                changeSyriac(v);
+            }
+        }, 3000);
+    }
+
+    public void changeSyriac(View v) {
+        changeLang("syr");
+        //setTheme(R.style.SyriacTheme);
     }
 
     public void arabicButton(final View v){
@@ -133,6 +153,7 @@ public class choose_lang extends AppCompatActivity {
 
     public void changeArabic(View v) {
         changeLang("ar");
+        //setTheme(R.style.AppTheme);
     }
 
     public void polishButton(final View v){
@@ -146,6 +167,7 @@ public class choose_lang extends AppCompatActivity {
 
     public void changePolish(View v) {
         changeLang("pl");
+        //setTheme(R.style.AppTheme);
     }
 
     public void albanianButton(final View v){
@@ -159,5 +181,6 @@ public class choose_lang extends AppCompatActivity {
 
     public void changeAlbanian(View v) {
         changeLang("al");
+        //setTheme(R.style.AppTheme);
     }
 }

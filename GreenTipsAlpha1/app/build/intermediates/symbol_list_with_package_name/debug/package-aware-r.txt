@@ -1555,6 +1555,7 @@ drawable greenback
 drawable greenhome
 drawable home1080x1920
 drawable homebutton
+drawable ic_baseline_notification_active_24
 drawable ic_help
 drawable ic_info
 drawable ic_language
@@ -1611,6 +1612,7 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable undo
 drawable united_nations
+font urhoy
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1879,6 +1881,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id notify_btn
 id off
 id on
 id outdoorstip1
@@ -1992,6 +1995,7 @@ id submenuarrow
 id submit_area
 id swedish
 id switchviewtoslide
+id syriac
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -2410,6 +2414,7 @@ string status_bar_notification_info_overflow
 string string_green_tips
 string svenska
 string switch_view
+string syriac
 string transport
 string transporttip1
 string transporttip2

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AgileMarilyn-GreenTipsAlpha1.iml" filepath="$PROJECT_DIR$/.idea/modules/AgileMarilyn-GreenTipsAlpha1.iml" group="GreenTipsAlpha1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AgileMarilyn-GreenTipsAlpha1-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AgileMarilyn-GreenTipsAlpha1-app.iml" group="GreenTipsAlpha1/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GreenTipsAlpha1.iml" filepath="$PROJECT_DIR$/.idea/modules/GreenTipsAlpha1.iml" group="GreenTipsAlpha1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GreenTipsAlpha1-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GreenTipsAlpha1-app.iml" group="GreenTipsAlpha1/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GreenTipsAlpha1/app" />
