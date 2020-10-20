@@ -34,7 +34,13 @@
     <string name="enter_your_name_here">Ditt namn här</string>
     <string name="enter_your_subject_here">Ditt ämne här</string>
     <string name="enter_your_message_here">Ditt meddelande här</string>
-    <string name="aboutapp">Utvecklad av blablabla</string>
+
+    <string name="aboutapp">        <b>Välkommen GreenTips!</b>\n
+        \nDenna app har utvecklats av 6 studenter på Chalmers Tekniska Högskola i Göteborg.\n
+        \nMed tipsen vi ger dig här hjälper vi dig att minska din miljöpåverkan och hjälper dig leva ett mer hälsosamt liv!\n
+        \nVälj helt enkelt en kategori du är intresserad av, så ger vi dig flera, enkla sätt att leva ett grönare liv!
+        \nFå även påminnelser genom att välja ett tips att ha i fokus.</string>
+
     <string name="shorttransporttip2">Används cykeln</string>
     <string name="sourcestext1">Källor:</string>
     <string name="transporttip2">Välj cykeln Att byta en resa på 10 km per vecka från din bil till din cykel kommer att bränna cirka 300 kalorier varje åktur och kan spara 300 kg växthusgasutsläpp varje år.\' Visste du?  Stadsturer på högst en timme upp till 10 km är i allmänhet snabbare med cyklar än någon annan form av transport, dörr till dörr. Dessutom hjälper cykling till att minska kroppsfett, vilket är ett första steg för att bli friskare och starkare!</string>
@@ -105,8 +111,6 @@
     <string name="shortoutdoorstip6">"Sluta med hårspray "</string>
     <string name="shortoutdoorstip7">Använd gröna medel när du grillar</string>
     <string name="helpicon" translatable="false">Hjälp</string>
-    <string name="languageicon">Hjälp</string>
-    <string name="infoicon">Hjälp</string>
 
 
 </resources>

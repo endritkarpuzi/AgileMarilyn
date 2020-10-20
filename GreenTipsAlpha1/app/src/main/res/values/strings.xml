@@ -311,8 +311,8 @@
     <string name="button_schedule_set">Set</string>
     <string name="button_schedule_cancel">Cancel</string>
     <string name="helpicon">help</string>
-    <string name="languageicon">help</string>
-    <string name="infoicon">help</string>
+    <string name="languageicon" translatable="false">help</string>
+    <string name="infoicon" translatable="false">help</string>
     <string name="image_slide" translatable="false">image slide for slide functionality</string>
     <string name="arabic">العربية</string>
 
@@ -330,7 +330,7 @@
     <string name="enter_your_name_here">Enter your name here</string>
     <string name="enter_your_subject_here">Enter your subject here</string>
     <string name="enter_your_message_here">Enter your message here</string>
-    <string name="switch_view">Switch view</string>
+    <string name="switch_view" translatable="false">Switch view</string>
     <string name="popup_message">In order to apply the language changes to the whole app, please return to the home screen!\n(home button in bottom of the page)</string>
 
 

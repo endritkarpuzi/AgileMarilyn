@@ -95,8 +95,6 @@
     <string name="button_schedule_set">حسنا</string>
     <string name="button_schedule_cancel">إلغاء</string>
     <string name="helpicon" translatable="false">مساعدة</string>
-    <string name="languageicon">مساعدة</string>
-    <string name="infoicon">مساعدة</string>
     <string name="arabic" translatable="false">العربية</string>
     <string name="contact_form">تاوصل معنا</string>
     <string name="contact_form_name">اسمك</string>
