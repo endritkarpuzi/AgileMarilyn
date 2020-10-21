@@ -306,5 +306,7 @@
         Afin d\'appliquer les changements de langue à l\'ensemble de l\'application, veuillez retourner à l\'écran d\'accueil!
         \n(bouton d\'accueil en bas de page)
     </string>
+    <string name="press_a_card_for_more_information">Choisissez une carte pour plus d\'information</string>
+    <string name="discover_tips_by_swiping_left_and_right">Découvre les astuces en glissant à gauche et à droite</string>
 
 </resources>

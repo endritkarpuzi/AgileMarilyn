@@ -245,6 +245,7 @@
 
     <string name="popup_message">Për të ndryshuar gjuhën, ju lutemi kthehuni në faqe kryesor! (butoni në fund të kesaj faqes)</string>
     <string name="press_a_card_for_more_information">Shtypni një kartë për më shumë informacion</string>
+    <string name="discover_tips_by_swiping_left_and_right">Zbuloni këshilla duke rrëshqitur majtas dhe djathtas</string>
 
 
 </resources>

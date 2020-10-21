@@ -331,8 +331,9 @@
     <string name="enter_your_subject_here">Enter your subject here</string>
     <string name="enter_your_message_here">Enter your message here</string>
     <string name="switch_view" translatable="false">Switch view</string>
-    <string name="popup_message">In order to apply the language changes to the whole app, please return to the home screen!\n(home button in bottom of the page)</string>
+    <string name="popup_message">In order to apply the language changes to the whole app, please return to the home screen! (home button in bottom of the page)</string>
     <string name="press_a_card_for_more_information">Press a card for more information</string>
+    <string name="discover_tips_by_swiping_left_and_right">Discover tips by swiping left and right</string>
 
 
 </resources>
