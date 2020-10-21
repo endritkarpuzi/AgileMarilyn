@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GreenTips</string>
+    <string name="chooseLang">Elige un idioma</string>
+    <string name="continueButton">Continua</string>
+    <string name="aboutButton">Información</string>
+    <string name="chooseCat">Elige una categoria</string>
+    <string name="category">Categoria</string>
+
+        <string name="shorttransporttip1">Usa el transporte público</string>
+        <string name="shorttransporttip2"> Piense dos veces</string>
+        <string name="shorttransporttip3">Cambiar a conducción ecológica</string>
+        <string name="shorttransporttip4">Coge un coche en lugar de tomar varios autos para hacer el mismo viaje con tus amigos, toma un solo auto.</string>
+        <string name="shorttransporttip5">Ahorre su dinero</string>
+        <string name="shorttransporttip6">Camina para viajes cortos</string>
+        <string name="shorttransporttip7">Opta por la bicicleta</string>
+
+        <string name="transporttip1">Usa el transporte público
+
+El uso del transporte público le permite evitar la molestia del tráfico y el estacionamiento y aún así llegar a tiempo.
+</string>
+
+        <string name="transporttip2">Piense dos veces
+
+Recoja sus recados en un solo viaje para ahorrar combustible, dinero y tiempo.
+Te permitirá ser más productivo durante el resto del día.
+</string>
+
+        <string name="transporttip3">Cambiar a conducción ecológica
+
+    Conduzca con suavidad, arrancar y parar consume más combustible.
+    Reduzca la velocidad, conducir a 90 km / h consume un 25% menos de combustible que viajar a 110 km / h.
+    Compruebe periódicamente la presión de sus neumáticos. Los neumáticos poco inflados pueden aumentar el consumo de combustible en un 3%
+    y quitarle 10.000 km de vida útil al neumático.
+    En lugar de utilizar el aire acondicionado, abra la ventana cuando conduzca a menos de 70 km/h.
+    </string>
+
+        <string name="transporttip4">Coge un coche en lugar de tomar varios autos para hacer el mismo viaje con tus amigos, toma un solo auto. Disfrutarás tu viaje
+    aún más y le permite cambiar de asiento con el conductor para que su viaje sea más seguro y cómodo.
+    Siempre puede optar por compartir el automóvil si viaja solo para romper la monotonía de su viaje diario.
+    </string>
+
+        <string name="transporttip5">Ahorre su dinero
+Tener un coche cuesta mucho hoy en día, el combustible es bastante caro y la tasa de congestión en Suecia se vuelve
+más caro cada año, así que piénselo dos veces antes de comprar su propio coche.</string>
+
+        <string name="transporttip6">Camina para viajes cortos
+Caminar ayuda a reducir la grasa corporal, bajar la presión arterial y es gratis.
+También puede llevar menos tiempo del que cree.
+Los estudios han demostrado que la mayoría de la gente subestima el tiempo relacionado con el automóvil.
+viajes y sobrestimar el tiempo que se tarda en caminar.
+El ritmo de caminata promedio es de seis kilómetros por hora y, si camina, no es necesario que encuentre un estacionamiento para automóviles cuando llegue.
+</string>
+
+        <string name="transporttip7">Opta por la bicicleta
+        Cambiar un viaje de 10 km por semana desde su automóvil a su bicicleta quemará alrededor de 300 calorías en cada sentido y puede ahorrar
+más de 300 kg de emisiones de gases de efecto invernadero cada año.
+¿Sabías? Los viajes por la ciudad en horas pico de hasta 10 km de longitud son generalmente más rápidos en bicicleta que cualquier otro medio de transporte.
+puerta a puerta.
+Además, el ciclismo ayuda a reducir la grasa corporal, que es un primer paso para volverse más saludable y fuerte.
+</string>
+
+        <string name="shorthouseholdtip1">Compra ropa ecológica</string>
+        <string name="shorthouseholdtip2">Sea más vegano afuera</string>
+        <string name="shorthouseholdtip3">Compra vintage</string>
+        <string name="shorthouseholdtip4">Coma alimentos de producción local</string>
+        <string name="shorthouseholdtip5">Beba agua potable</string>
+        <string name="shorthouseholdtip6">di no a la pajita de plástico</string>
+        <string name="shorthouseholdtip7"> usa contenedores</string>
+
+        <string name="householdtip1">
+Compra ropa ecológica
+
+Pregunte en la tienda si su ropa es ecológica.
+</string>
+        <string name="householdtip2">Compra ropa ecológica
+
+Pregunte en la tienda si su ropa es ecológica.</string>
+        <string name="householdtip3">Compra vintage
+
+Apoyar de segunda mano, comprar ropa vintage y muebles usados ​​en lugar de nuevos
+</string>
+        <string name="householdtip4">Coma alimentos de producción local
+
+Come comida sueca. Los alimentos importados contribuyen a la degradación ambiental.
+</string>
+        <string name="householdtip5">agua potable
+
+Intente ahorrar la mayor cantidad de agua posible en su rutina diaria. Y trata de beber agua de grulla en lugar de botella
+y si no tiene acceso a agua limpia para grúas, intente comprar un filtro que le puede ahorrar mucho dinero.
+</string>
+        <string name="householdtip6">di no a la pajita de plástico
+
+Beber con pajita de papel en lugar de plástico. O puede evitar beber con pajita.
+</string>
+        <string name="householdtip7">usa contenedores
+
+Tira tu ropa vieja en contenedores para que la reutilicen en lugar de quemarla.
+</string>
+
+        <string name="shortworklifetip1">Recicla</string>
+        <string name="shortworklifetip2">¡Olvídese del papel!</string>
+        <string name="shortworklifetip3">limpieza verde</string>
+        <string name="shortworklifetip4">No más botellas de agua
+</string>
+        <string name="shortworklifetip5">Planifica tu jornada laboral</string>
+        <string name="shortworklifetip6">Usa el transporte público</string>
+        <string name="shortworklifetip7">Tener decoración verde
+</string>
+
+        <string name="worklifetip1">¡Recicla!
+
+A muchos empleados no les importa el reciclaje, pero sí importa el reciclaje durante su trabajo. Puedes reciclar
+papel, plástico y alimentos, por ejemplo.
+</string>
+        <string name="worklifetip2"> ¡Olvídese del papel!
+
+Cambie a documentos digitales en lugar de papel y piense en comprar papel reciclado por 100 €.</string>
+        <string name="worklifetip3"> limpieza verde
+
+Muchos productos de limpieza son perjudiciales para el medio ambiente y son peligrosos para el medio ambiente y la salud humana.
+Priorice la compra de aerosoles y jabones de manos ecológicos que no contengan productos químicos nocivos o nocivos.
+</string>
+        <string name="worklifetip4">No más botellas de agua
+
+puede beber agua fácilmente de su propio vaso o si compra una botella de agua reutilizable</string>
+        <string name="worklifetip5">Planifica tu jornada laboral
+
+Prepare sus comidas y refrigerios el día antes de ir al trabajo, de modo que se salte el auto para comprar alimentos o
+otras cosas.</string>
+        <string name="worklifetip6">Usa el transporte público
+
+Lo mejor para reducir las emisiones es utilizar el transporte público, si no es posible utilizarlo
+lleva tu bicicleta y anda en bicicleta al trabajo.</string>
+        <string name="worklifetip7">Tener decoración verde
+
+Actualice su oficina decorándola con plantas. Las plantas te dan Oxigeno y quitan el
+dióxido de carbono y eso le ayuda a obtener un aire más saludable en su oficina y agregar hermosos
+d</string>
+
+        <string name="shortsocialtip1"> Cuidado con lo que quemas</string>
+        <string name="shortsocialtip2">Mantenga el agua limpia</string>
+        <string name="shortsocialtip3">Iluminación exterior ecológica</string>
+        <string name="shortsocialtip4">No arrojes basura al suelo</string>
+        <string name="shortsocialtip5">No fume en lugares públicos</string>
+        <string name="shortsocialtip6">Deja de usar laca para el cabello</string>
+        <string name="shortsocialtip7">Parrilla más ecológica y al aire libre</string>
+
+        <string name="socialtip1">Cuidado con lo que quemas
+
+Evite quemar latas de aluminio y otras cosas que puedan liberar contaminantes al aire. También debe tener cuidado cuando
+apagar incendios, asegúrese de que se le permita hacer eso y de que no existan prohibiciones locales de incendios debido a condiciones de sequía graves.</string>
+
+        <string name="socialtip2">Mantenga el agua limpia
+
+Los productos artificiales como el maquillaje, los bronceadores pueden ensuciar la fuente de agua local. Reemplazar con repelente de insectos químico
+con un producto natural eficaz.</string>
+        <string name="socialtip3"> Iluminación exterior ecológica
+
+
+La iluminación exterior es en realidad uno de los pasos más fáciles de hacer cuando se trata de crear un espacio vital verde, porque las luces exteriores alimentadas por energía solar están ampliamente disponibles y se pueden comprar en casi cualquier centro de jardinería o tienda para el hogar. Asegúrese de comprar opciones totalmente naturales que estén hechas de cera de soja o cera de abejas y perfumadas con aceites esenciales.</string>
+        <string name="socialtip4">No arrojes basura al suelo
+
+Los pájaros pueden atascarse masticando chicle en el suelo en la calle, y eso puede hacer que los coches los atropellen.
+Especialmente las baterías que pueden tener un efecto muy malo en la naturaleza, y deberían clasificarse.</string>
+        <string name="socialtip5">No fume en lugares públicos
+El tabaquismo afecta tanto al medio ambiente como a las personas de forma negativa. los estudios han demostrado
+que la producción de tabaco causa pérdidas de bosques, y esto hace que la cantidad de dióxido de carbono aumente en
+la atmósfera</string>
+        <string name="socialtip6">Deja de usar laca para el cabello
+la laca para el cabello y otros productos perfumados tienen consecuencias negativas para el medio ambiente,
+Los perfumes no se descomponen, pero muchos continúan en los canales. Cuales
+Supone una carga innecesaria para las plantas de tratamiento.</string>
+        <string name="socialtip7">Parrilla más ecológica y al aire libre
+
+Asar a la parrilla es una parte integral de la vida al aire libre, por lo que probablemente desee asegurarse de seleccionar una parrilla que sea lo más segura posible para sus familiares y amigos. Algunos ejemplos de las mejores opciones de parrilla ecológica disponibles: parrilla de carbón, parrilla de maíz y gas natural</string>
+
+        <string name="shortoutdoorstip1">Use agua fría cuando lave su ropa ...</string>
+        <string name="shortoutdoorstip2">Haz tus propios productos de limpieza ...</string>
+        <string name="shortoutdoorstip3"> Aísle su hogar ...
+</string>
+        <string name="shortoutdoorstip4">Apague las luces cuando salga de la habitación.
+</string>
+        <string name="shortoutdoorstip5">Coma menos carne ...</string>
+        <string name="shortoutdoorstip6">Recicla todo ...</string>
+        <string name="shortoutdoorstip7">Plante algunos árboles ...</string>
+
+        <string name="outdoorstip1">Use agua fría cuando lave su ropa ...
+El agua caliente en realidad fijará las manchas y el agua fría dejará tu ropa igual de limpia.</string>
+        <string name="outdoorstip2">Haz tus propios productos de limpieza ...
+Reemplace todos sus contenedores de plástico para químicos con uno solo.
+* Limpiacristales: 1/4 taza de vinagre blanco, 2 tazas de agua tibia y aceite de árbol de té
+* Limpiador antibacteriano: 1/4 taza de vinagre blanco, 1 cucharada de bicarbonato de sodio, 1 litro de agua caliente y aceites esenciales de naranja
+</string>
+        <string name="outdoorstip3">Aísle su hogar ...
+Las casas que no están bien aisladas son mucho más difíciles de mantener calientes cuando hace frío y frescas cuando hace calor.</string>
+        <string name="outdoorstip4">Apague las luces cuando salga de la habitación.</string>
+        <string name="outdoorstip5">Coma menos carne ...
+No comer carne roja, incluso si es solo dos o tres días a la semana, puede tener un impacto bastante significativo en la reducción de su huella de carbono.</string>
+        <string name="outdoorstip6">Recicla todo ...
+Puede reciclar casi todo, desde baterías hasta papel y automóviles. Antes de tirarlo, tómate un minuto para averiguar si puedes reciclarlo.</string>
+        <string name="outdoorstip7">Plante algunos árboles ...
+Asegurarnos de plantar más árboles nativos para reemplazar los que se han talado para dejar espacio para desarrollos es algo que más personas y empresas deben hacer para proteger el medio ambiente y mejorar la calidad del aire.</string>
+    <string name="popup_message">" Para aplicar los cambios de idioma a toda la aplicación, ¡regrese a la pantalla de inicio! (botón de inicio en la parte inferior de la página)"</string>
+    <string name="press_a_card_for_more_information">" Presione una tarjeta para obtener más información"</string>
+    <string name="discover_tips_by_swiping_left_and_right">" Descubre consejos deslizando el dedo hacia la izquierda y hacia la derecha"</string>
+</resources>
