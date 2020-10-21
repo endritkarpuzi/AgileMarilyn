@@ -308,6 +308,8 @@
         \n(przycisk strony głównej na dole strony)
     </string>
     <string name="name_reminder">Nazwij swoje pryzpomnienie</string>
+    <string name="press_a_card_for_more_information">Wybierz karte, żeby odkryć więcej informacji</string>
+    <string name="discover_tips_by_swiping_left_and_right">Odkrywaj wskazówki przesuwając na lewo i prawo</string>
 
 
 </resources>

@@ -111,6 +111,8 @@
     <string name="shortoutdoorstip7">Använd gröna medel när du grillar</string>
     <string name="helpicon" translatable="false">Hjälp</string>
     <string name="press_a_card_for_more_information">Klicka på ett kort för mer information</string>
+    <string name="popup_message">" För att tillämpa språkändringarna på hela appen, vänligen återgå till startskärmen! (hemknapp längst ner på sidan)"</string>
+    <string name="discover_tips_by_swiping_left_and_right">" Upptäck tips genom att svepa åt vänster och höger"</string>
 
 
 </resources>
