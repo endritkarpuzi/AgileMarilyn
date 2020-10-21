@@ -1,0 +1,50 @@
+Statistical information for the repository 'AgileMarilyn' was gathered on
+2020/10/21.
+The following historical commit information, by author, was found in the
+repository:
+
+Author                     Commits    Insertions      Deletions    % of changes
+Alexis                           1           326              0            5.34
+Cezary Januszek                 17           979            569           25.37
+Endrit                           5            10              3            0.21
+Endrit Karpuzi                  26          1859            954           46.11
+Firel                            2             6              1            0.11
+alexistello                      5           511              0            8.38
+firel-issa                       1           213              0            3.49
+hammo                            5           230              5            3.85
+hammo740                         1           213              0            3.49
+smedra                           4           220              2            3.64
+
+Below are the number of rows from each author that have survived and are still
+intact in the current revision:
+
+Author                     Rows      Stability          Age       % in comments
+Cezary Januszek             799           81.6          0.2                6.88
+Endrit                        7           70.0          0.0                0.00
+Endrit Karpuzi             1838           98.9          3.2                5.71
+Firel                         5           83.3          0.0                0.00
+alexistello                 171           33.5          5.2               10.53
+hammo                       191           83.0          0.6                0.00
+hammo740                    138           64.8          5.0               15.22
+smedra                        5            2.3          0.0                0.00
+
+The following history timeline has been gathered from the repository:
+
+Author                  2020W37    2020W38    2020W39    2020W40    2020W41 
+Alexis                                                    ++++++            
+Cezary Januszek        ---+++++                                .            
+Endrit                        .                                             
+Endrit Karpuzi                   +++++++++   --++++++   -------+   ++++++++ 
+Firel                         .                                             
+alexistello                   .        +++               +++++++            
+firel-issa                            ++++                                  
+hammo                         .                                             
+hammo740                              ++++                                  
+smedra                        .       ++++                                  
+Modified Rows:              360       1230        602       1119        119 
+
+Author                  2020W42    2020W43 
+Cezary Januszek           ---++   ++++++++ 
+Endrit Karpuzi        ---++++++          . 
+hammo                         +            
+Modified Rows:             2125        546 
