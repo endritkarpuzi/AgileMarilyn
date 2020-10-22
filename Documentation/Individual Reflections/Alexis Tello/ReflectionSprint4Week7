@@ -1,0 +1,69 @@
+My personal reflection about this fifth week of the third sprint of this project:
+
+This week, as almost every other week, started with the supervision meeting with Hannes. In which he, together with Håkan, gave us very constructive
+criticism about how our project should look like and how we should finish the different user stories one by one before starting with a new one.
+
+What do you want to learn or understand better?
+
+(A)
+I personally have to say that it's been a hard but also very instructive week, where we've been working a lot with more complex functionalities like the database 
+system and the nofication system. This is something that me, Smedra and Firel have been doing together at the school this pass two weeks, where we've been also 
+implementing it with other functionalities for app, such as the slide-card system that Endrit, Mohammed and Cezary have been working with. 
+
+(A->B) 
+It's been so effecient this week that I must honestly say that we're really there we wanted to be last week at since the app is practically finished and ready 
+to be presented for the supervisors. 
+
+(B) 
+The only thing I'm probably missing right now is maybe more knowledge about other fucntionalities of the app, such as how the card-slide system really works. 
+But to split the bigger user stories in two groups was something we needed to do in order to be more effecient and be able to deliver the product in time.
+
+
+
+How can I help someone else, or the entire team, to learn something new?
+
+(A)
+I'm honestly been trying as hard as I could to help everyone in the group who needed help. Some of us have even been able to get their selves to school so that
+we all could fix some issues together. Me, for example, have been meeting Smedra and Firel in school sometimes after work and other times from morning to evening
+so that could fix the notification system together. This has contributed very much in my own learning on how databases- and notification-systems in Android Studio.
+
+(B)
+The only issue we often have when needing help has been the limited times we actually could meet physically. But giving the conditions and the circumstances we're 
+all having in this difficult times, I'm personally very happy about how we managed to meet up physically to deliver in  a more efficient way.
+
+(A->B) 
+I really hope that all this happening ends soon so that physical meetings can be more accessible in future similar projects. And to even after that we'll need a
+better planning so that we can decide when to meet up and work on the respective project.
+
+
+What is my contribution towards the team’s use of scrum?
+
+(A)
+I think that our way using Scrum in this project has been very effective since we're almost having daily meetings where been talking about what we've been doing to 
+have a better understanding on this agile-method at the same time that we've been improving our skills on this program gitHub. If some of us feels that he/she 
+doesn't understand something then we're all there to help each other as usual.
+
+(B)
+A problem we've been having during these pass week has been commented as contructive criticism by the supervisor last week, we had apparently made a misstake as
+working with the user stories where we started working with different stories at the same time instead of finishing one by one. This is something we need to do
+better next time.
+
+(A->B)
+To do that we'll need to implement a more efficient way to be done with all user sotires by monday. Like for example a better way of communicating with each other 
+so that our group's cooperation can quickly improv our way of delivering stories to the project.
+
+
+What is my contribution toward the team’s deliveries?
+
+(A) 
+The most of my contribution to the team's deliver this past week has been for the most part just the implementing the database- and nofication-system. Where me, 
+Smedra and Firel did a really hard job working with the notification- and the database-system.
+
+(B)
+Now the hard thing I really think we'll have to manage is to be able to connect the database- and notification-system with the card slide-system that Mohammed,
+Endrit and Cezary have been working with.
+
+(A->B)
+To do so I suppose I'll have to put just as much time as I can get to learn more about how to implement the database- and notification-system in different 
+activities as the it will be with card slide-system where the wtrings will be filled with the content of the database. We'll be either way implementing all the
+content in strings, just in case we don't manage to connect all these three systems with each other.
