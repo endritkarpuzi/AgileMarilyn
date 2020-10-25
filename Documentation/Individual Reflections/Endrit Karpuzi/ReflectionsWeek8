@@ -1,0 +1,104 @@
+My final individual reflection for week 8
+
+---------------------------------------------
+
+About the project:
+We have now finished our application and had our presentations. I feel the presentation went very good since we tried to lay focus on the value for the users and 
+for the stakeholders. We could of course have focused more on the actual applications, but our interpretation of the guidelines were that the focus didn’t lie on 
+that aspect, but rather on the former (the values), which according to me makes a lot of sense since that has been an integral part of the project. 
+
+We didn’t have a supervision meeting last week so I’m not sure on how our changes in approaching our stories and deliverables has been met, but I’m optimistic 
+that they would have been positive since we ourselves have seen a positive change on how we define our stories and how our deliverables tie to the user. 
+
+Before I go more in depth about the specific questions about this week, I would like to write a little bit about how the project as a whole has gone.
+
+This project was something that we, or at least I, consider as something new and extremely interesting. I’ve mentioned earlier that I have a little experience 
+in the agile methodology after working in DB Schenker, but as basically an intern there, I never got to go as much in depth as an active part in it (the experience 
+was more like an observer at my job). Getting to be the Scrum master posed even further challenges other than simply being part of it as it required developing 
+even further experiences and knowledge that I didn’t have earlier. 
+
+In the beginning, we as a group were a bit slow - and I’ll put this down to inexperience. After deciding on what we wanted to develop, we pretty much spent the 
+whole first week, and some, on initial designs. In hindsight this was very ineffective as this, while of course important, wasn’t as critical as actually 
+starting on the project. As long as we had a good basis for our project, new designs could be implemented quite effortlessly. I blame myself a bit for this 
+ineffectiveness because as Scrum master, I should have pushed for earlier (or att least well within the deadlines) decisions but I took this as a lesson heading 
+forward.
+
+The following weeks were steadily improving, both by learning from mistakes and gaining experiences but also because of the supervision meetings which were of 
+great importance to us and which we greatly appreciated. I believe that without these meetings, we would be stuck in the same mindset we’ve had earlier and not 
+developing further. We will discuss these areas a lot more in the final report as I feel I’m heading into territory which is best suited for the group as a whole 
+to discuss. Now to the specific questions.
+
+---------------------------------------------
+
+What do I want to learn or understand better?
+I know that the focus isn’t technological tools, but I would like to point out that it’s an aspect I would really like to continue developing. For this project 
+we’ve used GitKraken for the version control and Trello for the scrum boards and I’ve gained knowledge in both these projects and feel comfortable working in 
+them (A). However, the ceiling for at least Git is quite high and there is a lot of room to improve in that area and I would really like to gain even more 
+experience and be very proficient in that (B). This gain of knowledge (A->B) only comes by implementing the use of Git in everyone of my developing projects 
+having forward, and perhaps thinking about using the Git CLI (command line) rather than an interface (GitKraken) since while it’s probably a lot tougher and 
+the learning curve is steeper, the possibilities and control the user has seems a lot larger, which in the long term will only be beneficial.
+
+Other than technological tools, another thing I have to learn or understand better (both as a Scrum member and a Scrum master) is how to approach the solving 
+of tasks and understand the definitions of different aspects better. I’ve continuously mentioned that we struggled a bit with defining the stories and how we 
+work with deliverables and the last few weeks have gotten a lot better in that area and have a good understanding on how to define the stories as to deliver 
+something of value to the user with every task (A). This can, of course, be improved upon greatly where I don’t need several weeks and supervision in order 
+to correctly define the stories, and I’d rather like these things to come naturally to me (B). Maybe a bit repetitive, but again this is an issue that gets 
+solved with more experience (A->B). This was as mentioned a completely new way of working for me, so while I struggled in the beginning, the knowledge I’ve 
+gotten will carry on to the next project and so on.
+
+---------------------------------------------
+
+How can I help someone else, or the entire team, to learn something new?
+As I mentioned in pretty much all of my earlier individual reflections, the approach to this specific question hasn’t changed too much (A). That might be because 
+we as a project group are also friends and feel comfortable with each other, but we have no issues with asking for help when we feel we don’t understand something, 
+and all members are there for each other's disposal and are willing to help one another. When I find something that might be of interest to the rest of the group, 
+or something I feel will make things easier for us etc, I make sure to let the group know about this specific thing, whether it be a technology, an idea or an 
+approach. So simply by being there for the group during discussion, but also outside of “working hours”, by trying to help through texts in group chats in case 
+I’m not available for a verbal discussion. 
+
+This is probably the question that I feel has been working flawlessly and without issues for us, and I don’t really see any way to improve the situation (B) other 
+than continuing to put work without prestige and understanding that when one members learns something and passes the information, the whole group benefits from it (A->B).
+
+---------------------------------------------
+
+What is my contribution towards the team’s use of Scrum?
+By (A) regularly holding meetings where we discuss the current sprint we’re in, and reflect upon what we’ve been lacking in earlier sprints (with help from the 
+supervision meetings) I feel my main contribution as a Scrum master has been to give everyone room for ideas and thoughts and allowing voices to be heard. Primarily 
+allowing stories to be chosen out of preference, when needed I’ve also delegated stories (as the two largest/most critical, the slide-system and notification system). 
+I’ve tried to continuously ask during meetings how a specific task is going and tried to get members to define whether or not it’s going forward and I feel it has 
+worked better and better for each week.
+
+This is an area which I feel can be improved for future projects, where the Scrum methodology is deeply ingrained and we intuitively know how to work during sprints 
+(B). I also feel there’s room for improvement as a scrum master in future projects, where I perhaps even more decisively call for members to pick up pace, or the 
+contrary, notice when one person is doing too much. By simply keeping constant and regular meetings where each person can talk about what they’re doing, how they’re 
+doing, and whether or not they feel others are slacking or others are doing too much is a way to reduce this gap (A->B).
+
+---------------------------------------------
+
+What is my contribution towards the team’s deliveries?
+We’ve struggled a bit in this aspect earlier, as our deliveries weren’t user-focused. We’ve however changed our approach so that one deliverable gives something of 
+visible value to the user (A). This week has mostly been finishing up in preparation for the presentation and I’ve also built the APK and uploaded results from 
+GitInspector. I’ve also, together with all the members, prepared for the presentation and I tried to put a lot of focus on the value for the user and the shareholders. 
+In general, I’ve tried to choose stories I’ve felt comfortable with but also stories which might have not been preferable, but which I’ve seen as an opportunity to 
+learn something new as well.
+
+I feel my approach towards the deliveries has been improved significantly since the start of the project, but I also have a clear view on how I want it to be in 
+future (B). I want the stories to be well defined, where one task gives one “result” for the user, with the stories not being too big but rather very well specified 
+for a certain functionality. I’d also like each story to have a deadline and a definition of done, which we didn’t implement until later in the project. All these 
+improvements and changes would, in my opinion, make the deliveries a lot clearer and easier to handle (A->B).
+
+---------------------------------------------
+
+Final thoughts and preparation for the final report:
+As a whole, I’m very satisfied with the project. I feel I’ve learnt a lot of new things, both regarding technology, but especially regarding methodology. This was a 
+sort of new area for me and I’m happy with the knowledge I gained. There have also been struggles and difficulties but nothing we couldn’t manage and we will discuss 
+these things more in depth in the final report.
+
+The final report is the only thing left in this course and the deadline will be 5 PM this coming Friday. We feel that we have a lot to reflect upon and write in this 
+final report, both positive and things we’ve learned, but also struggles we’ve faced during the project. We are well prepared for the report and I feel optimistic for it.
+
+Endrit Karpuzi
+
+
+
+
