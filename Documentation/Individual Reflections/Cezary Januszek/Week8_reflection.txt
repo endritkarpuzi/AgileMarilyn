@@ -1,0 +1,59 @@
+My individual reflection week 8:
+
+This was the last week of our project. We managed to deliver our app on time and had the opportunity to
+present it on Wednesday to other classmates as well as to the examiner of the course.
+
+What is the current situation? (A)
+
+During this week, we were putting everything together to deliver our final product for the Wednesday's
+presentation. The very last thing we left for these last days, was doing the translations to support
+the different languages we wanted to implement in the app. My task was to translate the app to polish 
+and french, as those are languages that only i am speaking in the group. We also had a major bug left,
+concerning the access to the correspondent slide(tip) after choosing the wanted topic card. I fortunately
+managed to resolve it to be able to present the functionnality we wanted. Merging some last changes from
+different branches to the master was not the easiest task for all the team members, so those who have already
+gained more experience in doing that were able to help the others.
+
+In the end, we added some Documentation and an APK to our git repo, as well as we cleaned it a little bit
+before the final submission.
+
+On Wednesday we had the final presentation that we prepared a little bit the day before. We splitted the different parts
+among all the team members and we agreed who will mainly answer the questions. I am very happy with how we presented our
+choice of supporting the SDG we choose and the way we explained what value our app can bring to the users. I think that in
+the end it was a successful presentation and all the team was happy with it.
+
+
+What I want the situation to be in a future similar project? (B)
+
+In my opinion we learned as a team a lot, especially from our own mistakes. I know that in a similar future project, I would
+need to spend more time to understand and set the base concepts needed in the early beginning of the project.
+We spent some time correcting our approach and claryfing some aspects we did not really get and applied from the start. I am aware that
+this influenced some of the teams delays in deliveries and my own. I would like to have a more regular and clear schedule of meetings
+and deliveries, as it was an aspect that we were struggling with a lot in the first part of the project. I would expect from myself to
+be also more regular in my own work. Some weeks were very productive from my side, when some others were not at all.
+
+In a similar future project I would like to also experiece a better use of the Scrum board to keep track of all the made changes and issues.
+We were mostly communicating them on our meetings and team conversation, but putting them on our boards late.
+An aspect I would most definitely keep and want to have in every team project is the support we were showing to each other and help that every
+team member was providing when needed. The friendliness and kindness I experienced when joining this team that I did not know before is also a key
+to a good and productive wteam work.
+
+Plan to reduce the gap in the future (A->B):
+
+The most important is to take all the time needed, even before starting the implementation to understand the concepts that the team will use in the project.
+Discovering the used tools soon enough is also very helpful in order to be productive from the start of the implementation and to be able to provide help to
+those who will have trubbles with using them. Setting a very precise plan of work from the beginning is of great help to have as regular meetings and deliveries
+as possible. I think that an important element to work on in each project is efficient brain-storming during team meetings to have the best ideas discussed on the
+spot. Keeping motivated all the teammates is also necessary at times when the productivity is falling down. All this can be accomplished by an excellent team
+communication; in our case the communication was pretty good, but as we were lacking some of these elements it is still an aspect to be worked on by each one of us.
+
+
+In the end I am very satisfied with the outcome of this course. I met great people in my team and I learned a lot throughout this project. My knowledge and use of Git has considerably
+improved to the point that I was feeling confident enough to explain and help other with it. I discoverd some new tools like Trello and of course Android Studio. Developing a first 
+android app was a great experience and I am very glad that I had the opportunity to learn how to work in this new environement. It was also my first time working in a such a big group 
+for a project and I have experience all its advantages as well as minor disadvantages. This first taste of a software developping project was a great preview of what I can expect from future
+projects and I am definitely looking forward to work in some more!
+
+
+
+
