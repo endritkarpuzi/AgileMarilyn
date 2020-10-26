@@ -1,0 +1,73 @@
+My personal reflection about this eighth week of the fifth sprint of this project:
+
+This is the last week of this project, which means that this will also be my last reflection about how my work has been during this past week. We have actually
+taken all the criticism we got last week and actually use it as a motivation to just finish delivering our product for the presentation this week.
+
+
+
+What do you want to learn or understand better?
+
+(A)
+I personally have to admit that this has been the calmest week of all we've had until now, since we've ,pretty much only, been working with the final report for
+the project. This is something that me and the whole group have been doing together at mostly evenings this passed week, where we've been also commenting on how
+we could have improved our app more for even better results.
+
+(A->B) 
+We're usually pretty effecient when it comes to writing and formulating different sprints and aspects of the project so I think that that's the reason our effort
+level hasn't been as high as with the other sprints.
+
+(B) 
+The only thing I'm probably missing right now is maybe more knowledge about how the database-functionality can be implemented with the cardslide-system of the app, 
+since this is something that I sadly couldn't manage to do in time. But I do have to remind that it was a good thing that we had strings in case it didn't work...
+
+
+
+How can I help someone else, or the entire team, to learn something new?
+
+(A)
+I'm honestly been trying as hard as I could to help everyone in the group who needed help. Some of us have even been able to get their selves to school so that
+we all could fix some issues together. Me, for example, have been meeting Smedra and Firel in school sometimes after work and other times from morning to evening
+so that could fix the notification system together. This has contributed very much in my own learning on how databases- and notification-systems in Android Studio.
+
+(B)
+The only issue we often have when needing help has been the limited times we actually could meet physically. But giving the conditions and the circumstances we're 
+all having in this difficult times, I'm personally very happy about how we managed to meet up physically to deliver in  a more efficient way.
+
+(A->B) 
+I really hope that all this happening ends soon so that physical meetings can be more accessible in future similar projects. And to even after that we'll need a
+better planning so that we can decide when to meet up and work on the respective project.
+
+
+
+What is my contribution towards the team’s use of scrum?
+
+(A)
+I think that our way using Scrum in this project has been very effective since we're almost having daily meetings where been talking about what we've been doing to 
+have a better understanding on this agile-method at the same time that we've been improving our skills on this program gitHub. If some of us feels that he/she 
+doesn't understand something then we're all there to help each other as usual.
+
+(B)
+A problem we've been having during these pass week has been commented as contructive criticism by the supervisor last week, we had apparently made a misstake as
+working with the user stories where we started working with different stories at the same time instead of finishing one by one. This is something we need to do
+better next time.
+
+(A->B)
+To be able to solve this issue we've actually had implemented a more efficient way to be done with all user sotires by monday. We manage to do it thanks to a small
+change in the way we were communicating with each other so that our group's cooperation could get a quick improvement on the delivery of the different user stories 
+of this project.
+
+
+
+What is my contribution toward the team’s deliveries?
+
+(A) 
+The most of my contribution to the team's deliver this passed week has practically been adjusting the final changes of the program at the beginning of the 
+week just before the presentation and contributing with the final report as well.
+
+(B)
+The only thing that was left to do and that honestly drove me crazy was trying to implement the local database-system with the cardslide-system.
+
+(A->B)
+So I suppose I'll just have to learn more about this topic so that I can manage to implement those two functionalities, with getting so many errors, for future 
+projects. One thing I still think could have been part of the problem, besides the code, is using gitKraken. Since I noticed that every time I pulled their codes
+into my computer I got errors with the debugs-folders (which can't be edited according to Android Studio).
