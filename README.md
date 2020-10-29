@@ -3,11 +3,11 @@
 Who is who?
 
 endritkarpuzi - Endrit Karpuzi;
- CezJan16 - Cezary Januszek;
- alexistello - Alexis Tello;
- smedra - Smedra Touma;
- hammo740 - Mohammed Al-Fatlawi;
- firel-issa - Firel Issa;
+CezJan16 - Cezary Januszek;
+alexistello - Alexis Tello;
+smedra - Smedra Touma;
+hammo740 - Mohammed Al-Fatlawi;
+firel-issa - Firel Issa;
 
 
 What is in our repo?
@@ -25,6 +25,8 @@ Documentation - contains all the team documentation for this project:
  Application/GreenTipsAlpha1 - project folder of our app "GreenTips" 
  
  .gitignore - contains all the files we judged that should be ignored by Git when pushing/pulling
+ 
+ Final report-DAT257 is the final report of our project
  
 
 
