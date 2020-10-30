@@ -1,0 +1,33 @@
+Test documentation:
+
+As our "Green Tips" is a simple informative app, we did not find the need to have unit tests for most of its functionalities. 
+We tested them directly on the emulator, simulating the different behaviors a user could have. We have listed here the main elements of our appp that we found needed to be tested by 
+a team member. Some of these tests revealed some major bugs that we have managed to resolve.
+
+1. Test of splashscreen 
+The splashcreen should appear for only 4 seconds and then transition to the welcome screen.
+Issues/bugs: when testing we have noticed that it was possible to go back from the Welcome Screen to the splashscreen, where the user would be stack (then his only solution would
+be to restart the app and not redo the same mistake). The bug was resolved by making a Handler responsible for the splashscreen delay of 4s instead of a Timer instance.
+
+2. Test of icons and tabs
+Very simple test making sure that the tabs and icons(language, information and help) redirect to the corresponding pages.
+
+3. Test of contact form
+The test consisted in checking if the user can fill in the form, using the phone keyboard, write a message and if the message is truly sent. As we have created a special mail for this
+app greentips123@gmail.com we were able to to check if the sending mail functionality truly works. After filling the form the user is redirected to his mail box to send the filled mail
+on the app's address. The mail was then received on the mentioned address and could be read with all the informations provided.
+
+4. Test of languages 
+At every moment the user can want to change the language of the app. A first test consisted in checking that the language icon on each page is redirecting to the same language page.
+Then we had to check that after choosing the language the app's content (thus all the strings) is really translated to the desired language. 
+Issues/bugs: we noticed that in order to apply the languages changes to the whole app we had to go to the home screen. We did not find an easy solution to avoid this, thus we decided
+on poping-up a message informing the user to return to the home screen to apply those changes.
+After implementing this solution we had to also check that the pop-up appears correctly and after it disappears (we made it appear for 4s) the language change was applied to the language page.
+The language test was considered as past if after going back to the home screen all the tranlations were correctly in place and the app was working in the new language.
+
+5. Test of topic-slide redirection
+This test had to check that choosing a topic redirects to the corresponding tip slide-card. In this case we had a major bug, consisiting in that after pressing each topic button we
+were going always to the first tip card and not the corresponding one to the topic. We managed to fix it after some days of testing and brainstorming. The final test had to make sure
+that when a user chooses the 3rd topic whatever category he want he will be able to access directly the 3rd tip card. Then he can swipe left to see the 2nd tip or right to see the next
+(4th) tip. The test was performed on all topics in all categories to make sure that all the redirections work as expected.
+
