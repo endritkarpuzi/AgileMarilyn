@@ -14,22 +14,25 @@ What is in our repo?
 
 APK - contains the APK of our app
 
+Application/GreenTipsAlpha1 - project folder of our app "GreenTips" 
+
 Documentation - contains all the team documentation for this project: 
+ -social contract
+ -product backlog
+ -KPIs
+ -KPI chart 
+ -Definition of Done
+ -Tips card layout 
+ -Market shares and thoughts
+ 
+HelloWorldAndroidStudio - contains the HelloWorld project that we created in the first week of the project
 
- -> our weekly individual reflections in "Individual Reflections" folder
- 
- -> our weekly team reflections in "Team reflections" folder
- 
- -> "KPI, Backlog and Social Contract" with our social contract, product backlog, KPIs, KPI chart and definition of done
- 
- Application/GreenTipsAlpha1 - project folder of our app "GreenTips" 
- 
- .gitignore - contains all the files we judged that should be ignored by Git when pushing/pulling
- 
- Final report-DAT257 is the final report of our project
- 
+Reflections - contains the team and individual reflections in corresponding folders. For individual reflections each team member has its his/her own folder. 
 
-
+.gitignore - contains all the files we judged that should be ignored by Git when pushing/pulling
+ 
+Final report-DAT257 is the final report of our project
+ 
 Scrum boards: 
  As recommended by our supervisor Hannes in week 6, we changed our approach and made a separate Scrum board for each coming sprint:
 
