@@ -1,6 +1,8 @@
 Instruction on how to run our app "Green Tips":
 
-1. Open our project folder GreenTipsAlpha1 from the Application folder, in Android Studio. (if some build warnings appear accept to modify them with your local build).
+1. Open our project folder GreenTipsAlpha1 from the Application folder, in Android Studio.
+   1.1. If error "Unsuported Modules" appears, do the following: Close the project -> Close Android Studio -> Go to the application folder -> Remove .idea
+         -> Start Android Studio -> Import (important, you must Import and not open as usual) the application.
 2. Open the AVD Manager in Tools to select/add the Pixel 3 (API 30) as your virtual device, in order to have the best support
    (we emulated our app mostly on this device during our project development).
 3. Run 'app' on the chosen previously emulator.
