@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">GreenTips</string>
-    <string name="welcome">Welcome to Greentips!</string>
-    <string name="about">About</string>
-    <string name="helloworld">Hello World!</string>
-</resources>
