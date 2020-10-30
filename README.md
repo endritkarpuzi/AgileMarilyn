@@ -18,11 +18,17 @@ Application/GreenTipsAlpha1 - project folder of our app "GreenTips"
 
 Documentation - contains all the team documentation for this project: 
  -social contract
+ 
  -product backlog
+ 
  -KPIs
+ 
  -KPI chart 
+ 
  -Definition of Done
- -Tips card layout 
+ 
+ -Tips card layout (design document)
+ 
  -Market shares and thoughts
  
 HelloWorldAndroidStudio - contains the HelloWorld project that we created in the first week of the project
